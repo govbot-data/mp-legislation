@@ -1,10 +1,10 @@
 {
   "legislative_session": "24",
-  "identifier": "SR 24-01",
-  "title": "To adopt the Interim Rules of Procedure of the Senate",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "identifier": "HB 24-75",
+  "title": "To authorize the continued payment of employer premiums for the Group Health & Life Insurance (GHLI) Program by permitting expenditure of $3,747,585.00 recently identified by the Governor that shall be appropriated by the Legislature for FY 2026.",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
-    "resolution"
+    "bill"
   ],
   "subject": [],
   "abstracts": [],
@@ -13,8 +13,8 @@
   "actions": [
     {
       "description": "Date Introduced",
-      "date": "2025-01-23",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "date": "2025-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction"
       ],
@@ -24,9 +24,9 @@
       }
     },
     {
-      "description": "Senate Final Reading",
-      "date": "2025-01-13",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "House Final Reading",
+      "date": "2025-12-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-2"
       ],
@@ -38,21 +38,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Cruz",
+      "name": "Attao, BJT",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Cruz\"}",
+      "person_id": "~{\"name\": \"Attao, BJT\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "SR 24-01",
+      "note": "HB 24-75",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/senate/sen_res/24/24-01.pdf",
+          "url": "https://cnmileg.net/documents/house/hse_bills/24/HB24-75.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -64,7 +64,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=19809&secID=2",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20024&secID=1",
       "note": ""
     }
   ],
