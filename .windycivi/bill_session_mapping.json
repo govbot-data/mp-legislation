@@ -104,6 +104,11 @@
     "name": "24th Commonwealth Legislature",
     "date_folder": "2025-2026"
   },
+  "SR24-12": {
+    "session_id": "24",
+    "name": "24th Commonwealth Legislature",
+    "date_folder": "2025-2026"
+  },
   "HB24-30": {
     "session_id": "24",
     "name": "24th Commonwealth Legislature",
@@ -265,6 +270,11 @@
     "date_folder": "2025-2026"
   },
   "HB24-35": {
+    "session_id": "24",
+    "name": "24th Commonwealth Legislature",
+    "date_folder": "2025-2026"
+  },
+  "SB24-55": {
     "session_id": "24",
     "name": "24th Commonwealth Legislature",
     "date_folder": "2025-2026"

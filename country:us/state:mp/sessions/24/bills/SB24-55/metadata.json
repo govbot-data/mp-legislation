@@ -1,10 +1,10 @@
 {
   "legislative_session": "24",
-  "identifier": "HCR 24-3",
-  "title": "To further approve revenues and resources of the Commonwealth of the Northern Mariana Islands, as identified under Article III, Section 9(a) of the Constitution, as amended, and Title 1, Division 7, of the Commonwealth Code, for Fiscal Year 2026, beginning October 1, 2025, and ending on September 30, 2026.",
-  "from_organization": "~{\"classification\": \"lower\"}",
+  "identifier": "SB 24-55",
+  "title": "Patrick Henry Camacho Castro (Higher Fine Zone)",
+  "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
-    "concurrent resolution"
+    "bill"
   ],
   "subject": [],
   "abstracts": [],
@@ -12,23 +12,11 @@
   "other_identifiers": [],
   "actions": [
     {
-      "description": "House Final Reading",
-      "date": "2025-12-22",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "reading-2"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-05T12:23:05Z"
-      }
-    },
-    {
-      "description": "Senate Final Reading",
-      "date": "2025-12-22",
+      "description": "Date Introduced",
+      "date": "2025-12-19",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-2"
+        "introduction"
       ],
       "related_entities": [],
       "_processing": {
@@ -38,21 +26,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Sablan, JP",
+      "name": "Babauta",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Sablan, JP\"}",
+      "person_id": "~{\"name\": \"Babauta\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "HCR 24-3",
+      "note": "SB 24-55",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/house/hse_conres/24/HCR24-3.pdf",
+          "url": "https://cnmileg.net/documents/senate/sen_bills/24/24-55.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -64,7 +52,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=20036&secID=1",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20037&secID=2",
       "note": ""
     }
   ],

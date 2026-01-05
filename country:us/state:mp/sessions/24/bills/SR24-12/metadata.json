@@ -1,10 +1,10 @@
 {
   "legislative_session": "24",
-  "identifier": "HCR 24-3",
-  "title": "To further approve revenues and resources of the Commonwealth of the Northern Mariana Islands, as identified under Article III, Section 9(a) of the Constitution, as amended, and Title 1, Division 7, of the Commonwealth Code, for Fiscal Year 2026, beginning October 1, 2025, and ending on September 30, 2026.",
-  "from_organization": "~{\"classification\": \"lower\"}",
+  "identifier": "SR 24-12",
+  "title": "Jacqueline Ayuyu Quitugua",
+  "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
-    "concurrent resolution"
+    "resolution"
   ],
   "subject": [],
   "abstracts": [],
@@ -12,11 +12,11 @@
   "other_identifiers": [],
   "actions": [
     {
-      "description": "House Final Reading",
-      "date": "2025-12-22",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "Date Introduced",
+      "date": "2025-12-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-2"
+        "introduction"
       ],
       "related_entities": [],
       "_processing": {
@@ -38,21 +38,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Sablan, JP",
+      "name": "Manglona, Donald",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Sablan, JP\"}",
+      "person_id": "~{\"name\": \"Manglona, Donald\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "HCR 24-3",
+      "note": "SR 24-12",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/house/hse_conres/24/HCR24-3.pdf",
+          "url": "https://cnmileg.net/documents/senate/sen_res/24/24-12.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -64,7 +64,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=20036&secID=1",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20038&secID=2",
       "note": ""
     }
   ],
