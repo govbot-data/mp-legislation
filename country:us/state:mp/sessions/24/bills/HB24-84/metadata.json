@@ -1,10 +1,10 @@
 {
   "legislative_session": "24",
-  "identifier": "SR 24-01",
-  "title": "Saipan Eagle Club",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "identifier": "HB 24-84",
+  "title": "To authorize the expenditure of $2,105,563.00 identified by the Governor as a surplus from Fiscal Year 2025 revenues that shall be appropriated by the Legislature to the Public School System and to the 25% Retirees\u2019 Pension Obligation.",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
-    "resolution"
+    "bill"
   ],
   "subject": [],
   "abstracts": [],
@@ -12,9 +12,21 @@
   "other_identifiers": [],
   "actions": [
     {
-      "description": "Senate Final Reading",
-      "date": "2025-04-25",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "Date Introduced",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:25:04Z"
+      }
+    },
+    {
+      "description": "House Final Reading",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-2"
       ],
@@ -26,21 +38,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Babauta",
+      "name": "Attao, BJT",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Babauta\"}",
+      "person_id": "~{\"name\": \"Attao, BJT\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "SR 24-01",
+      "note": "HB 24-84",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/senate/sen_comres/24/24-01.pdf",
+          "url": "https://cnmileg.net/documents/house/hse_bills/24/HB24-84.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -52,7 +64,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=19896&secID=2",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20042&secID=1",
       "note": ""
     }
   ],

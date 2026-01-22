@@ -1,10 +1,10 @@
 {
   "legislative_session": "24",
-  "identifier": "SR 24-01",
-  "title": "Saipan Eagle Club",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "identifier": "HJR 24-10",
+  "title": "To honor and congratulate CITADEL Pacific Ltd. (CPL) on the  occasion of its 20th Anniversary.",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
-    "resolution"
+    "joint resolution"
   ],
   "subject": [],
   "abstracts": [],
@@ -12,8 +12,32 @@
   "other_identifiers": [],
   "actions": [
     {
+      "description": "Date Introduced",
+      "date": "2025-12-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:25:04Z"
+      }
+    },
+    {
+      "description": "House Final Reading",
+      "date": "2025-12-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-22T12:25:04Z"
+      }
+    },
+    {
       "description": "Senate Final Reading",
-      "date": "2025-04-25",
+      "date": "2025-12-30",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "reading-2"
@@ -26,21 +50,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Babauta",
+      "name": "Sablan, JP",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Babauta\"}",
+      "person_id": "~{\"name\": \"Sablan, JP\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "SR 24-01",
+      "note": "HJR 24-10",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/senate/sen_comres/24/24-01.pdf",
+          "url": "https://cnmileg.net/documents/house/hse_jres/24/HJR24-10.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -52,7 +76,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=19896&secID=2",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20047&secID=1",
       "note": ""
     }
   ],

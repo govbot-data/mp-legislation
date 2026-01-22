@@ -1,10 +1,10 @@
 {
   "legislative_session": "24",
-  "identifier": "SR 24-01",
-  "title": "Saipan Eagle Club",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "identifier": "HLB 24-41",
+  "title": "To re-appropriate Eighty Thousand Dollars ($80,000.00) allotted under Saipan Local Law 20-26; and for other purposes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
-    "resolution"
+    "bill"
   ],
   "subject": [],
   "abstracts": [],
@@ -12,11 +12,11 @@
   "other_identifiers": [],
   "actions": [
     {
-      "description": "Senate Final Reading",
-      "date": "2025-04-25",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "Date Introduced",
+      "date": "2026-01-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "reading-2"
+        "introduction"
       ],
       "related_entities": [],
       "_processing": {
@@ -26,21 +26,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Babauta",
+      "name": "Aquino, JR, DI",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Babauta\"}",
+      "person_id": "~{\"name\": \"Aquino, JR, DI\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "SR 24-01",
+      "note": "HLB 24-41",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/senate/sen_comres/24/24-01.pdf",
+          "url": "https://cnmileg.net/documents/house/hse_lb/24/HLB24-41.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -52,7 +52,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=19896&secID=2",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20052&secID=1",
       "note": ""
     }
   ],
