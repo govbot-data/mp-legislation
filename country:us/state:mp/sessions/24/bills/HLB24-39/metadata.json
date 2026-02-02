@@ -22,6 +22,42 @@
       "_processing": {
         "log_file_created": "2026-01-22T12:25:04Z"
       }
+    },
+    {
+      "description": "House First Reading",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-02T12:32:30Z"
+      }
+    },
+    {
+      "description": "House Final Reading",
+      "date": "2026-01-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-02T12:32:30Z"
+      }
+    },
+    {
+      "description": "T.L.L. 24-10",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-02T12:32:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +82,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "T.L.L. 24-10",
+      "links": [
+        {
+          "url": "https://cnmileg.net/documents/files/24TH%20UPDATE/TLL24-10.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -64,6 +111,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:25:04Z"
+    "logs_latest_update": "2026-02-02T12:32:30Z"
   }
 }

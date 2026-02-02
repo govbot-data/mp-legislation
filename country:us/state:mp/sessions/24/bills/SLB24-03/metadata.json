@@ -1,10 +1,10 @@
 {
   "legislative_session": "24",
-  "identifier": "SR 24-01",
-  "title": "To adopt the Interim Rules of Procedure of the Senate",
+  "identifier": "SLB 24-03",
+  "title": "Tinian Casino Gaming Control Commission members' compensation",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
-    "resolution"
+    "bill"
   ],
   "subject": [],
   "abstracts": [],
@@ -13,7 +13,7 @@
   "actions": [
     {
       "description": "Date Introduced",
-      "date": "2025-01-23",
+      "date": "2025-11-17",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "introduction"
@@ -24,8 +24,20 @@
       }
     },
     {
+      "description": "Senate First Reading",
+      "date": "2025-11-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-02T12:32:30Z"
+      }
+    },
+    {
       "description": "Senate Final Reading",
-      "date": "2025-01-13",
+      "date": "2025-12-22",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "reading-2"
@@ -38,21 +50,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Cruz",
+      "name": "Hofschneider",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Cruz\"}",
+      "person_id": "~{\"name\": \"Hofschneider\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "SR 24-01",
+      "note": "SLB 24-03",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/senate/sen_res/24/24-01.pdf",
+          "url": "https://cnmileg.net/documents/senate/sen_lb/24/24-03.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -64,7 +76,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=19809&secID=2",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20059&secID=2",
       "note": ""
     }
   ],

@@ -22,6 +22,42 @@
       "_processing": {
         "log_file_created": "2025-12-09T21:33:01Z"
       }
+    },
+    {
+      "description": "House First Reading",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-02T12:32:30Z"
+      }
+    },
+    {
+      "description": "House Final Reading",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-02T12:32:30Z"
+      }
+    },
+    {
+      "description": "R.L.L. 24-06",
+      "date": "2026-01-27",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-02T12:32:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -46,6 +82,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "R.L.L. 24-06",
+      "links": [
+        {
+          "url": "https://cnmileg.net/documents/files/24TH%20UPDATE/RLL%2024-06%20(HLB%2024-35%20To%20appropriate%20%2416%2C925%20of%20the%20Rota%20Poker%20License%20Fee%20Account%20under%20BU%203302%3B%20and%20for%20other%20purposes.).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -64,6 +111,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-09T21:33:01Z"
+    "logs_latest_update": "2026-02-02T12:32:30Z"
   }
 }
