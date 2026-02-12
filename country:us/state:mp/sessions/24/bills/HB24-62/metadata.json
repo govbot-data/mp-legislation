@@ -10,7 +10,44 @@
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Date Introduced",
+      "date": "2025-10-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T12:37:55Z"
+      }
+    },
+    {
+      "description": "House First Reading",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T12:37:55Z"
+      }
+    },
+    {
+      "description": "House Final Reading",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-02-12T12:37:55Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Aldan, VR",
@@ -51,6 +88,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:29:43Z"
+    "logs_latest_update": "2026-02-12T12:37:55Z"
   }
 }
