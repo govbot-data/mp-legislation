@@ -1,10 +1,10 @@
 {
   "legislative_session": "24",
-  "identifier": "HB 24-63",
-  "title": "To amend Title 4 sections 1991 to 1995 relating to the 3% construction tax on gross revenues derived from certain non-residential construction projects and to enact a new section 1996 pertaining to Applicability; and for other purposes.",
+  "identifier": "HR 24-25",
+  "title": "To Congratulate and Honor all the women in the Commonwealth as we celebrate their contributions and achievements during the month of March 2026 proclaimed as CNMI Women\u2019s Month and March 8th as International Women\u2019s Day.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
-    "bill"
+    "resolution"
   ],
   "subject": [],
   "abstracts": [],
@@ -12,35 +12,11 @@
   "other_identifiers": [],
   "actions": [
     {
-      "description": "Date Introduced",
-      "date": "2025-09-30",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "introduction"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:29:43Z"
-      }
-    },
-    {
       "description": "House Final Reading",
-      "date": "2025-10-09",
+      "date": "2026-02-20",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-2"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:29:43Z"
-      }
-    },
-    {
-      "description": "Sent to Governor",
-      "date": "2026-02-20",
-      "organization_id": "~{\"classification\": \"executive\"}",
-      "classification": [
-        "executive-receipt"
       ],
       "related_entities": [],
       "_processing": {
@@ -50,21 +26,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Sablan, JP",
+      "name": "Yangetmai, DK",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Sablan, JP\"}",
+      "person_id": "~{\"name\": \"Yangetmai, DK\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "HB 24-63",
+      "note": "HR 24-25",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/house/hse_bills/24/HB24-63.pdf",
+          "url": "https://cnmileg.net/documents/house/hse_res/24/HR24-25.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -76,7 +52,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=19986&secID=1",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20072&secID=1",
       "note": ""
     }
   ],
