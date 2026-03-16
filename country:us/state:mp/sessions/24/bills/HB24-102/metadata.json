@@ -1,8 +1,8 @@
 {
   "legislative_session": "24",
-  "identifier": "SLI 24-04",
-  "title": "Condominnium",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "identifier": "HB 24-102",
+  "title": "To amend the Fire Safety Code to apply the International Fire Code as the guiding standard in the Commonwealth.",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
@@ -12,23 +12,23 @@
   "other_identifiers": [],
   "actions": [
     {
-      "description": "Date Introduced",
-      "date": "2026-01-16",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "House First Reading",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "introduction"
+        "reading-1"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-02-26T12:37:28Z"
+        "log_file_created": "2026-03-16T12:43:46Z"
       }
     },
     {
-      "description": "SENATE-REDW",
-      "date": "2026-03-06",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "House Final Reading",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "referral-committee"
+        "reading-2"
       ],
       "related_entities": [],
       "_processing": {
@@ -38,21 +38,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Manglona",
+      "name": "Rangamar, EJM",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Manglona\"}",
+      "person_id": "~{\"name\": \"Rangamar, EJM\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "SLI 24-04",
+      "note": "HB 24-102",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/senate/sen_legini/24/24-04.pdf",
+          "url": "https://cnmileg.net/documents/house/hse_bills/24/HB24-102.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -64,7 +64,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=20071&secID=2",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20089&secID=1",
       "note": ""
     }
   ],
