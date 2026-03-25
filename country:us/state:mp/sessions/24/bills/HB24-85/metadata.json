@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mp-24-hb2485"
+    }
+  ],
   "actions": [
     {
       "description": "Date Introduced",
@@ -25,38 +29,26 @@
     },
     {
       "description": "House First Reading",
-      "date": "2026-01-16",
+      "date": "2026-03-19",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-1"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-22T12:25:04Z"
+        "log_file_created": "2026-03-25T12:40:16Z"
       }
     },
     {
       "description": "House Final Reading",
-      "date": "2026-01-16",
+      "date": "2026-03-18",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-2"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-01-22T12:25:04Z"
-      }
-    },
-    {
-      "description": "HOUSE-JGO\nHOUSE-WM",
-      "date": "2026-01-16",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-01-22T12:25:04Z"
+        "log_file_created": "2026-03-25T12:40:16Z"
       }
     }
   ],
@@ -100,6 +92,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-22T12:25:04Z"
+    "logs_latest_update": "2026-03-25T12:40:16Z"
   }
 }
