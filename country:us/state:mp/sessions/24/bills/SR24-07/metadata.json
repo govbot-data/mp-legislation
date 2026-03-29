@@ -1,7 +1,7 @@
 {
   "legislative_session": "24",
   "identifier": "SR 24-07",
-  "title": "Chief Boatswain's Mate Richard Hofschneider",
+  "title": "Late Juan Mundo Santos",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -17,36 +17,24 @@
   "actions": [
     {
       "description": "Date Introduced",
-      "date": "2025-07-31",
+      "date": "2026-03-16",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "introduction"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-03-28T12:29:49Z"
-      }
-    },
-    {
-      "description": "Senate Final Reading",
-      "date": "2025-07-31",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-03-28T12:29:49Z"
+        "log_file_created": "2026-03-29T12:30:14Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "King-Nabors, Cruz and Hofschneider",
+      "name": "Manglona, D",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"King-Nabors, Cruz and Hofschneider\"}",
+      "person_id": "~{\"name\": \"Manglona, D\"}",
       "organization_id": null
     }
   ],
@@ -56,7 +44,7 @@
       "note": "SR 24-07",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/senate/sen_res/24/24-07.pdf",
+          "url": "https://cnmileg.net/documents/senate/sen_comres/24/24-07.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -68,7 +56,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=19945&secID=2",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20094&secID=2",
       "note": ""
     }
   ],
@@ -80,6 +68,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-28T12:29:49Z"
+    "logs_latest_update": "2026-03-29T12:30:14Z"
   }
 }
