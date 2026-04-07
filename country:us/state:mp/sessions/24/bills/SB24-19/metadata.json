@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mp-24-sb2419"
+    }
+  ],
   "actions": [
     {
       "description": "Date Introduced",
@@ -21,6 +25,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:29:43Z"
+      }
+    },
+    {
+      "description": "House Final Reading",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-07T12:54:19Z"
       }
     },
     {
@@ -76,6 +92,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:29:43Z"
+    "logs_latest_update": "2026-04-07T12:54:19Z"
   }
 }
