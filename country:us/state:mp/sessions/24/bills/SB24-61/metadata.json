@@ -1,26 +1,26 @@
 {
   "legislative_session": "24",
-  "identifier": "SR 24-01",
-  "title": "Saipan Eagle Club",
+  "identifier": "SB 24-61",
+  "title": "Student Protection from AI-Generated Sexual Exploitation Act of 2026",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
-    "resolution"
+    "bill"
   ],
   "subject": [],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "ocd-bill-mp-24-sr2401"
+      "identifier": "ocd-bill-mp-24-sb2461"
     }
   ],
   "actions": [
     {
-      "description": "Senate Final Reading",
-      "date": "2025-04-25",
+      "description": "Date Introduced",
+      "date": "2026-04-07",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "reading-2"
+        "introduction"
       ],
       "related_entities": [],
       "_processing": {
@@ -30,21 +30,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Babauta",
+      "name": "Magofna",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Babauta\"}",
+      "person_id": "~{\"name\": \"Magofna\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "SR 24-01",
+      "note": "SB 24-61",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/senate/sen_comres/24/24-01.pdf",
+          "url": "https://cnmileg.net/documents/senate/sen_bills/24/24-61.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -56,7 +56,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=19896&secID=2",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20099&secID=2",
       "note": ""
     }
   ],
