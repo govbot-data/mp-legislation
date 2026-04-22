@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mp-24-hb2430"
+    }
+  ],
   "actions": [
     {
       "description": "Date Introduced",
@@ -45,6 +49,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:29:43Z"
+      }
+    },
+    {
+      "description": "Senate Final Reading",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-22T12:58:08Z"
       }
     }
   ],
@@ -88,6 +104,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:29:43Z"
+    "logs_latest_update": "2026-04-22T12:58:08Z"
   }
 }

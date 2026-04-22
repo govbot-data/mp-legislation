@@ -1,7 +1,7 @@
 {
   "legislative_session": "24",
-  "identifier": "SR 24-07",
-  "title": "Late Juan Mundo Santos",
+  "identifier": "SR 24-16",
+  "title": "Taiwan's meaningful participation in the World Health Assembly (WHA)",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -11,13 +11,13 @@
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "ocd-bill-mp-24-sr2407"
+      "identifier": "ocd-bill-mp-24-sr2416"
     }
   ],
   "actions": [
     {
       "description": "Date Introduced",
-      "date": "2026-03-16",
+      "date": "2026-04-07",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "introduction"
@@ -30,21 +30,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Manglona, D",
+      "name": "Babauta",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Manglona, D\"}",
+      "person_id": "~{\"name\": \"Babauta\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "SR 24-07",
+      "note": "SR 24-16",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/senate/sen_comres/24/24-07.pdf",
+          "url": "https://cnmileg.net/documents/senate/sen_res/24/24-16.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -56,7 +56,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=20094&secID=2",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20100&secID=2",
       "note": ""
     }
   ],

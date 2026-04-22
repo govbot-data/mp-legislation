@@ -1,26 +1,38 @@
 {
   "legislative_session": "24",
-  "identifier": "SR 24-07",
-  "title": "Late Juan Mundo Santos",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "identifier": "HB 24-105",
+  "title": "To enact the Business Integrity and Regulation of Tourism Harms Act (\u201cBIRTH Act\u201d); and for other purposes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
-    "resolution"
+    "bill"
   ],
   "subject": [],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "ocd-bill-mp-24-sr2407"
+      "identifier": "ocd-bill-mp-24-hb24105"
     }
   ],
   "actions": [
     {
-      "description": "Date Introduced",
-      "date": "2026-03-16",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "House First Reading",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "introduction"
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-04-22T12:58:08Z"
+      }
+    },
+    {
+      "description": "House Final Reading",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
       ],
       "related_entities": [],
       "_processing": {
@@ -30,21 +42,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Manglona, D",
+      "name": "Flores, MR",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Manglona, D\"}",
+      "person_id": "~{\"name\": \"Flores, MR\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "SR 24-07",
+      "note": "HB 24-105",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/senate/sen_comres/24/24-07.pdf",
+          "url": "https://cnmileg.net/documents/house/hse_bills/24/HB24-105.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -56,7 +68,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=20094&secID=2",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20101&secID=1",
       "note": ""
     }
   ],
