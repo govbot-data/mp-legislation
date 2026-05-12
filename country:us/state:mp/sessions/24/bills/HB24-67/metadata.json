@@ -9,30 +9,46 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mp-24-hb2467"
+    }
+  ],
   "actions": [
     {
+      "description": "Date Introduced",
+      "date": "2025-10-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-12T13:50:38Z"
+      }
+    },
+    {
       "description": "House First Reading",
-      "date": "2025-10-06",
+      "date": "2026-04-10",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-1"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:29:43Z"
+        "log_file_created": "2026-05-12T13:50:38Z"
       }
     },
     {
       "description": "House Final Reading",
-      "date": "2025-10-06",
+      "date": "2026-04-10",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-2"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:29:43Z"
+        "log_file_created": "2026-05-12T13:50:38Z"
       }
     }
   ],
@@ -76,6 +92,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:29:43Z"
+    "logs_latest_update": "2026-05-12T13:50:38Z"
   }
 }
