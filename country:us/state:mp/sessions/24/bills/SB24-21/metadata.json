@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mp-24-sb2421"
+    }
+  ],
   "actions": [
     {
       "description": "Date Introduced",
@@ -21,6 +25,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:29:43Z"
+      }
+    },
+    {
+      "description": "Senate First Reading",
+      "date": "2025-07-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-27T14:51:53Z"
       }
     },
     {
@@ -76,6 +92,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:29:43Z"
+    "logs_latest_update": "2026-05-27T14:51:53Z"
   }
 }
