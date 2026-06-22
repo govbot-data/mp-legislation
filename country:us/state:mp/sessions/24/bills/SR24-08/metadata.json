@@ -1,7 +1,7 @@
 {
   "legislative_session": "24",
   "identifier": "SR 24-08",
-  "title": "Pamela Yvette M. Sablan",
+  "title": "San Nicolas Santos",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -17,36 +17,24 @@
   "actions": [
     {
       "description": "Date Introduced",
-      "date": "2025-08-07",
+      "date": "2026-05-19",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "introduction"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-06-21T13:45:04Z"
-      }
-    },
-    {
-      "description": "Senate Final Reading",
-      "date": "2025-08-07",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "reading-2"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-06-21T13:45:04Z"
+        "log_file_created": "2026-06-22T16:24:27Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Hofschneider",
+      "name": "Hofschneider, King-Nabors, Cruz",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Hofschneider\"}",
+      "person_id": "~{\"name\": \"Hofschneider, King-Nabors, Cruz\"}",
       "organization_id": null
     }
   ],
@@ -56,7 +44,7 @@
       "note": "SR 24-08",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/senate/sen_res/24/24-08.pdf",
+          "url": "https://cnmileg.net/documents/senate/sen_comres/24/24-08.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -68,7 +56,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=19946&secID=2",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20107&secID=2",
       "note": ""
     }
   ],
@@ -80,6 +68,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-06-21T13:45:04Z"
+    "logs_latest_update": "2026-06-22T16:24:27Z"
   }
 }
