@@ -1,12 +1,20 @@
 {
   "action": {
     "description": "Senate Final Reading",
-    "date": "2025-08-07",
-    "organization_id": "~{\"classification\": \"upper\"}",
-    "classification": [
+    "occurred_at": "2025-08-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "24",
+    "entity_type": "bill",
+    "classifications": [
       "reading-2"
     ],
-    "related_entities": []
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://cnmileg.net/leg_sts.asp?legID=19946&secID=2",
+        "note": ""
+      }
+    ]
   },
   "bill_id": "SR 24-08"
 }
