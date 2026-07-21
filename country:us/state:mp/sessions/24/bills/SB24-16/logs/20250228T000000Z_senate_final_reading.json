@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate Final Reading",
+    "occurred_at": "2025-02-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "24",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://cnmileg.net/leg_sts.asp?legID=19824&secID=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 24-16"
+}

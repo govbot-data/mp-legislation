@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Date Introduced",
+    "occurred_at": "2025-06-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "24",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://cnmileg.net/leg_sts.asp?legID=19909&secID=1",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCommRes 24-4"
+}

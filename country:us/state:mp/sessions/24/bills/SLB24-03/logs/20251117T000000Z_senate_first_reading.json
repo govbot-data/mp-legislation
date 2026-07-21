@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate First Reading",
+    "occurred_at": "2025-11-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "24",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://cnmileg.net/leg_sts.asp?legID=20059&secID=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SLB 24-03"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "HOUSE-FFA",
+    "occurred_at": "2025-05-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "24",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://cnmileg.net/leg_sts.asp?legID=19886&secID=2",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SJR 24-03"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "House First Reading",
+    "occurred_at": "2025-03-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "24",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://cnmileg.net/leg_sts.asp?legID=19816&secID=1",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 24-2"
+}

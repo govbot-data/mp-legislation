@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Duly Adopted",
+    "occurred_at": "2025-03-11",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "24",
+    "entity_type": "bill",
+    "classifications": [
+      "enrolled"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://cnmileg.net/leg_sts.asp?legID=19855&secID=1",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 24-5"
+}
