@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "SENATE-JGL",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "24",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://cnmileg.net/leg_sts.asp?legID=20081&secID=1",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 24-101"
+}

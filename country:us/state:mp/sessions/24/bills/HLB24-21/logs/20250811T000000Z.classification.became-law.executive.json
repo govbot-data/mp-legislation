@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "S.L.L. 24-10",
+    "occurred_at": "2025-08-11",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "24",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://cnmileg.net/leg_sts.asp?legID=19944&secID=1",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HLB 24-21"
+}
