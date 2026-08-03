@@ -1,26 +1,38 @@
 {
   "legislative_session": "24",
-  "identifier": "SR 24-08",
-  "title": "San Nicolas Santos",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "identifier": "HB 24-107",
+  "title": "To authorize the Commonwealth Utilities Corporation to obtain emergency financing for utility restoration, stabilization, and fuel procurement in response to Super Typhoons Sinlaku and Bavi and related fuel supply disruptions; and for other purposes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
-    "resolution"
+    "bill"
   ],
   "subject": [],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "ocd-bill-mp-24-sr2408"
+      "identifier": "ocd-bill-mp-24-hb24107"
     }
   ],
   "actions": [
     {
       "description": "Date Introduced",
-      "date": "2026-05-19",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "date": "2026-07-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-03T16:33:27Z"
+      }
+    },
+    {
+      "description": "House Final Reading",
+      "date": "2026-07-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
       ],
       "related_entities": [],
       "_processing": {
@@ -30,21 +42,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Hofschneider, King-Nabors, Cruz",
+      "name": "Yumul, RN",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Hofschneider, King-Nabors, Cruz\"}",
+      "person_id": "~{\"name\": \"Yumul, RN\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "SR 24-08",
+      "note": "HB 24-107",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/senate/sen_comres/24/24-08.pdf",
+          "url": "https://cnmileg.net/documents/house/hse_bills/24/HB24-107.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -56,7 +68,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=20107&secID=2",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20118&secID=1",
       "note": ""
     }
   ],
