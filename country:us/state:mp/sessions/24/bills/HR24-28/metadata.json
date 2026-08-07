@@ -1,35 +1,35 @@
 {
   "legislative_session": "24",
-  "identifier": "HB 24-67",
-  "title": "To promote government transparency, accountability, and digital accessibility by requiring standardized reporting of financial and grant information by all CNMI government entities, instrumentalities, and nonprofit recipients of public funds, in compliance with the Constitution, the Covenant, and applicable laws of the Commonwealth; and for other purposes.",
+  "identifier": "HR 24-28",
+  "title": "To recognize, honor, and express appreciation to Rufina Tuloi Borja Seman for 50 years of exemplary and distinguished service in education.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
-    "bill"
+    "resolution"
   ],
   "subject": [],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "ocd-bill-mp-24-hb2467"
+      "identifier": "ocd-bill-mp-24-hr2428"
     }
   ],
   "actions": [
     {
       "description": "Date Introduced",
-      "date": "2025-10-09",
+      "date": "2026-07-28",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-26T05:01:37Z"
+        "log_file_created": "2026-08-07T15:02:17Z"
       }
     },
     {
       "description": "House First Reading",
-      "date": "2026-05-22",
+      "date": "2026-07-28",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-1"
@@ -41,22 +41,10 @@
     },
     {
       "description": "House Final Reading",
-      "date": "2026-05-22",
+      "date": "2026-07-28",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-2"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-08-07T15:02:17Z"
-      }
-    },
-    {
-      "description": "SENATE-FA",
-      "date": "2026-06-24",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
       ],
       "related_entities": [],
       "_processing": {
@@ -66,21 +54,21 @@
   ],
   "sponsorships": [
     {
-      "name": "Flores, MR",
+      "name": "Manglona, TJDLC",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Flores, MR\"}",
+      "person_id": "~{\"name\": \"Manglona, TJDLC\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "HB 24-67",
+      "note": "HR 24-28",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/house/hse_bills/24/HB24-67.pdf",
+          "url": "https://cnmileg.net/documents/house/hse_res/24/HR24-28.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -92,7 +80,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=19993&secID=1",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20120&secID=1",
       "note": ""
     }
   ],
