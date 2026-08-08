@@ -1,0 +1,258 @@
+Title: 
+Official Title: 
+Source: versions - HB 24-107
+Media Type: application/pdf
+
+================================================================================
+
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+Regular Session, 2026 H. B. 24- I 01
+A BILL FOR AN ACT
+To authorize the Commonwealth Utilities Corporation to obtain
+emergency financing for utility restoration, stabilization, and
+fuel procurement in response to Super Typhoons Sinlaku and
+Bavi and related fuel supply disruptions; and for other purposes.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The Legislature finds that Section
+2 8123(e) of Title 4 of the Commonwealth Code authorizes the Commonwealth
+3 Utilities Corporation (CUC) to borrow money and give security therefor, and
+4 requires legislative approval by law for borrowing in excess of five hundred
+5 thousand dollars.
+6 The Legislature further finds that Super Typhoon Sinlaku and Super
+7 Typhoon Bavi caused widespread damage to electric generation facilities,
+8 transmission and distribution lines, transformers and poles, as well as water wells,
+9 pumps, booster stations, tanks, treatment systems, wastewater lift stations,
+10 collection systems, and related utility infrastructure throughout the
+11 Commonwealth.
+
+HOUSE BILL 24- 10
+1 The resulting outages and infrastructure damage have threatened public
+2 health and safety, disrupted emergency services and communications, halted most
+3 economic activity, closed schools and childcare facilities, and compromised
+4 potable water and wastewater treatment to the point that boil-water notices and
+5 emergency water stations are necessary.
+6 After taking into account expected insurance proceeds, Federal Emergency
+7 Management Agency (FEMA) assistance, federal grants, and other recovery
+8 resources, CUC requires access to emergency financing not to exceed forty million
+9 dollars ($40,000,000) to finance urgent restoration, stabilization, repair,
+10 replacement, and fuel procurement necessary to maintain reliable electric, water,
+11 and wastewater services.
+12 It is the purpose of this Act to authorize such borrowing on a temporary,
+13 targeted basis; to establish safeguards, reporting, and oversight to protect ratepayers
+14 and the public; to require that reimbursements from FEMA, insurance, federal
+15 grants, or other recovery sources be applied to reduce outstanding principal where
+16 permitted; and to allow recovery of reasonable financing costs through rates, fees,
+17 charges, or surcharges, subject to regulatory review and limited to the period
+18 necessary to repay the borrowing.
+19 Section 2. Amendment. Notwithstanding any law, statute, rules, or
+20 regulations, Title 4, Division 8, Chapter 1, is hereby amended by adding a new
+21 Article 12 to read as follows:
+2
+
+HOUSE BILL 24- I 0
+1 "Article 12. Financing Authority.
+2 § 82103. Definitions.
+3 For purposes of this Act, the following defintions shall apply:
+4 (a) "Financing authority" means a loan or line of credit or other
+5 short-term financing arrangement (including multiple facilities in the
+6 aggregate) providing ready access to funds, and does not by itself create a
+7 permanent rate base obligation.
+8 (b) "Authorized uses" means the purposes listed in Section 82104(a).
+9 § 82104. Financing Authority Authorization.
+10 (a) Pursuant to this Act and 4 CMC § 8123(e), the Commonwealth
+11 Utilities Corporation may obtain one or more financing options from
+12 public or private lenders within the Commonwealth or the United States,
+13 and, upon legislative notice as provided in Section 82106(c), from other
+14 jurisdictions, in an aggregate principal amount not to exceed forty million
+15 dollars ($40,000,000).
+16 (b) CUC shall draw on any financing options_authorized by this Act
+17 only to the extent reasonably necessary to fund the authorized uses set forth
+18 in Section 82105(a), taking into account available insurance proceeds,
+19 FEMA assistance, federal grants, disaster relief, mutual aid
+20 reimbursements, and other recovery funds.
+21 § 82105. Authorized Uses; Prohibited Uses.
+3
+
+HOUSE BILL 24- 1 01
+1 (a) Authorized Uses. Funds borrowed pursuant to this Act shall be used
+2 only for costs directly related to the restoration, stabilization, repair,
+3 replacement, or continued operation of electric, water, and wastewater
+4 utility services affected by Super Typhoon Sinlaku and Super Typhoon
+5 Bavi, and for procurement of fuel necessary for utility operations,
+6 reasonable financing costs associated with the financing authorized by this
+7 Act (including origination and closing fees), and reasonable administrative
+8 and project management costs directly attributable to implementing such
+9 measures. Authorized uses may include, but are not limited to:
+10 (1) Purchase of fuel necessary for power generation;
+11 (2) Repair, replacement, or restoration of damaged power generation
+12 facilities, transmission lines, distribution lines, transformers, poles,
+13 substations, control systems, and related equipment;
+14 (3) Repair, replacement, or restoration of water wells, pumps, booster
+15 stations, tanks, treatment systems, and distribution infrastructure;
+16 (4) Repair, replacement, or restoration of wastewater lift stations,
+17 collection systems, treatment facilities, and related equipment;
+18 (5) Procurement of emergency equipment, materials, supplies,
+19 professional services, and contractor services necessary to restore or
+20 maintain utility service;
+4
+
+HOUSE BILL 24- lin
+1 (6) Temporary generation, temporary utility infrastructure, and
+2 emergency operational measures necessary to protect public health and
+3 safety; and
+4 (7) Reasonable financing of credit origination costs, closing costs, and
+5 other financing costs directly related to the financing authorized by this
+6 Act.
+7 § 82106. Legislative Notice; Oversight; Reporting; Public Availability;
+8 Coordination.
+9 (a) Legislative Notice. Not less than five business days after closing on
+10 any financing option authorized by this Act, CUC shall transmit to the
+11 presiding officers of both houses of the Legislature, the chairpersons of the
+12 legislative committees with jurisdiction over public utilities and fiscal
+13 affairs, and the Legislative Bureau a written notice identifying:
+14 (1) The lender or financing source and whether the lender is located
+15 outside the Commonwealth or the United States and any special
+16 conditions or risks associated with such financing;
+17 (2) The principal amount of indebtedness to be accessed (and whether
+18 this is part of an aggregate facility);
+19 (3) The interest rate or method for calculating interest and any
+20 applicable floor or cap;
+21 (4) The repayment term and amortization schedule;
+5
+
+HOUSE BILL 24- 101
+1 (5) All origination fees, closing costs, and other financing charges;
+2 (6) Whether any Commonwealth guarantee, pledge, or other public
+3 obligation is being requested or implied;
+4 (7) The anticipated source of repayment; and
+5 (8) A summary of the intended uses of the approved financing
+6 agreement.
+7 (b) Quarterly Reports to the Legislature. Beginning thirty (30) days
+8 after the first draw or disbursement of proceeds, and quarterly thereafter
+9 until the indebtedness is fully repaid, CUC shall submit a written report to
+10 the presiding officers of both houses of the Legislature, the chairpersons of
+11 the legislative committees with jurisdiction over public utilities and fiscal
+12 affairs, and the Legislative Bureau. Each report shall include:
+13 (1) The total amount received to date;
+14 (2) The total amount expended to date;
+15 (3) The amount of principal interest paid during the reporting period;
+16 (4) The current outstanding principal balance;
+17 (5) A list of expenditures made with the financial proceeds during the
+18 reporting period, including vendor names, payment amounts,
+19 payment dates, and general description of goods or services
+20 provided; such lists may be submitted in an electronic spreadsheet
+21 or other standardized format;
+6
+_
+
+HOUSE BILL 24- 10")
+1 (6) A description of the utility restoration, stabilization, or fuel-related
+2 purpose served by each major expenditure;
+3 (7) The status of any pledged collateral or security;
+4 (8) The amount of any rate, fee, charge, surcharge, or other customer
+5 recovery mechanism used to repay the indebtedness;
+6 (9) The amount collected from customers for the indebtedness
+7 repayment during the reporting period;
+8 (10) The status of any FEMA, insurance, federal, or other
+9 reimbursement; and
+10 (11) Any material change in repayment terms, collateral, lender
+11 requirements, or anticipated total cost of using the financing.
+12 (c) Public Availability. Reports required under this section shall be
+13 public records and shall be posted on CUC's website not later than five
+14 business days after submission to the Legislature, except that confidential
+15 banking information, account numbers, protected customer information,
+16 and security-sensitive infrastructure information may be redacted. CUC
+17 shall also provide plain-language explanations of any temporary financing
+18 surcharges on customer bills and on its website, including the purpose of
+19 the surcharge and its anticipated duration.
+20 (d) FEMA, Insurance, and Reimbursement Offset. To the extent that
+expenditures paid from the financing are later reimbursed by FEMA,
+21
+- 1
+
+HOUSE BILL 24- 101
+1 insurance proceeds, federal grants, disaster assistance, mutual aid
+2 reimbursements, or other recovery funds, such reimbursements shall be
+3 applied first to reduce the outstanding principal balance of the loan or line
+4 of credit, unless otherwise prohibited by federal law, grant condition,
+5 insurance requirement, or the terms of the financing agreement.
+6 (e) Federal and Other Recovery Funds. CUC shall make reasonable
+7 efforts to seek and secure FEMA assistance, insurance proceeds, federal
+8 grants, disaster assistance, mutual aid reimbursements, and other recovery
+9 funds to minimize reliance on the financing authorized by this Act, and
+10 shall report on such efforts and receipts in its quarterly reports under
+11 subsection (b).
+12 (f) Independent Audit. Expenditure of financing proceeds authorized
+13 by this Act shall be subject to independent audit. CUC shall include the use
+14 of financing proceeds, repayment activity, and customer recovery amounts
+15 in its annual independent audit. The Legislature or the Public Auditor may
+16 request a separate audit or review by an independent certified public
+17 accountant if necessary to verify compliance with this Act.
+18 § 82107. Rate Recovery; Regulatory Review.
+19 (a) CUC may include reasonable financing costs (including origination
+20 and other fees, principal, and interest) in rates, fees, charges, or temporary
+surcharges billed to customers until such costs are fully recouped; provided
+21
+8
+
+HOUSE BILL 24- 10
+1 that such recovery shall be temporary, shall sunset upon full repayment of
+2 the obligation, and shall remain subject to applicable law and regulatory
+3 review by the Commonwealth Public Utilities Commission unless the
+4 Legislature expressly establishes an alternative temporary recovery
+5 mechanism.
+6 (b) Any surcharge, rate change, or recovery mechanism implemented to
+7 repay financed amounts shall be presented in clear, plain language on
+8 customer bills and on CUC's website, including an explanation of purpose
+9 and anticipated duration.
+10 § 82108. Material Modificaitons.
+11 Any material modification to the loan or line of credit principal amount,
+12 repayment term, interest rate structure, collateral, security, or repayment source
+13 after closing, including any refinancing or restructuring that extends the repayment
+14 term by more than three years or increases the anticipated total interest cost by more
+15 than ten percent, shall be reported to the Legislature not later than five business
+16 days after such modification.
+17 § 82109. Expiration of Borrowing Authority.
+18 The authority to enter into any new line of credit or to increase the principal
+19 amount of an existing line of credit under this Act shall expire thirty-six (36)
+20 months after the effective date of this Act. The expiration of the borrowing
+9
+
+HOUSE BILL 24- 101
+1 authority shall not affect the validity of any obligation lawfully executed before that
+2 date or CUC's obligation to repay such loan according to its terms.
+3 § 82110. No Commonwealth General Obligation.
+4 Nothing in this Act shall be construed to pledge the full faith and credit,
+5 taxing power, or general revenues of the Commonwealth for repayment of any
+6 borrowing authorized by this Act, unless expressly authorized by a separate Act of
+7 the Legislature.
+8 § 82111. No Waiver of Regulatory Authority.
+9 Nothing in this Act shall be construed to waive, repeal, or limit the lawful
+10 authority of the Commonwealth Public Utilities Commission, except to the extent
+11 expressly provided in this Act."
+12 Section 3. Severability. If any provisions of this Act or the application of
+13 any such provision to any person or circumstance should be held invalid by a court
+14 of competent jurisdiction, the remainder of this Act or the application of its
+15 provisions to persons or circumstances other than those to which it is held invalid
+16 shall not be affected thereby.
+17 Section 4. Savings Clause. This Act and any repealer contained herein
+18 shall not be construed as affecting any existing right acquired under contract or
+19 acquired under statutes repealed or under any rule, regulation, or order adopted
+20 under the statutes. Repealers contained in this Act shall not affect any proceeding
+21 instituted under or pursuant to prior law. The enactment of the Act shall not have
+- 10-
+
+HOUSE BILL 24- 101
+1 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+2 which shall already be in existence on the date this Act becomes effective.
+3 Section 5. Effective Date. This Act shall take effect upon its approval by
+4 the Governor, or it becoming law without such approval.
+Prefiled: 01-11 aS)-te
+Date: -7 / I -7 / 26' Introduced by:
+Revie d for le iency by:
+o s Legal ounsel
+Date:
+-11-

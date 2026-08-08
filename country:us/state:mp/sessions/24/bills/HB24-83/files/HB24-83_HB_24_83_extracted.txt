@@ -1,0 +1,164 @@
+Title: 
+Official Title: 
+Source: versions - HB 24-83
+Media Type: application/pdf
+
+================================================================================
+
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+Si
+Session, 2026 H. B. 24-
+A BILL FOR AN ACT
+Requiring Disclosure of 501(c)(3) Status for Goverment
+Funding.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The purpose of this Act is to promote
+2 transparency and accountability in the distribution of government funds to
+3 nonprofit organizations by requiring clear disclosure of 501(c)(3) status during the
+4 funding application process. The Legislature finds that some entities misrepresent
+5 themselves as legitimate 501(c)(3) organizations to obtain grants or other
+6 government assistance, including through the use of fraudulent documentation or
+7 misuse of a legitimate organization's identity.
+8 The Legislature further finds that government agencies and legislative
+9 funding authorities do not always have sufficient resources or uniform processes to
+10 independently verify the legitimacy of nonprofit applicants, increasing the risk that
+11 public funds may be awarded to unqualified or fraudulent entities. Even where an
+12 organization is legitimately tax-exempt, inadequate financial controls or oversight
+
+HOUSE BILL 24- igt
+1 may result in misappropriation, waste, or misuse of funds. Smaller nonprofits, in
+2 particular, may be more vulnerable to mismanagement or exploitation due to
+3 limited administrative capacity.
+4 The Legislature finds that transparency in the use of government funds is
+5 essential to maintaining public trust and ensuring that appropriated funds achieve
+6 their intended purposes. Recent federal and territorial funding programs, including
+7 emergency and disaster-related assistance, have heightened oversight expectations
+8 and demonstrated the consequences of insufficient verification and accountability.
+9 The establishment of the Special Committee on Federal Assistance and Disaster
+10 Related Funding reflects the need to address these risks, which include waste of
+11 taxpayer funds, diversion from legitimate charitable purposes, erosion of public
+12 confidence, and diminished legal accountability.
+13 Based on the foregoing, requiring nonprofit organizations to disclose and
+14 verify their 501(c)(3) status as a condition of receiving government funds is a
+15 reasonable and necessary safeguard to protect public resources, promote
+16 accountability, and ensure that appropriated funds are awarded only to qualified
+17 entities capable of complying with applicable legal and financial requirements.
+18 Section 2. Short-Title. This Act shall be known as the "Nonprofit
+19 Transparency in Government Funding Act".
+20 Section 3. Enactment. Subject to codification by the CNMI Law Revision
+21 Commission, the following provision is hereby enacted:
+2
+
+HOUSE BILL 24- 4g t
+1 "Nonprofit Transparency in Government Funding Act."
+2 "§ 101. Definition. As used in this Act:
+3 (1) "Government Entity" means any department, agency, office, board,
+4 commission, or other instrumentality of the Commonwealth of the Northern
+5 Mariana Islands, including public corporations and political subdivisions.
+6 (2) "Nonprofit Organization" means any entity that is exempt from
+7 federal income taxation under Section 501(c)(3) of the United States Internal
+8 Revenue Code of 1989, as amended.
+9 (3) "Funding" means any grant, subgrant, contract, appropriation, or
+10 other financial assistance provided by the Commonwealth Government, the
+11 Legislature, or any legislative delegation, including but not limited to the Saipan
+12 and Northern Islands Legislative Delegation, the Tinian and Aguiguan Legislative
+13 Delegation, the Rota Legislative Delegation, and any successor or equivalent
+14 legislative funding mechanism.
+15 (4) "Proof of 501(c)(3) Status" means a valid and current determination
+16 letter issued by the Internal Revenue Service confirming the entity's qualification
+17 as a tax-exempt organization under Section 501(c)(3) of the Internal Revenue Code.
+18 § 102. Requirement of Disclosure.
+19 (1) Any Nonprofit Organization seeking or receiving Funding
+20 appropriated by the Legislature or any legislative delegation shall submit Proof of
+21 501(c)(3) Status with its funding application.
+3
+
+f0
+HOUSE BILL 24-
+1 (2) Applications submitted without the required documentation shall
+2 not be processed or considered for funding.
+3 (3) Any government application form or request for proposal related to
+4 such Funding shall include a mandatory field for the submission of Proof of
+5 501(c)(3) Status.
+6 (4) For electronic submissions, the Government Entity shall provide a
+7 method by which applicants can securely upload or attach their Proof of 501(c)(3)
+8 Status.
+9 § 103. Verification.
+10 (1) Each Goverment Entity responsible for the disbursement or
+11 administration of public funds shall verify the 501(c)(3) status of all applicant
+12 Nonprofit Organizations prior to the release of any funds.
+13 (2) Verification shall include:
+14 a. Review of the organization's IRS determination letter;
+15 b. Confirmation through the Internal Revenue Service's Tax Exempt
+16 Organization Search database; and
+17 c. Cross-reference with the Department of Finance registry of
+18 charitable and nonprofit entities.
+19 § 104. Non-Compliance.
+20 (1) Failure to comply with the requirements of this Act shall render an
+21 organization ineligible for Funding consideration.
+-4
+
+HOUSE BILL 24- 43 3
+1 (2) Any organization found to have submitted falsified, expired, or
+2 misleading documentation regarding its 501(c)(3) status shall be disqualified from
+3 receiving Funding, and any funds already disbursed shall be subject to immediate
+4 recovery.
+5 (3) Any organization that submits falsified, expired, or otherwise false or
+6 misleading documentation regarding its 501(c)(3) status is guilty of a misdemeanor,
+7 punishable by a fine of not less than five hundred dollars ($500) and not more than
+8 one thousand dollars ($1,000), imprisonment, or both. Such conduct may also
+9 constitute an offense under other applicable laws of the Commonwealth.
+10 § 105. Applicability to Legislative Delegations.
+11 (1) Notwithstanding any CNMI public or local laws to the contrary, all
+12 appropriations enacted by any legislative delegation pursuant to its local law
+13 authority shall include a requirement that recipient Nonprofit Organizations comply
+14 with the disclosure and verification provisions of this Act.
+15 (2) Funds appropriated by the Legislature or any legislative delegation shall
+16 be disbursed consistent with applicable CNMI Public or Local Laws governing
+17 legislative appropriations.
+18 (3) Nothing in this Act shall be construed to limit the authority of any
+19 legislative delegation to appropriate funds for qualified nonprofit organizations that
+20 comply with the requirements of this Act.
+5
+_ -
+
+HOUSE BILL 24- 40
+1 § 106. Exemptions.
+2 (1) This Act shall not apply to:
+3 a. Emergency funds disbursed pursuant to a declared state of
+4 emergency or disaster; or
+5 b. Funds appropriated directly to Commonwealth government
+6 agencies or political subdivisions."
+7 Section 4. Severabilitv. If any provisions of this Act or the application of
+8 any such provision to any person or circumstance should be held invalid by a court
+9 of competent jurisdiction, the remainder of this Act or the application of its
+10 provisions to persons or circumstances other than those to which it is held invalid
+11 shall not be affected thereby.
+12 Section 5. Savings Clause. This Act and any repealer contained herein
+13 shall not be construed as affecting any existing right acquired under contract or
+14 acquired under statutes repealed or under any rule, regulation, or order adopted
+15 under the statutes. Repealers contained in this Act shall not affect any proceeding
+16 instituted under or pursuant to prior law. The enactment of the Act shall not have
+17 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+18 which shall already be in existence on the date this Act becomes effective.
+19 Section 6. Effective Date. This Act shall take effect upon its approval by
+20 the Governor, or it becoming law without such approval.
+6
+-
+
+84
+HOUSE BILL 24-
+q 12_07
+(p
+Prefiled: 1/
+Date: Introduced by:
+Re arissa R. F ores
+Reviewed for legal sufficiency by:
+H jx52'1,‹ - 0* e -
+se Legal Counsel
+Date:
+-7
+-

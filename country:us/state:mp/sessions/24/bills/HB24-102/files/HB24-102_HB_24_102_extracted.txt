@@ -1,0 +1,391 @@
+Title: 
+Official Title: 
+Source: versions - HB 24-102
+Media Type: application/pdf
+
+================================================================================
+
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+Regular Session, 2026 H. B. 24- /02.
+A BILL FOR AN ACT
+To amend the Fire Safety Code to apply the International Fire
+Code as the guiding standard in the Commonwealth.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section I. Findings and Purpose. Internationally, the Legislature finds that
+2 the Uniform Fire Code has been phased out and replaced by the International Fire
+3 Code (IFC), and that fire codes are updated on a national basis in three (3) year
+4 cycles. The purpose of this Act is to amend the references of the Uniform Fire Code
+5 in the Commonwealth Fire Safety Code and replace them with references to the
+6 International Fire Code to reflect this national transition.
+7 For purposes of current application, the Legislature finds that the
+8 Commonwealth of the Northern Mariana Islands is using a version of the
+9 International Fire Code that is based on the 2012 edition, as adopted by regulation.
+10 The Legislature further finds it critical for the proper development of local
+11 infrastructure to ensure that the fire code applied in the Commonwealth remains
+12 aligned with current national standards.
+
+HOUSE BILL 24- /0 2.
+1 Consequently, it is the intent of the Legislature to adopt the International
+2 Fire Code as the official fire code of the Commonwealth of the Northern Mariana
+3 Islands, to make the 2018 edition the current version applied in the Commonwealth,
+4 and to direct the Commissioner or the Commissioner's designee to adopt relevant
+5 appendices, and updates to, or new editions of this Code, and to exclude non-
+6 applicable sections, as needed.
+7 Section 2. Repeal and Re-Enactment. Title 2, Division 7, Chapter 3 of the
+8 Commonwealth Code is hereby repealed and re-enacted as follows:
+9 "Article 1. General Provisions.
+10 Section 7311. Purpose.
+11 The purpose of this Act is to establish a fire safety code designed to
+12 safeguard, to a reasonable degree, life and property from the hazards of fire
+13 and explosions arising from the storage, handling, and use of hazardous
+14 substances, materials, and devices, and from any conditions hazardous to
+15 life and property in the use or occupancy of any buildings and premises.
+16 Section 7312. Definitions.
+17 All definitions pertaining to the Commonwealth Fire Safety Code
+18 not listed below are set forth in the International Fire Code (IFC) published
+19 by the International Code Council (ICC):
+20 (a) "Code" refers to this Commonwealth Fire Safety Code;
+2
+
+HOUSE BILL 24- /0 k
+1 (b) "Department" means the Department of Fire and Emergency
+2 Medical Services (DFEMS);
+3 (c) "Commissioner" means the Commissioner of Fire and
+4 Emergency Medical Services;
+5 (d) "Fire" is defined as a rapid, self-sustaining oxidation process
+6 accompanied by the evolution of heat and light in varying intensities;
+7 (e) "Fire hazard" is anything or act that increases or may cause an
+8 increase of the hazard or menace of fire to a greater degree than that
+9 customarily recognized as normal by persons in the public service regularly
+10 engaged in preventing, suppressing, or extinguishing fire or anything or act
+11 which may obstruct, delay, hinder, or interfere with the operations of the
+12 fire department or the egress of occupants in the event of fire;
+13 (f) "Fireworks" are devices designed primarily to produce visible or
+14 audible effects by combustion, deflagration, or detonation, including but not
+15 limited to, firecrackers containing more than 2 grains (130 milligrams) of
+16 explosive composition, aerial shells containing more than 40 grams of
+17 pyrotechnic composition, and other display pieces which are classified as
+18 Division 1.3G or Division 1.4G Explosive by the labeling requirements of
+19 the United States Department of Transportation;
+3
+
+HOUSE BILL 24- /0
+1 (g) "Hazardous Materials" are those chemicals or substances which
+2 are physical hazards or health hazards whether the materials are in usable
+3 or waste condition;
+4 (h) "International Fire Code" means the fire code adopted and
+5 published by the International Code Council or its successor entity;
+6 (i) "DFPAI" means Division of Fire Prevention and Arson
+7 Investigation;
+8 (j) "NFPA" means National Fire Protection Association;
+9 (k) "1.3G Explosives" formerly known as Class B special fireworks,
+10 are display fireworks as determined by the United States Department of
+11 Transportation;
+12 (1) "1.4G Explosives" formerly known as Class C common
+13 fireworks, means consumer fireworks intended for use by the general
+14 public.
+15 Section 7313. Applicability of the Code.
+16 (a) This Chapter shall apply to all persons in the Commonwealth
+17 without restrictions unless specifically exempted.
+18 (b) This Chapter shall apply to existing conditions as well as
+19 conditions arising after the adoption thereof, except that conditions legally
+20 in existence at the time of the adoption of the Commonwealth Fire Safety
+21 Code and not in strict compliance therewith shall be permitted to continue
+-4
+
+HOUSE BILL 24- /0*
+1 only if, in the opinion of the Commissioner of Fire and Emergency Medical
+2 Services or the Commissioner's authorized representative, they do not
+3 constitute a serious hazard to life and property.
+4 (c) Where there exists a conflict between a general requirement or a
+5 specific requirement for occupancy in the Commonwealth Fire Safety Code
+6 and the International Fire Code, the provisions of the Commonwealth Fire
+7 Safety Code shall apply.
+8 (d) The fire division of the Commonwealth Ports Authority ("CPA")
+9 shall have the same authority and obligation as the Department to comply
+10 with and enforce this Code within the CPA premises, jurisdiction, and
+11 activities.
+12 Section 7314. Authority to Modify the Code.
+13 The Commissioner of Fire and Emergency Medical Services or the
+14 Commissioner's designated representative shall have the sole authority to
+15 modify any provisions of the Commonwealth Fire Safety Code upon
+16 application in writing by the owner or authorized representative provided
+17 that "Authority Having Jurisdiction" shall first find that a special reason
+18 makes the strict letter of the Code impractical and that the modification will
+19 not lessen the fire protection requirements intended to be achieved by this
+20 Code or of any regulation adopted under the authority of this Code. All
+21 actions granting such modifications shall be recorded, disseminated to
+5
+
+IbR
+HOUSE BILL 24-
+1 concerned signatory agencies, and officially filed in the Department of Fire
+2 and Emergency Medical Services, Division of Fire Prevention and Arson
+3 Investigation (DFPAI).
+4 Article 2. Enforcement Authority.
+5 Section 7321. Powers of the Department of Fire and Emergency
+6 Medical Services.
+7 (a) The Department of Fire and Emergency Medical Services shall
+8 have the power and duty to control and extinguish injurious or dangerous
+9 fires and remove that which is liable to cause such fires and enforce all laws
+10 relating to preventing and spreading of fires and all laws pertaining to fire
+11 control, fire hazards, and enforcement of all ordinances of the jurisdiction
+12 as set forth in the International Fire Code Chapter 1.
+13 (b) The officer of Department of Fire and Emergency Medical
+14 Services in charge at the scene of any fire shall have the full power and
+15 authority to direct the operation of extinguishment and to take the necessary
+16 precautions to prevent the spread of fires. In the course of such operations,
+17 the officer may prohibit approach to such fire or incident by any person,
+18 vehicle, vessel, or thing and may remove or cause to be removed and kept
+19 away from such fire or incident any vehicle or thing and all persons not
+20 actually or usefully employed in the judgment of said officer in the
+6
+
+/DZ
+HOUSE BILL 24-
+1 extinguishing and control of such fire incident, or the preservation of
+2 property in the vicinity.
+3 (c) Nothing in this Chapter shall be construed to limit the authority
+4 of the master or officer of any vessel on fire or in danger of fire subject to
+5 the general authority granted herein to Department of Fire and Emergency
+6 Medical Services to control the operations in the protection of public
+7 interest within the Commonwealth.
+8 (d) The Depat tnient of Fire and Emergency Medical Services shall
+9 have the power and responsibility of maintaining an emergency medical and
+10 rescue service system. The Department of Fire and Emergency Medical
+11 Services shall employ emergency medical services personnel who have
+12 been certified to provide such services. The Department of Fire and
+13 Emergency Medical Services shall maintain and operate equipment
+14 necessary to convey on land and sea individuals who are actually ill, injured,
+15 incapacitated, or helpless and require emergency care. The Department of
+16 Fire and Emergency Medical Services personnel shall provide emergency
+17 medical (pre-hospital) care on the scene and enroute to any emergency care
+18 facility to the full extent of their certification by the state emergency
+19 medical services office.
+20 Article 3. Fire Prevention.
+21 Section 7331. Prohibition.
+7
+
+AR
+HOUSE BILL 24-
+1 It shall be unlawful for any person to remove the gasoline tank cover
+2 of any vehicle in the vicinity of a gasoline pump while the motor of such
+3 vehicle is running.
+4 Section 7332. Fire Hydrant Inspection.
+5 The Commissioner or the Commissioner's designated representative
+6 shall have fire hydrants inspected on a quarterly basis to ensure that they
+7 are maintained in good working order; upon discovery of any discrepancies,
+8 said representative shall immediately report same to authority having
+9 jurisdiction for corrective measures.
+10 Section 7333. Fireworks.
+11 Fireworks are prohibited in the Commonwealth of the Northern
+12 Mariana Islands unless approved by the Governor and regulated in
+13 accordance with Chapter-56 Explosives and Fireworks of the International
+14 Fire Code. The Commissioner of Fire and Emergency Medical Services
+15 shall regulate the use of fireworks as defined and pursuant to regulations
+16 promulgated under this Chapter.
+17 Section 7334. Violations of the Code.
+18 It shall be unlawful for any person, firm, or corporation to construct,
+19 enlarge, move, equip, use, occupy, or maintain any building or structure or
+20 cause to permit the same to be done, in violation of any provision of this
+21 Code. When a violation of the Code has occurred, the Commissioner or the
+8
+
+AR
+HOUSE BILL 24-
+1 Commissioner's authorized representative shall cause the violation to be
+2 corrected before the issuance of an occupancy certificate.
+3 Section 7335. Penalties.
+4 (a) Civil Penalties. Any person who violates any of the provisions
+5 of this Code or standards hereby adopted or fails to comply therewith, or
+6 who violates or fails to comply with any orders made thereunder, or shall
+7 build in violation of any detailed statement of specifications or plans
+8 submitted and approved thereunder; or any certificate or permit issued
+9 thereunder, and from which no appeal has been taken, or who shall fail to
+10 comply with such an order as affirmed or modified by the Commissioner or
+11 by a court of competent jurisdiction, within the time fixed herein shall
+12 severally for each and every such violation and non-compliance,
+13 respectively, shall be civilly liable to a fine of not less than $5,000 nor more
+14 than $10,000. The imposition of one penalty for any violation shall not
+15 excuse the violation or permit it to continue, and all such persons shall be
+16 required to correct or remedy such violations or defects within a reasonable
+17 time; and when not otherwise specified, every ten days that prohibited
+18 condition is maintained shall constitute a separate offense.
+19 (b) Criminal Penalties. In addition to all other remedies or penalties
+20 hereunder, any person who knowingly and willfully commits an offense
+21 under subsection (a) above shall upon conviction be imprisoned for not
+9
+
+At
+HOUSE BILL 24-
+1 more than six months or fined not more than $50,000 or both.
+2 (c) Enforced Removal. The application of the penalty shall not be
+3 held to prevent the enforced removal of prohibited conditions.
+4 (d) Private Liability. Notwithstanding any other remedies available,
+5 any person damaged economically, injured, or otherwise aggrieved as a
+6 result of a violation of the Fire Safety Code shall have a cause of action
+7 against the person who committed the violation. Violation of the Code shall
+8 constitute a per se public nuisance. An award shall include damages and the
+9 costs of litigation including reasonable attorney's fees.
+10 Section 7336. Permit Requirements.
+11 Except as exempted by this Code, any person, firm, or corporation
+12 who plans to engage in activities, operations, practices, or functions as set
+13 forth in the International Fire Code Chapter 1, Section 105, shall prior to
+14 commencement of the activity, operations, practices, or function obtain a
+15 permit from the DFPAI.
+16 (a) Conditions of Permits.
+17 (1) Scope. A permit shall constitute permission to maintain,
+18 store, use or handle materials, conduct processes that produce
+19 conditions hazardous to life or property, or install equipment used
+20 in connection with such activities. Such permission shall not be
+21 construed as authority to violate, cancel or set aside any of the
+- 10 -
+
+HOUSE BILL 24-
+1 provisions of this Code. Such a permit shall not take the place of any
+2 license required by law.
+3 (2) Expiration of Permit. A permit issued under this Code
+4 shall continue until revoked or for such a period of time as
+5 designated therein at the time of issuance. It shall not be transferable
+6 and any change in use, occupancy, operation or ownership shall
+7 require a new permit.
+8 (3) Compliance. All permits issued under this Code shall be
+9 presumed to contain the provision that the applicant, his agents, and
+10 employees shall carry out the proposed activity in compliance with
+11 all the requirements of this Code and any other laws or regulations
+12 applicable thereto, whether specified or not and in complete
+13 accordance with the approved plans and specifications. Any pelinits
+14 which purport to sanction a violation of this Code or any applicable
+15 law or regulation shall be void and approval of plans and
+16 specifications in the issuance of such permit shall likewise be void.
+17 (b) Application for Permit. An application for a permit required by
+18 this Code shall be made to the DFPAI in such form and detail as it shall
+19 prescribe. Applications for permits shall be accompanied by such plans as
+20 required by DFPAI.
+21 (c) Inspection Required. Before a permit may be issued, the
+
+PA
+HOUSE BILL 24-
+1 Commissioner or the Commissioner's authorized representative shall
+2 inspect and approve the receptacles, vehicles, buildings, devices, premises,
+3 storage spaces or areas to be used. In instances where laws or regulations
+4 are enforceable by departments other than the DFPAI, joint approval shall
+5 be obtained from all departments concerned.
+6 (d) Permits for Same Location. Whenever, under the provisions of
+7 this Code, more than one permit is required for the same location, such
+8 permits may be consolidated into a single permit.
+9 (e) Revocation of Permits. Any permit issued under this Code may
+10 be suspended or revoked when it is determined after a hearing by the
+11 Commissioner or the Commissioner's authorized representative that:
+12 (1) it is used by a person other than the person to whom the
+13 permit was issued;
+14 (2) it is used for a location other than that for which it was
+15 issued;
+16 (3) Any of the conditions or limitations set forth in the permit
+17 have been violated;
+18 (4) The permittee fails, refuses, or neglects to comply with
+19 any order or notice duly served upon him under the provisions of
+20 this Code within the time provided therein; or
+21 (5) There has been a false statement or misrepresentation as
+- 12-
+
+HOUSE BILL 24- /IX
+1 to a material fact in the application or plans on which the permit or
+2 application was based.
+3 (f) Required Fees. The Department may charge fees for the issuance
+4 of permits and review of plans and other procedures authorized under the
+5 provisions of this Code. The fees shall be established by the Commissioner
+6 of the Department of Fire and Emergency Medical Services and shall be set
+7 forth in the regulations. The fee for permits may vary based on the proposed
+8 use or occupancy and values. The Commissioner has the authority to waive
+9 permit fees on Government buildings but no authority to limit or to lessen
+10 life safety and fire protection requirements intended to be achieved by this
+11 Code or of any regulation adopted under the authority of this Code.
+12 (g) Technical Requirements (General). The purpose of this Section
+13 is to set forth the technical procedures, requirements, and minimum
+14 standards which shall regulate and control fire protection, storage, and
+15 handling of hazardous materials or any other requirements as set forth in
+16 this Code, the International Fire Code and standards, or any other nationally
+17 recognized standards and life safety procedures, as adopted herein.
+18 (h) Technical Requirements (Specific). Except as otherwise
+19 provided by this Code, all fire protection procedures, requirements, and
+20 minimum standards which shall regulate and control fire protection, storage
+21 and handling of hazardous materials and other life safety requirements shall
+- 13 -
+
+/61
+HOUSE BILL 24-
+1 conform to the requirements of the International Fire Code that will be
+2 applied in the CNMI Appendices B, C, D & I and all other related reference
+3 publications of the International Fire Code, as amended, published by the
+4 International Code Council or its successor entity.
+5 (i) Fire Safety Code Revolving Fund.
+6 (1) The Department of Finance shall establish three (3)
+7 accounts to be known as the "Fire Safety Code Revolving Funds".
+8 The fees collected from each senatorial district shall be deposited
+9 into each respective account;
+10 (2) Notwithstanding any other provision of law, the funds
+11 collected and deposited pursuant to subsection (i)(1) shall be
+12 expended continuously without further appropriation and solely for
+13 the repair, maintenance, and upgrade of DFEMS-DFPAI vehicles,
+14 office equipment, and supplies; for DFPAI personnel salaries; and
+15 for DFPAI personnel continuing education and training, including
+16 specialized training, department training, in-service training, and
+17 public education outreach programs;
+18 (3) The expenditure authority shall be the Commissioner of
+19 the Department of Fire and Emergency Medical Services for Saipan,
+20 the Resident Deputy Commissioner for Tinian and Rota;
+21 (4) Funds deposited into the Fire Safety Code Revolving
+- 14 -
+
+HOUSE BILL 24- OX
+1 Funds account shall not be reprogrammed for any other purpose or
+2 to any other agency.
+3 Section 7337. Adoption of Other Codes; Modification of
+4 Existing Codes.
+5 (a) The International Fire Code (IFC) as published by the
+6 International Code Council, is hereby adopted and enacted as the fire code
+7 for the Commonwealth of the Northern Mariana Islands (CNMI),
+8 commencing with the 2018 Edition of the IFC, including the entirety of the
+9 Appendices. The IFC shall be recognized as the standard for the furtherance
+10 of the intent of Division 7, Chapter 3 of this Title, the Commonwealth Fire
+11 Safety Code, regulating and governing the safeguarding of life and property
+12 from fire and explosion hazards arising from the storage, handling, and use
+13 of the hazardous substances, materials, and devices and from conditions
+14 hazardous to life or property in the occupancy of buildings and premises in
+15 the Commonwealth of Northern Mariana Islands.
+16 (b) The Commissioner is hereby authorized without further
+17 legislation to adopt, as appropriate for the Commonwealth, other
+18 subsequent editions of the IFC, including the entirety of the Appendices,
+19 national codes and standards, or amendments to previously adopted codes
+20 and standards covering life safety and fire protection regulations. The codes,
+21 standards, and amendments shall be listed in the regulations."
+- 15 -
+
+HOUSE BILL 24- 1 0
+1 Section 3. Severabilitv. If any provisions of this Act or the application of
+2 any such provision to any person or circumstance should be held invalid by a court
+3 of competent jurisdiction, the remainder of this Act or the application of its
+4 provisions to persons or circumstances other than those to which it is held invalid
+5 shall not be affected thereby.
+6 Section 4. Savings Clause. This Act and any repealer contained herein
+7 shall not be construed as affecting any existing right acquired under contract or
+8 acquired under statutes repealed or under any rule, regulation, or order adopted
+9 under the statutes. Repealers contained in this Act shall not affect any proceeding
+10 instituted under or pursuant to prior law. The enactment of the Act shall not have
+11 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+12 which shall already be in existence on the date this Act becomes effective.
+13 Section 5. Effective Date. This Act shall take effect upon its approval by
+14 the Governor, or it becoming law without such approval.
+5/ 11/ /t2
+Prefiled:
+Date: 3// I7 Introduced by:
+Rep. Elias J. M. Rangamar
+Reviewed for legal sufficiency by:
+err--
+H se Legal Counsel
+Date: ') °
+- 16 -

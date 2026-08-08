@@ -1,0 +1,331 @@
+Title: 
+Official Title: 
+Source: versions - HB 24-87
+Media Type: application/pdf
+
+================================================================================
+
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+Regular Session, 2026 H. B. 24- S ri
+A BILL FOR AN ACT
+To require an independent valuation of the Commonwealth
+Utilities Corporation (CUC), restore constitutional and audit
+oversight, modernize procurement and review procedures,
+protect ratepayers, and clarify the economic framework for any
+privatization transaction; and for other purposes.
+BE IT ENACTED BY THE 24T11 NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Short Title. This Act may be cited as the "CUC Independent
+2 Valuation, Oversight, and Ratepayer Protection Amendment Act of 2026."
+3 Section 2. Findings and Purpose. The Legislature finds that Public Law
+4 16-17, the "CUC Private Sector Partnership Act of 2008," authorized the
+5 privatization and private sector participation in the operations of the
+6 Commonwealth Utilities Corporation (CUC), including the potential full
+7 privatization of its electric power generation operations.
+8 The Legislature further finds that Public Law 16-17 established a minimum
+9 consideration of two hundred fifty million dollars ($250,000,000.00) for full
+10 privatization of CUC's electric power generation operations, but did not require any
+
+HOUSE BILL 24- gq
+1 independent, professional valuation of CUC's assets, liabilities, or projected
+2 revenues to justify that amount.
+3 The Legislature further finds that certain provisions of Public Law 16-17,
+4 including exemptions from the general procurement law, prohibitions on the use of
+5 requests for proposals for complex public-private partnership agreements,
+6 restrictions on the role of the Office of the Public Auditor (OPA), compressed
+7 protest and appeal timelines, and the treatment of private sector partners as wholly
+8 private for purposes of transparency, have created legal uncertainty and undermined
+9 public confidence in any potential privatization transaction.
+10 The Legislature further finds that any privatization or public-private
+11 partnership involving CUC must be grounded in a defensible independent
+12 valuation, subject to constitutional and statutory audit and oversight, procured
+13 through transparent and competitive procedures consistent with best practices in
+14 public-private partnerships, and structured to protect ratepayers and ensure that any
+15 proceeds are used for long-term infrastructure stability and rate relief.
+16 Section 3. Repeal and Re-enactment. Title 4, Economic Resources,
+17 Division 8, Utilities, Chapter 1, Commonwealth Utilities Corporation, Article 9,
+18 Commonwealth Utility Commission Private Sector Partnership, Section 8191(a) is
+19 hereby repealed and enacted to read as follows:
+20 "(a) Competitive process. The Commonwealth Utilities Corporation (CUC)
+21 shall not enter into any form of performance management contract, franchise
+2
+
+HOUSE BILL 24- V /
+1 agreement, public utilities cooperative, build/operate/transfer agreement,
+2 independent power producer agreement, or private sector assistance agreement, or
+3 full or partial privatization of its services unless the agreement is awarded pursuant
+4 to a competitive process using either an invitation to bid (ITB) or a request for
+5 proposals (RFP). Any RFP shall specify clear evaluation criteria, including
+6 technical capability, financial capacity, tariff and rate impacts, service quality,
+7 resilience, renewable energy commitments, and risk allocation. CUC shall conduct
+8 such procurements in accordance with its procurement regulations and the
+9 applicable provisions of 1 CMC § 7404 et seq., except as expressly modified by
+10 this Act."
+11 Section 4. Repeal and Re-enactment. Title 4, Economic Resources,
+12 Division 8, Utilities, Chapter 1, Commonwealth Utilities Corporation, Article 9,
+13 Commonwealth Utility Commission Private Sector Partnership, Section 8191 (d)
+14 (7) is hereby repealed and enacted to read as follows:
+15 "(7) Full or partial privatization of CUC's electric power generation operations
+16 is authorized, provided that any private entity that acquires or operates such assets
+17 under a long-term concession shall:
+18 (a) Provide total consideration, in cash and/or equivalent infrastructure
+19 investments, that is not less than the independently appraised fair market
+20 value of the assets and rights to be privatized, as determined pursuant to a
+21 new Section 4 CMC § 8197 (Independent Valuation Requirement), plus
+3
+
+HOUSE BILL 24- 19
+1 such additional consideration as the Legislature may require by law. The
+2 Legislature may retain or adjust the two hundred fifty million dollars
+3 ($250,000,000.00) benchmark as an initial policy target, but shall ensure
+4 that final minimum terms reflect the results of the independent valuation
+5 and the public interest in reliable, affordable, and sustainable utility
+6 services. Any acquisition or concession shall be for a term that balances
+7 investment recovery with flexibility for future policy needs and shall not
+8 exceed forty (40) years without further legislative authorization.
+9 (b) Commit, through an integrated resource plan approved by the Public
+10 Utilities Commission, to a realistic and economically sound renewable
+11 energy portfolio standard that targets at least fifty percent (50%) of net
+12 electricity sales from renewable resources within a period determined
+13 feasible by the Commission, considering system reliability, cost impacts,
+14 and available technologies; and
+15 (c) Meet minimum performance, reliability, resiliency, and service quality
+16 standards established by the Public Utilities Commission, including
+17 penalties for non-performance."
+18 Section 5. Amendment. Title 4, Economic Resources, Division 8, Utilities,
+19 Chapter 1, Commonwealth Utilities Corporation, Article 9, Commonwealth Utility
+20 Commission Private Sector Partnership, Section 8191(h) (1) is hereby amended to
+21 read as follows:
+4
+
+icri
+HOUSE BILL 24-
+1 "(1) Any PSAA award shall not be final unless the Public Utilities
+2 Commission (herein "PUC") approves it under 4 CMC §§ 8452, 8453, or 8454
+3 within ninety (90) /12 days."
+4 Section 6. Repeal and Re-enactment. Title 4, Economic Resources,
+5 Division 8, Utilities, Chapter 1, Commonwealth Utilities Corporation, Article 9,
+6 Commonwealth Utility Commission Private Sector Partnership, Section 8191(i) is
+7 hereby repealed and enacted to read as follows:
+8 "(i) Scope of procurement. Procurement under this Act shall be subject to
+9 the Commonwealth Procurement Code, 1 CMC § 7404 et seq., and regulations
+10 promulgated thereunder. In the event of any conflict between this Act and the
+11 Procurement Code, the provision that affords greater transparency, competition,
+12 and protection of the public interest shall govern. The Legislature may, by law,
+13 authorize specific and limited exemptions for particular projects, which
+14 exemptions shall be narrowly construed."
+15 Section 7. Enactment. Notwithstanding any laws or regulations to the
+16 contrary and subject to proper codification by the CNMI Law Revision
+17 Commission, under Title 4, Economic Resources, Division 8, Utilities, Chapter 1,
+18 Commonwealth Utilities Corporation, Article 9, Commonwealth Utility
+19 Commission Private Sector Partnership, Section 8191, a new subsection 8191 (j)
+20 is hereby enacted:
+5
+
+HOUSE BILL 24- i rl
+1 "(j) OPA and PUC Oversight. The Office of the Public Auditor shall retain
+2 and may exercise all authority conferred by Article III, Section 12 of the
+3 Commonwealth Constitution and by 1 CMC § 7701 et seq. to audit, investigate,
+4 and review any procurement, private sector assistance agreement (PSAA),
+5 privatization transaction, concession, or related contract involving CUC, including
+6 the expenditure or obligation of public funds, the use of public assets, and the
+7 effects on ratepayers. Nothing in this Act shall be construed to diminish, restrict, or
+8 supersede the constitutional and statutory authority of the Office of the Public
+9 Auditor."
+10 Section 8. Enactment. Notwithstanding any laws or regulations to the
+11 contrary and subject to proper codification by the CNMI Law Revision
+12 Commission, under Title 4, Economic Resources, Division 8, Utilities, Chapter 1,
+13 Commonwealth Utilities Corporation, Article 9, Commonwealth Utility
+14 Commission Private Sector Partnership, Section 8191, new subsections 8191 (k)
+15 and (1) is hereby enacted:
+16 "(k) Notwithstanding subsections (a) through (j), any business that is a party
+17 to a PSAA, concession, or privatization agreement with CUC shall, with respect to
+18 the performance of that agreement and the receipt and use of funds derived from
+19 ratepayers or public assets:
+6
+
+HOUSE BILL 24- 19
+1 (1) Be subject to audit, investigation, and review by the Office of the
+2 Public Auditor and the Public Utilities Commission for all revenues,
+3 expenditures, assets, and obligations related to the agreement;
+4 (2) Maintain separate books and records for the agreement in
+5 accordance with generally accepted accounting principles, and make
+6 such records available to the Office of the Public Auditor, the Public
+7 Utilities Commission, and CUC upon reasonable notice;
+8 (3) Provide periodic financial, operational, and performance reports as
+9 may be required by the agreement, by CUC, or by the Public Utilities
+10 Commission, which reports shall be treated as public records to the
+11 maximum extent permitted by law; and
+12 (4) Comply with applicable Commonwealth ethics, anti-corruption, and
+13 conflict-of-interest laws.
+14 (1) Nothing in this section shall be construed to exempt a PSAA contractor
+15 from liability for fraud, waste, abuse, or other misconduct, or from judicial review
+16 of its actions in relation to the provision of utility services under a contract with
+17 CUC."
+18 Section 9. Enactment. Notwithstanding any laws or regulations to the
+19 contrary and subject to proper codification by the CNMI Law Revision
+20 Commission, under Title 4, Economic Resources, Division 8, Utilities, Chapter 1,
+21 Commonwealth Utilities Corporation, Article 9, Commonwealth Utility
+7
+
+in
+HOUSE BILL 24-
+1 Commission Private Sector Partnership, adding a new Section 8197, is hereby
+2 enacted:
+3 "§ 8197. Independent Valuation Requirement.
+4 (a) No full or partial privatization of CUC's electric power generation,
+5 water, or wastewater operations shall be finalized unless and until an independent,
+6 professional valuation of CUC's relevant assets, liabilities, and projected
+7 revenues is conducted by a firm with demonstrable expertise in utility sector
+8 appraisals. The valuation shall utilize recognized methods including, but not
+9 limited to, fair market value, replacement cost, net present value of projected
+10 income, and an assessment of asset condition, and shall evaluate potential impacts
+11 on ratepayers and long-term public costs.
+12 (b) The final valuation report shall be submitted to the CUC Board of
+13 Directors, the Commonwealth Public Utilities Commission (PUC), the Attorney
+14 General, and the presiding officers of the Legislature. The report shall be made
+15 available to the public at least ninety (90) calendar days prior to the execution of
+16 any privatization agreement, public-private partnership agreement, or long-teiiii
+17 concession involving CUC's core utility services.
+18 (c) The valuation shall be used to assess the reasonableness of any
+19 reference to a minimum aggregate consideration, including the two hundred fifty
+20 million dollars ($250,000,000.00) benchmark specified in this Act. If the
+21 independent valuation determines that the fair market value of the assets,
+8
+
+HOUSE BILL 24-
+1 operations, and associated rights to be privatized is significantly higher or lower
+2 than any such benchmark, the Legislature shall, by subsequent law, revise the
+3 minimum terms for any privatization or concession to ensure that the
+4 Commonwealth receives fair and reasonable value and that ratepayers are
+5 protected.
+6 (d) Any contract, agreement, or instrument purporting to effect a full or
+7 partial privatization of CUC's electric power generation, water, or wastewater
+8 operations that is executed without substantial compliance with this Independent
+9 Valuation Requirement shall be void and unenforceable."
+10 Section 10. Enactment. Notwithstanding any laws or regulations to the
+11 contrary and subject to proper codification by the CNMI Law Revision
+12 Commission, under Title 4, Economic Resources, Division 8, Utilities, Chapter 1,
+13 Commonwealth Utilities Corporation, Article 9, Commonwealth Utility
+14 Commission Private Sector Partnership, adding a new Section 8198, is hereby
+15 enacted:
+16 "§ 8198. Procurement Review Timelines and Standing.
+17 (a) Any provision of law or regulation that limits the period for bid or
+18 proposal submission to ten (10) days is hereby amended to twenty (20) days.
+19 (b) Any provision of law or regulation that limits the period for review
+20 or action to seven (7) days is hereby amended to thirty (30) days.
+9
+
+HOUSE BILL 24- 4211
+1 (c) Standing. The following persons shall have standing to obtain
+2 review of a CUC PSAA procurement:
+3 (1) Any bidder or offeror that submitted a responsive bid or proposal;
+4 (2) Any ratepayer of CUC who can demonstrate a material and non-
+5 speculative economic interest in the outcome; and
+6 (3) Any non-profit organization whose members are ratepayers of CUC
+7 and that asserts a public-interest claim related to the procurement.
+8 Standing shall be liberally construed in favor of allowing meaningful
+9 review of major long-term contracts affecting core utility services."
+10 Section 11. Enactment. Notwithstanding any laws or regulations to the
+11 contrary and subject to proper codification by the CNMI Law Revision
+12 Commission, under Title 4, Economic Resources, Division 8, Utilities, Chapter 1,
+13 Commonwealth Utilities Corporation, Article 9, Commonwealth Utility
+14 Commission Private Sector Partnership, adding a new Section 8199, is hereby
+15 enacted:
+16 "§ 8199. CUC Bankruptcy Protection.
+17 The Commonwealth Utilities Corporation (CUC) is hereby granted the
+18 corporate power under Title 4, Economic Resources, Division 8, Utilities, Chapter
+19 1, Commonwealth Utilities Corporation, Article 2, Commonwealth Utilities
+20 Corporation Established, Section 8123, Commonwealth Utilities Corporation:
+- 10 -
+
+HOUSE BILL 24- (V
+1 Powers, to seek bankruptcy protection consistent with its corporate purposes;
+2 provided that:
+3 (a) CUC may not file for relief under any chapter of the United States
+4 Bankruptcy Code without prior authorization by joint resolution of
+5 the Legislature following submission of:
+6 (1) A detailed financial and operational analysis by CUC;
+7 (2) An impact assessment from the Public Utilities Commission
+8 regarding service continuity and ratepayer impacts; and
+9 (3) An advisory opinion from the Office of the Public Auditor
+10 regarding fiscal implications for the Commonwealth;
+11 (b) No PSAA, concession, or privatization agreement shall contain any
+12 provision requiring CUC to seek bankruptcy protection as a
+13 condition precedent or remedy for breach; and
+14 (c) Any bankruptcy plan shall prioritize the continuity of essential
+15 utility services, protection of ratepayers, and preservation of critical
+16 infrastructure."
+17 Section 12. Enactment. Notwithstanding any laws or regulations to the
+18 contrary and subject to proper codification by the CNMI Law Revision
+19 Commission, under Title 4, Economic Resources, Division 8, Utilities, Chapter 1,
+20 Commonwealth Utilities Corporation, Article 9, Commonwealth Utility
+
+sn
+HOUSE BILL 24-
+1 Commission Private Sector Partnership, adding a new Section 8200, is hereby
+2 enacted:
+3 "§ 8200. Use of Privatization Proceeds.
+4 (a) Net cash proceeds received by the Commonwealth or CUC from any
+5 privatization or long-term concession of CUC's core utility services, after payment
+6 of transaction costs approved by the Public Utilities Commission and the Office of
+7 the Public Auditor, shall be allocated as follows unless otherwise provided by law:
+8 (1) Not less than fifty percent (50%) shall be applied to retire existing
+9 CUC debt and other legally binding obligations associated with CUC's utility
+10 operations;
+11 (2) Not less than twenty-five percent (25%) shall be deposited into a
+12 dedicated CUC Infrastructure and Rate Stabilization Fund, to be used solely for
+13 capital replacement, grid resilience and modernization, and temporary rate
+14 stabilization in response to extraordinary cost shocks, and not for routine operating
+15 expenses; and
+16 (3) The balance may be deposited into the Commonwealth General
+17 Fund or other funds as appropriated by law, subject to the requirement that any such
+18 appropriations be consistent with sound fiscal policy and long-term infrastructure
+19 needs.
+20 (b) The CUC Infrastructure and Rate Stabilization Fund shall be subject
+21 to annual audit by the Office of the Public Auditor, and an annual report on its
+- 12 -
+
+HOUSE BILL 24- i ti
+1 balance, investments, and uses shall be submitted to the Governor and the
+2 Legislature."
+3 Section 13. Enactment. Notwithstanding any laws or regulations to the
+4 contrary and subject to proper codification by the CNMI Law Revision
+5 Commission, under Title 4, Economic Resources, Division 8, Utilities, Chapter 1,
+6 Commonwealth Utilities Corporation, Article 9, Commonwealth Utility
+7 Commission Private Sector Partnership, adding a new Section 8201, is hereby
+8 enacted:
+9 "§ 8201. Funding for Independent Valuation.
+10 CUC is authorized to use internal funds or apply for technical or financial
+11 assistance from the Commonwealth Development Authority, the U.S. Department
+12 of the Interior, or other public or private sources to finance the independent
+13 valuation required by this Act. CUC shall, to the greatest extent practicable, seek
+14 grant funding or cost-sharing arrangements that minimize additional burdens on
+15 ratepayers."
+16 Section 14. Severability. If any provisions of this Act or the application of
+17 any such provision to any person or circumstance should be held invalid by a court
+18 of competent jurisdiction, the remainder of this Act or the application of its
+19 provisions to persons or circumstances other than those to which it is held invalid
+20 shall not be affected thereby.
+- 13 -
+
+VI
+HOUSE BILL 24-
+1 Section 15. Savings Clause. This Act and any repealer contained herein
+2 shall not be construed as affecting any existing right acquired under contract or
+3 acquired under statutes repealed or under any rule, regulation, or order adopted
+4 under the statutes. Repealers contained in this Act shall not affect any proceeding
+5 instituted under or pursuant to prior law. The enactment of the Act shall not have
+6 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+7 which shall already be in existence on the date this Act becomes effective.
+8 Section 16. Effective Date. This Act shall take effect upon its approval by
+9 the Governor, or it becoming law without such approval.
+Prefiled: ii/ 2Ae
+Date: Introduced by:
+Rep. Vincent R. Aldan
+Reviewed for legal sufficiency by:
+Ho se Legal Counsel
+Date:
+- 14 -

@@ -1,0 +1,1834 @@
+Title: 
+Official Title: 
+Source: versions - HB 24-79
+Media Type: application/pdf
+
+================================================================================
+
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+2*-141
+Regular Session, 2025 H. B.
+A BILL FOR AN ACT
+To amend Title 4, Division 2, Chapter 3 of the Commonwealth
+Code, to amend the Commonwealth Gaming provisions, remove
+exclusive license, and allow for more casino licenses; and for
+other purposes.
+11
+BE IT ENACTED BY THE 24T NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The Legislature finds that the
+2 Commonwealth Casino Law, as originally enacted, provided for an exclusive
+3 casino license. This model has proven unsustainable, as the sole licensee became
+4 entangled in litigation and was unable to deliver on its commitments. Reviving the
+5 industry requires a new framework that fosters competition, attracts credible
+6 investment, and restores confidence in the Commonwealth's gaming sector.
+7 The Legislature further finds that recent asset transitions in Saipan
+8 demonstrate continued investor interest in casino development. These
+9 developments present an opportunity to restructure the industry by authorizing
+10 multiple non-exclusive licenses under strong regulatory oversight, rather than
+11 relying on a single operator. Allowing qualified operators to enter the market will
+
+HOUSE BILL 21" .
+1 reactivate hotels, unlock construction projects, and create local jobs, while
+2 promoting transparency and accountability.
+3 The Legislature recognizes that the decline of tourism airlift and visitor
+4 arrivals since the pandemic has undermined the assumptions of the prior exclusive
+5 model. Diversifying operators and projects will support a broader tourism recovery
+6 by re-opening hotel inventory, generating demand for new air routes, and aligning
+7 with global travel trends. Modernization is also required: advancements in Internet
+8 gaming and digital payment technologies, including stablecoins and municipal
+9 tokens, call for updated regulatory authority at the Commonwealth level to ensure
+10 consumer protection and compliance with federal law.
+11 The Legislature further finds that gaming revenues must be tied directly to
+12 a compelling public purpose. Retirees currently receive seventy-five percent (75%)
+13 of their pensions from the Settlement Fund, with at least $12.5 million needed
+14 annually to cover the remaining twenty-five percent (25%) obligation. By
+15 establishing a performance-based Casino Gross Revenue Tax (CGRT), this Act
+16 ensures a reliable stream of revenue prioritized for retirees, while protecting the
+17 General Fund for essential government services.
+18 Finally, the Legislature affirms that a revitalized industry depends on
+19 credible and independent regulation. Nothing in this Act diminishes the powers of
+20 the Commonwealth Casino Commission (Commission). Instead, this Act
+21 strengthens the Commission's role in licensing, oversight, and enforcement,
+2
+
+2q
+HOUSE BILL
+1 ensuring that future operators meet the highest standards of suitability and financial
+2 integrity. The Commission will be self-funded through dedicated regulatory fees,
+3 avoiding any burden on the Commonwealth's general revenues.
+4 It is therefore the policy of the Commonwealth to end statutory exclusivity,
+5 authorize multiple non-exclusive casino licenses, modernize oversight to reflect
+6 current gaming technologies, and dedicate revenues to public priorities, while
+7 safeguarding transparency, accountability, and the long-term economic stability of
+8 the Commonwealth.
+9 Section 2. Amendment. Title 4, Division 2, Chapter 3, Articles 1, 2, 3 are
+10 amended, and a new Article 6 is hereby enacted, to read as follows:
+11 "Article 1. Gaming Provisions.
+12 § 2301. Exclusion from Gambling Prohibition.
+13 Casino gaming and wagering is authorized in the Commonwealth provided
+14 that such gaming and wagering occurs in the casino facilities of the casino operator
+15 licensed pursuant to this chapter or in a casino licensed pursuant to the laws of a
+16 Senatorial District.
+17 § 2302. Central Government Taxation.
+18 (a) The taxes imposed by 4 CMC § 1505, 4 CMC § 1503, Amusement
+19 Machines, 4 CMC § 1504, Limitation on Number of Poker Machine License Issued,
+20 and 4 CMC § 1506 Criminal Penalty, and 4 CMC § 1507, Regulations, shall not
+21 apply to a licensed casino.
+3
+
+HOUSE BILL 24 •11
+1 (b) Funds received from the casino license fees pursuant to 4 CMC § 2306
+2 shall not be Commonwealth general funds and such funds shall be appropriated
+3 pursuant to this chapter.
+4 (c) No Qualifying Certificates for Casinos in the Third Senatorial District
+5 or Saipan.
+6 (1) The Investment Incentive Act of 2000 (Public Law 12-32), as
+7 amended and re-codified at 4 CMC §§ 50201 et seq., shall not be applicable
+8 to the casino located on Saipan and licensed pursuant to this chapter, and
+9 such casino shall not be eligible for a qualifying certificate.
+10 Notwithstanding any other provision of law, if such casino, located on
+11 Saipan is part of a larger business or project for which a qualifying
+12 certificate is issued under such act, no tax on or derived from the operation
+13 or revenue of such casino, including but not limited, to concession food and
+14 beverage sales within a casino, shall be abated or rebated by virtue of such
+15 certificate.
+16 (2) The Investment Incentive Act of 2000 (Public Law 12-32), as
+17 amended and re-codified at 4 CMC §§ 50201 et seq., applies to any business
+18 engaged in casino gaming activities conducted within its hotel-casino
+19 premises located in the senatorial districts of Tinian or Rota, and any such
+20 casino may be eligible for a qualifying certificate except for taxes applicable
+21 to casino gaming revenues.
+4
+- -
+
+HOUSE BILL 24 . 41
+1 (d) After April 2, 2015, no new or additional licenses for poker, pachinko,
+2 or similar amusement machines, but not including electronic gaming machines as
+3 defined in 6 CMC § 3154(a)(4), shall be granted or allowed to operate outside of
+4 the approved casino establishment or hotel, within the Third Senatorial District.
+5 The licenses issued for poker, pachinko, and similar amusement machines that
+6 began its operation prior to April 2, 2015 shall be allowed to continue operation in
+7 the Third Senatorial District.
+8 (e) Casino Regulatory Fee: Any fees imposed by the Commonwealth
+9 Casino Commission on a casino licensee pursuant to this Act or by regulation are
+10 capped on an annual basis as described in 4 CMC § 2309.
+11 § 2303. Central Government Fees and Licenses.
+12 The casino established pursuant to this chapter shall obtain and keep a valid
+13 business license and shall pay all fees associated with such business license
+14 prescribed by law unless exempted under this chapter.
+15 § 2304. Criminal Penalties.
+16 (a) Any person who knowingly and willfully violates any provision of this
+17 chapter or any regulation issued by a casino commission shall, upon conviction, be
+18 subject to a fine not less than $10,000 nor more than $100,000, or be imprisoned
+19 for not more than three years, or both.
+20 (b) Any penalty imposed under this section shall be in addition to any civil
+21 penalty or other sanction imposed by or pursuant to this chapter.
+5
+
+24 -417q
+HOUSE BILL
+1 § 2305. Administrative Procedure.
+2 Any action taken by the Commonwealth Casino Commission, including the
+3 promulgation of any rule or regulation and the imposition of any civil penalty, shall
+4 be subject to the Administrative Procedure Act (1 CMC §§ 9101 et seq.). Provided
+5 that Commission orders regarding an applicant or licensee's security or safety
+6 procedures and the storage or movement of money shall not be published in the
+7 CNMI Register but shall be effective against applicants or licensees as if it had been
+8 published in the Register, if the applicant or licensee was given actual notice of the
+9 order.
+10 § 2306. Fees and Initial Investment.
+11 (a) Application Fees. An applicant for a casino license under this chapter
+12 shall pay a one-time nonrefundable application fee of five hundred thousand dollars
+13 ($500,000) per location. The applicant must submit an application to the
+14 Commonwealth Casino Commission and on the same day deposit the five hundred
+15 thousand dollars ($500,000) fee with the Commission in the Commonwealth
+16 Casino Applicant Fund (CCAF). The application fee shall be deemed to include all
+17 costs reasonably incurred by the Commission in connection with the review,
+18 investigation, and vetting of the applicant and any associated persons, including but
+19 not limited to background checks, financial suitability analyses, and other due
+20 diligence activities necessary to determine licensure eligibility.
+6
+
+2 40. '7'?
+HOUSE BILL
+1 (b) Casino License Fees. The annual fee for the casino license shall be one
+2 (1) million dollars ($1,000,000) and shall be paid as follows:
+3 (1) Payment of $2,000,000 shall be paid upon the receipt of the
+4 casino license to cover the first and second year.
+5 (i) To be eligible for the casino license, the $2,000,000 required for
+6 the first and second year fees shall be deposited in a third-party independent
+7 escrow account, to be selected by the Secretary of Finance. Documentation
+8 evidencing such deposit shall be submitted to the Commonwealth Casino
+9 Commission with the applicant's business plan. The funds and any interest
+10 shall be released from escrow to the Commonwealth Treasurer upon the
+11 issuance of the casino license to the applicant depositing the funds. If a
+12 casino license is not issued to the applicant depositing the funds, the funds
+13 minus the non-refundable application fee and any interest shall be released
+14 to such applicant upon the denial of the application.
+15 (2) The annual license fee of $1,000,000 shall be paid when the fees
+16 for the third through fifth year are due; and
+17 (3) The annual license fee of $1,000,000 plus the adjusted amount,
+18 in accordance with the Consumer Price Index (CPI) described in section 4
+19 herein shall be paid when the fees for the sixth year are due; and $1,000,000
+20 plus the adjusted amount in accordance with the CPI described in section 4
+21 herein for each year thereafter for every 5 year cycle.
+7
+-
+
+HOUSE BILL
+1 (4) The annual license fee shall be adjusted every five years based
+2 on the cumulative change in the Consumer Price Index developed by the
+3 Commonwealth Department of Commerce for Saipan for the previous five
+4 years. The license fee shall not be reduced below $1,000,000.
+5 (c) An applicant must satisfy the payment requirements under subsections
+6 (a) and (b) of this section to be eligible for a license under this chapter. An applicant
+7 who fails to deposit the $500,000 application fee and the $2,000,000 Casino
+8 License Fee, as required, shall be automatically rejected.
+9 (d) An applicant who fulfills the requirements of subsections (a) and (b)
+10 shall submit an acceptable business plan to the Commonwealth Casino Commission
+11 no later than the date designated by the Commonwealth Casino Commission.
+12 (1) The business plan must provide a timeline and cost breakdown
+13 that specifically demonstrates how and when the applicant will comply with
+14 the requirements of the minimum initial investment under subsection I.
+15 (2) The applicant who is granted a license under this chapter shall
+16 make an initial investment of at least three hundred million dollars
+17 ($300,000,000) for new construction, to include a casino and a resort with
+18 a minimum of 250 guest rooms.
+19 (3) In the alternative to subsection (2), an applicant who is granted
+20 a license under this chapter may satisfy the initial investment requirement
+21 by acquiring and renovating an existing hotel property for the purpose of
+8
+- -
+
+2.q 179
+HOUSE BILL e.
+1 establishing a casino and resort facility. Such acquisition and renovation
+2 shall require a minimum capital investment of not less than fifty million
+3 dollars ($50,000,000), and the renovated facility shall include a casino and
+4 a resort with no fewer than 250 guest rooms. The renovated facility shall
+5 be upgraded to an upscale hotel and casino resort as defined and determined
+6 by the Commonwealth Casino Commission through regulation.
+7 (e) Casino License.
+8 (1) A Casino License shall be issued with respect to a single, specific
+9 location within the Third Senatorial District.
+10 (2) Once a Casino License is issued, the licensee may expand its
+11 casino facilities within the same licensed location without incurring
+12 separate or additional License Fee or Regulatory Fee obligations.
+13 (3) If a licensee seeks to operate a casino in another location within
+14 the Third Senatorial District, such operation shall constitute as a separate
+15 Casino License. Each separate license shall require independent approval
+16 by the Commonwealth Casino Commission and shall be subject to payment
+17 of a separate and additional License Fee and Regulatory Fee applicable to
+18 that specific location.
+19 (4) Accordingly, a single casino operator may be issued multiple
+20 Casino Licenses for distinct separate locations within the Third Senatorial
+9
+
+24-71
+HOUSE BILL
+1 District, provided that each license is separately approved and that the
+2 License Fee and Regulatory Fee are paid in full for each licensed location.
+3 (0 Assignment or Transfer of an Existing Casino License.
+4 (1) In the event of an assignment or transfer of a casino license, the
+5 prospective licensee shall, upon approval by the Commonwealth Casino
+6 Commission, pay the non-refundable application fee, the one-time license
+7 fee, and the regulatory fee as required under the law in effect prior to the
+8 enactment of this Act. Thereafter, all annual license fees and regulatory fees
+9 shall be paid in accordance with the provisions of this Act and its
+10 amendments. The Commonwealth Casino Commission shall execute a new
+11 Casino License Agreement, or amend the existing Casino License
+12 Agreement, to incorporate the revised terms, conditions, and requirements
+13 established under this Act.
+14 § 2307. Disposition of Revenues.
+15 (a) All monies collected from casino license fees pursuant to 4 CMC § 2306
+16 shall be deposited into the Commonwealth Treasury. Such funds shall be
+17 maintained in a separate account, distinct from the general fund of the
+18 Commonwealth government, and shall remain subject to legislative appropriation.
+19 (b) All non-refundable application fees shall be deposited in the Casino
+20 Commission Application Fee (CCAF) Special Fund. Monies in the CCAF Special
+21 Fund shall be expended by the Commonwealth Casino Commission for the
+- 10 -
+
+HOUSE BILL
+1 investigation of license applicants pursuant to 4 CMC § 2318, and for all reasonable
+2 costs associated with the review, granting, or denial of a casino license application.
+3 The Chairman of the Commonwealth Casino Commission shall serve as the
+4 expenditure authority for the CCAF Special Fund.
+5 Any unexpended balance in the CCAF Special Fund, after the issuance of a
+6 license and payment of all obligations and encumbrances related to application
+7 review—including investigative, travel, and meeting costs, etc. shall be transferred
+8 to the Commonwealth Casino Commission Regulatory Fee Fund (CCCRF).
+9 § 2308. Disposition of Casino Gross Revenue Tax (CGRT).
+10 The Secretary of Finance shall establish a special Casino Gross Revenue
+11 Tax (CGRT) Account separate from the general funds. The funds in the CGRT
+12 Account shall not lapse and are not subject to fiscal year limitation. In addition, the
+13 Secretary of Finance shall keep a record of the CGRT funds allocated pursuant to
+14 subsections (a) and (b). Notwithstanding 4 CMC §§ 1802 and 1804 or any other
+15 laws, gross revenue tax generated from a license holder under this chapter shall be
+16 deposited in the special CGRT Account, and shall be appropriated by the
+17 Legislature, unless otherwise specifically provided in this section, for the following
+18 purposes:
+19 (a) The funds deposited into the CGRT Account after the beginning of each
+20 calendar year shall be earmarked and available for appropriation by the Legislature
+21 to cover or supplement the payment of 25% of class members' full benefits and any
+
+4-'79
+HOUSE BILL 1
+1 bonus to be distributed equally to all Settlement Class Members and CNMI Fund
+2 members receiving annuity.
+3 (b) Establishment. There is hereby established in the CGRT Account a
+4 subaccount designated as the Reserve Fund.
+5 (1) The Secretary of Finance shall cause to be deposited in the
+6 Reserve Fund 5% of the tax revenue received pursuant to this section and
+7 any other funds as may be designated by the Legislature.
+8 (2) The Secretary of Finance shall invest and manage Reserve Fund
+9 assets as a prudent investor would, by considering the purposes, terms,
+10 distribution requirements, and other circumstances of the Reserve Fund.
+11 The Secretary shall engage one or more fund custodians to assume
+12 responsibility for the physical possession of fund assets or evidences of
+13 assets. The custodian shall submit such reports, accountings, and other
+14 information in such forms and at such times as requested by the Secretary.
+15 All costs incurred for custodial services shall be paid from the fund. The
+16 custodian shall hold all assets for the account of the fund and shall act only
+17 upon the instruction of the Secretary, its administrator, or a member,
+18 committee, or agent so authorized by the Secretary. In order to secure
+19 expert advice and counsel, the Secretary may engage one or more
+20 investment managers and investment advisors. All costs incurred in this
+21 connection shall be paid from the Reserve Fund.
+- 12 -
+
+HOUSE BILL 2.4 ' 117 41
+1 (c) After the amounts required pursuant to subsections (a) and (b) are
+2 satisfied, the balance of the CGRT Account shall be recorded, maintained, and
+3 accounted for to be reserved for appropriation by the Legislature.
+4 (d) Within 30 days after each quarter, the Secretary of Finance shall report
+5 to the presiding officers of the legislature describing the total funds in the CGRT
+6 and the amount reserved for appropriation in accordance with subsections (a), and
+7 (b).
+8 (e) The Commonwealth Casino Commission shall by regulation define
+9 "Casino Gross Revenue Tax" (CGRT) consistent with generally accepted gaming
+10 industry principles within the applicable tax laws in the Commonwealth., provided
+11 that CGRT shall, at a minimum, mean the total amount wagered on gaming
+12 activities less winnings paid out to patrons, excluding non-cashable promotional
+13 credits and adjustments allowed by regulation.
+14 (f) Imposition and Rate. A tax is hereby imposed on each casino licensee's
+15 CGRT less any rolling commission or rolling rebate approved by the Commission
+16 at a rate to be set by the Commission by regulation, not to exceed fifteen percent
+17 (15%). The Commission may establish a single uniform rate or a schedule of rates
+18 by game type or scale of operations, provided that the maximum rate shall not
+19 exceed fifteen percent (15%).
+20 (g) In Lieu of Business Gross Revenue Tax (BGRT).
+- 13 -
+
+2*- 7
+HOUSE BILL
+1 The CGRT imposed under this section is in lieu of the Business Gross
+2 Revenue Tax (BGRT) with respect to gaming revenues subject to CGRT. All non-
+3 gaming revenue streams of a casino licensee, including but not limited to lodging,
+4 food and beverage, retail, entertainment, parking, and other amenities, remain
+5 subject to the BGRT and the Hotel Occupancy Tax, as applicable under law.
+6 (h) Administration and Collection. The Department of Finance (Division of
+7 Revenue and Taxation), in coordination with the Commission, shall administer,
+8 assess and collect the CGRT. The Commission shall certify each licensee's
+9 monthly CGRT for tax purposes. Each licensee shall file monthly returns and pay
+10 CGRT on or before the twentieth (20th) day of the month following the month of
+11 activity, on forms prescribed by the Department of Finance.
+12 (i) Rules. The Commission shall adopt regulations to implement this
+13 section, including definitions, reporting standards, and certification procedures.
+14 The Department of Finance may adopt rules and forms to administer, enforce, and
+15 collect the tax.
+16 fp Transition. The CGRT under this section applies to casino gross revenue
+17 received on or after the effective date of this Act. Any tax obligation under prior
+18 law for periods before the effective date remains due and enforceable.
+19 § 2309. Commonwealth Casino Commission Regulatory Fee Fund.
+20 (a) Casino Regulatory Fee. There is an established Casino Regulatory Fee,
+21 which is an annual fee due on or before October 1st of each year per licensee per
+- 14 -
+
+2q. -7 if
+HOUSE BILL
+1 location beginning October 1, 2026, or whenever paid. The Casino Regulatory Fee
+2 is the fee payable by each casino licensee per licensed location to the Commission
+3 and will cover costs, including but not limited to, those associated with the
+4 licensing, testing certification, auditing and approval of all casino slots and other
+5 gaming machines, casino table games and all other casino gaming activities
+6 conducted by the casino licensee at the licensed casino and regulated by the
+7 Commission as well as the costs of all applications, including their review, renewal
+8 and all related investigations, for licensing or permit or consent for casino employee
+9 licensees, casino key employee licenses. The Casino Regulatory Fee is due
+10 regardless of actual costs incurred by the Commission.
+11 (b) Calculation of Casino Regulatory Fee: The Casino Regulatory Fee per
+12 license per location will be a flat fee at a fixed rate of $1,000,000 annually with a
+13 five percent increase every five years for the following twenty years. After the
+14 twentieth year, the maximum Casino Regulatory Fee per each licensee per each
+15 location will be reached and maintained for the remaining duration until the end of
+16 the casino license term, including all extensions of the casino license.
+17 (c) Authorization: The Commission is authorized to collect the Casino
+18 Regulatory Fee as described in 4 CMC § 2309(a) and the receipt of full payment
+19 will be sufficient for 4 CMC § 2309(b) purposes.
+20 (d) The Commonwealth Casino Commission shall establish and maintain a
+21 Commonwealth Casino Commission Regulatory Fee Fund (CCCRF Fund) to be
+- 15-
+
+2.41
+HOUSE BILL
+411. 17
+1 kept separate and apart from the general funds of the Commonwealth government.
+2 The non-refundable application fees, investigative fees, Casino Regulatory Fees,
+3 and renewal fees for casino employee licenses, casino key employee licenses,
+4 casino service provider licenses, casino vendor licenses, casino junket operator
+5 licenses, machine and table licenses, casino-related application fees, renewal fees,
+6 or casino-gaming related regulatory fees of any kind established by and charged by
+7 the Commission shall be deposited into the CCCRF Fund. Regulatory fines or
+8 penalties imposed by the Commission shall be deposited into the CCCRF Fund.
+9 Any money or property received by the Commission from any other government or
+10 governmental agency or entity of any kind whatsoever, except for monies
+11 appropriated to the Commission by Commonwealth law shall be deposited into the
+12 CCCRF Fund. The CCCRF Fund shall be subject to annual appropriation
+13 beginning fiscal year 2026 or thereafter. The Secretary of Finance shall transfer any
+14 balance in or owed to its CCCRF Fund existing on the effective date of this Act to
+15 the CCCRF Fund established by the Commonwealth Casino Commission. The
+16 CCCRF shall be expended by the Commonwealth Casino Commission for the
+17 operation, personnel, and all other expenses of the Commission including but not
+18 limited to the investigation and licensing of key employees, employees, service
+19 providers, vendors, junket applicants, machines, gaming tables, and any other fees
+20 and costs associated with reviewing the applications for various licenses. The
+21 expenditure authority for the Commission shall be the Chairperson of the
+- 16 -
+
+2 4 - '171 if
+HOUSE BILL
+1 Commonwealth Casino Commission or his designee. The CCCRF Funds are
+2 earmarked for the Commission's use in regulating the casino licensee and the
+3 casino industry and are subject to further appropriation in the annual appropriations
+4 and are available without fiscal year limitation. The Commission shall maintain
+5 records and account for the expenditures made from both the Commonwealth
+6 Casino Applicant Fund (for future license application fees) and the CCCRF Fund
+7 and submit reports to the Governor and the presiding officers of the Legislature.
+8 (e) Notwithstanding 4 CMC §§ 2309(f) and 2314(1), all Casino Regulatory
+9 Fees collected pursuant to this Act, including but not limited to the one million
+10 dollars ($1,000,000) annual regulatory fee per new casino license and any
+11 regulatory fees imposed upon the existing licensee of three million one hundred
+12 fifty thousand dollars ($3,150,000), are hereby appropriated to the Commonwealth
+13 Casino Commission for its personnel, operations, and regulatory expenditures for
+14 FY 2026. The expenditure authority shall be the Chairperson of the Commission
+15 or his or her designee. Such appropriations shall remain available without fiscal
+16 year limitation and shall not require further legislative action. Subsequent Casino
+17 Regulatory Fee payments shall be subject to appropriation as provided in 4 CMC §
+18 2314(1). The Commission is authorized to hire or fill the necessary full-time
+19 employee positions subject to availability of funds. Thereafter, as an autonomous
+20 agency, the Commission shall determine its staffing levels for full-time, part-time,
+21 seasonal, and temporary employees depending on the increases in the number of
+- 17-
+
+24 17 if
+HOUSE BILL •
+1 licensees for each of their licensed locations. The Commission may increase the
+2 number of staffing provide that the number of licensed locations increase to
+3 effectively carry out the regulatory mandates s et by the Commission. The CCCRF
+4 Fund shall be subject to legislative appropriation, and expenditures shall comply
+5 with the oversight and reporting requirements established under Public Law 21-38.
+6 (f) Regulations: The Secretary of Finance may promulgate regulations
+7 consistent with the purposes of this section.
+8 (g) The Commonwealth Casino Commission shall establish and maintain a
+9 Commonwealth Casino Commission Appropriations Fund (CCCA Fund) to be kept
+10 separate and apart from the general funds of the Commonwealth government. The
+11 monies appropriated to it pursuant to law shall be deposited into the CCCA Fund.
+12 Unless otherwise directed by the appropriating body, the expenditure authority for
+13 the Commission shall be the Chairperson of the Commonwealth Casino
+14 Commission or his designee.
+15
+16 Article 2. Casino Controls.
+17
+18 § 2311. Purpose of Article.
+19 This article provides for and controls casino gambling in the
+20 Commonwealth pursuant to this chapter.
+21 § 2312. Definitions.
+22 As used in this chapter, the term:
+- 18-
+
+9
+HOUSE BILL f' 47
+1 (a) "Casino" means a place, area, structure, vessel, communication channel,
+2 or other thing, tangible or intangible, subject to licensing pursuant to this chapter
+3 for the conduct and playing of one or more games, or the acceptance of bets and
+4 wagers, including all associated activities of gaming and wagering, such as money
+5 counting, surveillance, accounting, and storage, related to such conduct and
+6 playing, provided, that such term shall not include areas of a resort complex or other
+7 facility exclusively devoted to other activities, such as a hotel, golf course, etc., in
+8 which no game is conducted or played and no wagering occurs;
+9 (b) "Casino employee" means any natural person employed by the licensed
+10 casino who carries out or conducts casino gaming activities as part of the business
+11 of the casino licensee, which person shall be eighteen years of age or older and
+12 hold a license granted by the Commission. Persons deemed to be casino employees
+13 shall include
+14 (1) Table games personnel who attend to or conduct gaming
+15 activities, including dealers, floor people, pit managers and shift
+16 managers.
+17 (2) Cage and count room personnel who support gaming activities
+18 within the casino, including cashiers, supervisors and shift
+19 managers.
+20 (3) Security personnel who work within the casino gaming areas,
+21 including guards, supervisors and shift managers.
+- 19 -
+
+HOUSE BILL VI' 'IP 14
+1 (4) Surveillance personnel who work within the casino gaming
+2 areas, including operators, supervisors and shift managers.
+3 (5) Marketing personnel who attend to or support gaming activities
+4 within the casino gaming areas, including hosts, marketing
+5 representatives, supervisors and shift managers.
+6 (6) Slot machines personnel who attend to or support gaming
+7 activities within the casino, including attendants, technicians,
+8 supervisors and shift managers.
+9 (7) Accounting personnel who work directly with financial
+10 information relating to gaming activities, including revenue auditors
+11 staff accountants and supervisors.
+12 (8) Information technology personnel who attend to or support
+13 gaming activities within the casino, including technicians, engineers
+14 and supervisors.
+15 (9) Members of the management team who are manager level and
+16 above and who oversee or supervise or have responsibility over any
+17 of the above operations.
+18 (10) Executive directors of the casino licensee.
+19 (c) "Casino gaming activities" means all games of chance and other games
+20 played in major casino establishments in the United States and other games
+21 approved by the Commission, and further includes the operation of a sports book
+- 20 -
+
+aq-Pi 9
+HOUSE BILL
+1 approved by the Commission to accept bets and wagers on sporting and other events
+2 which rely on events which occur within and without the casino;
+3 (d) "Casino gross revenue" shall be defined by the Commission within the
+4 applicable tax laws of the Commonwealth by regulation as described in section
+5 §2308(e) hereinabove;
+6 (e) "Casino service provider" means a person subject to licensing pursuant
+7 to this chapter that offers goods or services directly related to casino gaming
+8 activities, including such persons as gaming equipment manufacturers, importers,
+9 distributors, or repairers; and casino security services;
+10 (f) "Commission" means the Commonwealth Casino Commission
+11 established by this article;
+12 (g) "Convention center" is a place, combining the requirements of a hotel
+13 described in subsection (j) of this section, for a formal assembly or meeting of
+14 members, representatives, or delegates of a group, such as a political party,
+15 fraternity, union, business, government or religious entity;
+16 (h) "Game" means any activity that includes elements of prize,
+17 consideration, and chance, or any "game" that is approved by the Commission for
+18 the casino's purposes;
+19 (i) "Gaming" means the playing of any game;
+- 21 -
+
+HOUSE BILL 2 4
+1 (j) "Hotel" means a building containing not fewer than 250 sleeping units
+2 (rooms), each held available and used regularly for the lodging of tourists and
+3 guests who are also provided entertainment, meals, and other services;
+4 (k) "Operator" means any person that actually provides the overall
+5 management of the operations of a casino, whether by ownership, lease, contract,
+6 agreement, or otherwise;
+7 (1) "Person" includes a natural person, as well as a partnership, corporation,
+8 association, joint venture, or other business entity;
+9 (m) "Resort" means a place, such as a hotel with no fewer than 250 rooms
+10 and a meeting hall, convention center or other large event space capable of
+11 accommodating 1,000 attendees, that is frequented by people for relaxation or
+12 recreation.
+13 (n) "Wager" or "Wagering" means a contract in which two or more parties
+14 agree that a sum of money or other thing, tangible or intangible, shall be paid or
+15 delivered to one of them or that shall gain or lose on the happening of an uncertain
+16 event or upon the ascertainment of a fact in dispute.
+17 (o) "Settlement Agreement" means the Final Amended Stipulation and
+18 Agreement of Settlement entered into in Johnson v. Inos, Civil Case No. 09-23
+19 (D.N.M.I.)
+20 § 2313. Establishment of Regulatory Commission.
+- 22 -
+
+2,4 -1 9
+HOUSE BILL
+1 (a) The Commonwealth Casino Commission is hereby established as an
+2 autonomous public agency of the government of the Commonwealth of the
+3 Northern Mariana Islands. As an autonomous public agency, it shall establish and
+4 maintain its own bank accounts, process the payroll of its members and employees,
+5 process payment for its operational expenses, and handle procurement matters
+6 pursuant to regulations consistent with Commonwealth law enacted therefore. The
+7 Commission shall enact its own procurement policy, personnel policy, personnel
+8 classification structure, and a salary schedule for its employees consistent with
+9 Commonwealth law; provided that 1 CMC § 8246 and § 8248 shall not apply to
+10 any employee of the Commonwealth Casino Commission.
+11 (b) Appointment of Commissioners and Term. The Commission shall
+12 consist of five commissioners.
+13 (1) The governor shall appoint all five commissioners subject to the
+14 advice and consent of the Senate. The governor shall appoint one
+15 commissioner from the First Senatorial District, one commissioner from the
+16 Second Senatorial District, and three commissioners from the Third
+17 Senatorial District. This section shall apply to all commissioners appointed
+18 after the effective date of this Act.
+19 (2) Each member shall serve a term of six years, and each member
+20 shall serve one term. The term of a member is defined as the time a member
+21 serves as a commissioner regardless of the duration.
+- 23 -
+
+HOUSE BILL Z IP PY? q
+1 (3) Any vacancy shall be filled by the governor appointing a
+2 qualified person for the unexpired term thereof or for a new six-year term.
+3 No member shall serve more than one term. A member removed from the
+4 Commission for cause shall not be re-appointed to the Commission.
+5 (c) Qualifications of Commissioners.
+6 (1) Each member shall be a citizen or national of the United States
+7 and shall be a resident of and registered to vote in the Senatorial District
+8 from which they were appointed.
+9 (2) A Commission member must be an adult, and possess a good
+10 moral character, a bachelor's degree in any field of study from a
+11 postsecondary educational institution accredited in the United States or
+12 must have at least five years work experience in the following areas:
+13 business management, government management, or financial management.
+14 (3) No person may be appointed who has been convicted of a crime,
+15 excepting traffic offenses, in any jurisdiction of the United States, the
+16 Commonwealth or any foreign country carrying a maximum sentence of
+17 more than six months, or any crime or offense involving moral turpitude
+18 unless a full pardon has been granted.
+19 (4) No member shall serve in any other positions established by this
+20 chapter or shall be an employee or official of the Commonwealth, or of a
+21 municipality, agency, corporation, or other instrumentality or branch of the
+- 24 -
+
+2.4 - '7')
+HOUSE BILL
+1 Commonwealth, or of any agency of local government of the
+2 Commonwealth, except that a member may serve without additional
+3 compensation on a task force or other temporary body the work of which is
+4 related to the work of the Commission.
+5 (5) No individual may serve as a member of the Commission, if such
+6 individual, or a parent or child of such individual, holds or is an applicant
+7 for any license under this title or holds any direct or indirect financial
+8 interest in any person or entity that holds or is an applicant for any license
+9 under this title.
+10 (6) The gender and ethnicity requirements of 1 CMC § 2901 shall
+11 not apply to the Commission.
+12 (d) Removal of Commissioner for Cause Only. The Governor may, for
+13 cause only, suspend or remove any Commission member, without regard to who
+14 appointed said member, subject to judicial review by the Superior Court, which
+15 may stay such removal or suspension pending such review.
+16 (e) Membership on the Commission shall be automatically forfeited upon
+17 violation of subsection (c) of this section, upon conviction of a felony, or upon
+18 conviction of any crime or offense involving moral turpitude.
+19 (f) The Commission shall not be considered an agency of local government
+20 for purposes of Article VI, Section 8, of the Constitution.
+- 25 -
+
+2 '16
+HOUSE BILL
+IP 17
+1 (g) Compensation. Members of the Commission shall each be compensated
+2 at the rate of $60,000.00 per year; provided that each Commissioner must attend all
+3 scheduled meetings unless excused by the Chairperson of the Commission. All
+4 compensation and related expenses shall be funded exclusively from the
+5 Commenwealth—Gasine—Gemmission—Regulatory Fee Fund established under §
+6 2309 and shall be subject to appropriation by the Legislature. Under no
+7 circumstance shall the compensation of Commissioners be paid from the
+8 Commonwealth General Fund.
+9 Honorarium. Members of the Commission shall be compensated for all
+10 commission meetings attended at $500.00 for a full-day meeting and no more than
+11 $250.00 for a half day or less meeting,
+12 The members of the Commission shall be reimbursed in accordance with
+13 the Commonwealth law for any reasonable and necessary expenses incurred in the
+14 performance of their duties under this division. Rules and rates for travel and per
+15 diem rates shall be the same as those established for the executive branch.
+16 If there are no casino operators licensed under this chapter, the
+17 compensation of the Commissioners shall default to the per diem and monthly
+18 limits applicable to members of boards and commissions under 1 CMC § 8247, or
+19 any successor provision of law, and such compensation shall likewise be payable
+20 only from the Regulatory Fee Fund and subject to legislative appropriation. All
+21 travel shall remain subject to 1 CMC § 7407.
+- 26 -
+
+17 9
+HOUSE BILL 2‘ 111 ".
+1 (h) The members of the Commission shall elect their chairman, vice
+2 chairman, secretary and treasurer for terms of one year, beginning from the
+3 effective date of their term.
+4 (i) Meetings and Quorum.
+5 (1) Meetings of the Commission will be held at the discretion of the
+6 Chairperson at such times and places as he or she may deem necessary and
+7 convenient, or at the call of a majority of the members of the Commission.
+8 (2) Except as provided in this chapter, the Commission shall in all
+9 respects comply with the provisions of the CNMI Open Government Act as
+10 set forth in 1 CMC § 9901 et seq.
+11 (3) The minimum number of members needed to constitute a
+12 quorum for the conduct of Commission business shall be three members. A
+13 member who is present in the CNMI may appear telephonically or via
+14 video conference and shall be deemed present to constitute a quorum.
+15 (4) A member of the Commission who is temporarily outside the
+16 Commonwealth may, with the prior approval of the Chairperson, may
+17 participate in meetings of the Commission by teleconference or
+18 videoconference. Such participation shall be permitted only when necessary
+19 to achieve quorum, and the member shall be deemed present for purposes
+20 of quorum and voting. The Commission shall not encourage this practice,
+-27-
+
+2.(1-• lel
+HOUSE BILL
+1 and in-person participation within the Commonwealth shall remain the
+2 standard.
+3 (j) The members of the Commission are not employees of the Commission
+4 or the Commonwealth government.
+5 (k) Commonwealth Casino Commission agents deemed essential.
+6 Notwithstanding any other provision of law to the contrary, in the event of a
+7 budgetary or other crisis which necessitates a temporary closure of the nonessential
+8 commonwealth agencies of the Commonwealth the members, employees, and
+9 agents of the Commission shall be deemed to be essential and shall continue to
+10 perform their duties.
+11 § 2314. Powers and Duties of the Commission. The Commission shall have
+12 all the powers and authority necessary to carry out the purposes of this chapter,
+13 including, without limitation, the responsibility:
+14 (a) To conduct hearings pertaining to the violation of this chapter or
+15 regulations promulgated hereto; including hearings for the purpose of approving
+16 casino licenses and other business allowed under this chapter.
+17 (b) To promulgate such rules and regulations, as may be necessary to fulfill
+18 the intent, policies and purposes of this chapter. The Commission may use such
+19 rules and regulations to interpret, enlarge upon, except provisions defining the
+20 authority and powers of the Commission, or define, or any provision of this chapter
+- 28 -
+
+HOUSE BILL
+1 to the extent that such provision is not specifically defined by this chapter. The rules
+2 and regulations shall, at a minimum, provide for the following:
+3 (1) A code of ethics for the members of the Commission and its
+4 officers and employees.
+5 (2) Supervision, monitoring and investigation or other means to
+6 ensure the suitability and compliance with the legal, statutory and
+7 contractual obligations of owners, operators, and employees of casinos and
+8 other persons licensed under this chapter.
+9 (3) The examination, supervision and monitoring of the continuing
+10 fiscal and financial capability of casino owners, operators, concessionaires
+11 and other parties with any direct relation to the sole casino and to protect
+12 the public in the event that such capability is significantly diminished.
+13 (4) To collaborate in the definition, coordination and execution of
+14 the economic policies for the operations of the casino games of fortune and
+15 other ways of gaming, pari-mutuels, wagering and casino gaming activities
+16 offered to the public.
+17 (5) To authorize and certify all the equipment and utensils used by
+18 the operations of the concessionaires approved in the respective
+19 concessions.
+20 (6) To issue licenses for "junket" promoters of casino games of
+21 fortune or other casino gaming activities.
+- 29 -
+
+241- ri q
+HOUSE BILL
+1 (7) To examine, supervise and monitor the eligibility of the single
+2 or collective junket promoter(s), their partners and principal employees.
+3 (8) To examine, supervise and monitor the activities and promotions
+4 of the junket promoters in relation to their compliance with legal, statutory,
+5 and contractual obligations, and other responsibilities stipulated in the
+6 applicable legislation and contracts.
+7 (9) To investigate and penalize any administrative infractions
+8 practiced according to the appropriate substantial and procedural
+9 legislations.
+10 (10) To ensure that the relationship of the licensed gaming operators
+11 with the government and the public is in compliance with the Commission's
+12 regulations and provides the highest interest to Commonwealth.
+13 (11) The exclusion and removal of undesirable persons from the sole
+14 casino.
+15 (12) Civil penalties for the violation of provisions or regulations
+16 imposed under this chapter.
+17 (13) Penalties for the late payment of applicable fines, or fees.
+18 (c) To levy fines and penalties for the violation of provisions of this chapter
+19 and the regulation promulgated by the Commission.
+20 (d) To require and demand access to and inspect, examine, photocopy, and
+21 audit all papers, books and records of the casino operator, the casino licensee, or
+- 30 -
+
+2 41..
+HOUSE BILL
+6.17/
+1 any vendor licensee, service provider licensee, or junket licensee on its premises or
+2 elsewhere as practical, including inspecting the gross income produced by the
+3 licensee's business and verification of their income, and all other matters affecting
+4 the enforcement of the Commission's policy or as required pursuant to this chapter.
+5 (e) For the types of gaming and games to be covered by the casino license
+6 and their structure.
+7 (f) The Commission shall also regulate sports betting, pari-mutuel betting,
+8 and other wagering which relies on events occurring within or without the casinos
+9 regulated by the Commission.
+10 (g) The Commission shall not regulate betting or wagering associated with
+11 cockfighting.
+12 (h) The Commission shall have the authority to issue a license to a casino
+13 licensee. The license shall not be suspended or revoked absent finding of clear and
+14 convincing evidence during a hearing pursuant to 1 CMC § 9101 et seq. by
+15 unanimous vote of the Commonwealth Casino Commission.
+16 (i) Information, data deemed confidential; exceptions.
+17 (1) Except as otherwise provided in this chapter, all information
+18 required by the Commission to be furnished pursuant to this chapter or the
+19 regulations promulgated hereunder, or which may be otherwise be obtained,
+20 relative to the internal controls or to the finances, earnings, taxes, or revenue
+21 of any applicant or licensee shall be considered to be confidential and shall
+- 31 -
+
+241 -1/61
+HOUSE BILL
+1 not be revealed in whole or in part except in the course of the necessary
+2 administration of this chapter, or upon the lawful order of a court of
+3 competent jurisdiction, or to the Office of the Public Auditor upon request,
+4 or to the Attorney General upon request, or to a law enforcement agency of
+5 the United States Government upon request, or, with the approval of the
+6 Attorney General, to a duly authorized law enforcement agency.
+7 (2) All information and data pertaining to an applicant's criminal
+8 record, family, and background furnished to or obtained by the division or
+9 the Commission from any source shall be considered confidential and shall
+10 be withheld in whole or in part, except that any information shall be released
+11 upon the lawful order of a court of competent jurisdiction or to the Office
+12 of the Public Auditor upon request, or to the Attorney General upon request,
+13 or to a law enforcement agency of the United States Government upon
+14 request, or, with the approval of the Attorney General, to a duly authorized
+15 government agency.
+16 (3) The following information to be reported periodically to the
+17 Commission by a casino licensee shall not be considered confidential and
+18 shall be made available for public inspection:
+19 (A) A licensee's gross revenue from all authorized casino
+20 gaming activities as defined in this chapter, and the licensee's gross
+21 revenue from simulcast wagering;
+- 32 -
+
+HOUSE BILL 2 '!' 111)
+1 (B)(i) The dollar amount of patron checks initially accepted
+2 by a licensee, (ii) the dollar amount of patron checks deposited to
+3 the licensee's bank account, (iii) the dollar amount of such check
+4 initially dishonored by the bank and returned to the licensee as
+5 uncollected, and (iv) the dollar amount ultimately uncollected after
+6 all reasonable efforts;
+7 (C) The amount of gross revenue tax or investment
+8 alternative tax actually paid and the amount of investment, if any,
+9 required and allowed, pursuant to Commonwealth law;
+10 (D) A list of the premises and the nature of improvements,
+11 costs thereof and the payees for all such improvements, which were
+12 the subject of an investment required and allowed pursuant to
+13 Commonwealth law;
+14 (E) A list of the premises, nature of improvements and costs
+15 thereof which constitute the cumulative investments by which a
+16 licensee has recaptured profits pursuant to Commonwealth law;
+17 (F) All quarterly and annual financial statements presenting
+18 historical data which are submitted to the Commission, including all
+19 annual financial statements which have been audited by an
+20 independent certified public accountant licensed to practice in the
+21 CNMI; and
+- 33 -
+
+2g-71
+HOUSE BILL
+1 (G) The identity and nature of services provided by any
+2 person or firm receiving payment in any form whatsoever for
+3 professional services in connection with the authorization or
+4 conduct of games conducted at a casino establishment.
+5 (j) The Commission may impose reasonable charges and fees for direct
+6 costs incurred in the review, redaction, and copying, by the Commission of
+7 documents subject to public inspection without regard to whether the document is
+8 merely inspected by the requestor or whether copies are requested. Such fees shall
+9 be deposited into the CCCRF Fund.
+10 (k) The Commission shall regulate facilities as are consistent with the
+11 provisions of the Casino License Agreement granted to the casino licensee and
+12 together shall be operated by the casino licensee.
+13 (1) The Commission shall submit to the legislature for approval on or before
+14 April 1 of each year a proposed annual budget for the next fiscal year in accord
+15 with the budgeting and planning procedure applicable to all departments of the
+16 Executive Branch beginning fiscal year 2027. Within its proposed budget, the
+17 Commission shall itemize all personnel, travel, and other expenses for the fiscal
+18 year in question; the sums required to be expended during the year with respect to
+19 its casino regulatory responsibilities; and a detailed statement of all other
+20 Commission assets, liabilities, revenues and expenditures.
+- 34 -
+
+24-'41
+HOUSE BILL
+1 (m) The Commission may hold investigative hearings which may be
+2 conducted by one or more members with the concurrence of a majority of the
+3 Commission with public notice, or by a hearing examiner appointed by the
+4 Commission, with public notice, at such times and places, within the
+5 Commonwealth, as may be convenient. The Commission may have open working
+6 meetings, with notice, within the Commonwealth, to discuss and deliberate about
+7 any matter over which the Commission has jurisdiction. The Commission may
+8 attend gaming-related workshops, conferences and training courses which shall not
+9 constitute a working meeting. Final action shall only occur in an open meeting after
+10 appropriate notice has been given to the public.
+11 (n) Subject to the provisions set forth in 4 CMC § 2314(i), the Commission
+12 may determine which information in its possession is unsuitable for public
+13 disclosure due to safety or security concerns, and to withhold the same from public
+14 inspection, copying or disclosure. The Commission may determine which
+15 information is suitable for disclosure and allow the disclosure and dissemination of
+16 the information. The Office of the Public Auditor and the Attorney General shall
+17 have access and authority to freely inspect, examine, audit, and photocopy all
+18 information in the Commission's possession upon request, including but not limited
+19 to all forms, applications, contracts, security plans, lists, internal procedures,
+20 orders, or documents of any kind, without regard to the manner of storage of the
+21 information, be it physical, electronic or otherwise.
+- 35 -
+
+HOUSE BILL 24" I),
+1 (o) The Commission or any of its members with the concurrence of the
+2 majority has full power and authority to issue subpoenas and compel the attendance
+3 of witnesses at any place within the Commonwealth, to administer oaths, receive
+4 evidence, and to require testimony under oath. The Commission or any member
+5 thereof with the concurrence of the majority may appoint hearing examiners who
+6 may issue subpoenas, administer oaths, and receive evidence and testimony under
+7 oath.
+8 (p) The powers and duties of the Commonwealth Casino Commission
+9 include, in addition to those enumerated herein, all expanded powers conferred
+10 under Public Law 21-38, including but not limited to subpoena authority, patron
+11 dispute resolution, self-exclusion program implementation, advertising regulation,
+12 and acceptance of funds or assistance from other governments.
+13 (q) The Commission may pay transportation and other expenses of
+14 witnesses as it may deem reasonable and proper. Notwithstanding any other
+15 provision of law, the Commission may require any licensee or applicant which is
+16 the subject of the hearing to pay for all costs and expenses of said hearing, including
+17 the expenses of any witness.
+18 (r) The Commission may initiate regulatory proceedings or actions
+19 appropriate to enforce the provisions of the gambling, or gaming laws of the
+20 Commonwealth, except for the local gaming initiatives of the First and Second
+21 Senatorial Districts and the regulations promulgated thereto, when appropriate
+- 36 -
+
+29- clq
+HOUSE BILL
+1 shall, in conjunction with the Attorney General, sue civilly to enforce the provisions
+2 of the gambling and gaming laws of the Commonwealth, except for the local
+3 gaming initiatives of the First and Second Senatorial Districts and the regulations
+4 promulgated thereto, and may request that the Attorney General prosecute any
+5 public offense committed in violation of any provision of gambling or gaming laws
+6 of the Commonwealth.
+7 (s) To have sole jurisdiction to resolve disputes between patrons of a
+8 licensed casino facility subject to regulation by the Commission, and the licensee
+9 wherein the patron is attempting to collect a payout or other debt. The Commission
+10 shall provide by regulation the procedures by which disputes are to be resolved and
+11 may impose charges and fees therefore. Notwithstanding any other law to the
+12 contrary, the Commission's decisions on patron disputes may be reviewed by the
+13 Commonwealth Superior Court which may affirm the decision and order of the
+14 Commission or the hearing examiner, or it may remand the case for further
+15 proceedings, or reverse the decision only if the substantial rights of the petitioner
+16 have been prejudiced because the decision is:
+17 (1) In violation of constitutional provisions;
+18 (2) In excess of the statutory authority or jurisdiction of the
+19 Commission or the hearing examiner;
+20 (3) Made upon unlawful procedure;
+21 (4) Unsupported by any evidence; or
+-37 -
+
+2 4-1114
+HOUSE BILL
+1 (5) Arbitrary or capricious or otherwise not in accordance with law.
+2 (t) To have sole jurisdiction to determine whether a person or entity requires
+3 licensure or a finding of suitability in order to own, be employed by, receive
+4 revenue or profits (whether directly or indirectly) from, or do business with, a
+5 licensed casino facility subject to regulation by the Commission, regardless of the
+6 location of the person or entity. Further, the Commission shall have sole jurisdiction
+7 to determine whether a person or entity remains suitable in order to continue to
+8 own, be employed by, receive revenue or profits (whether directly or indirectly)
+9 from, or continue to do business with, a casino facility regulated by the
+10 Commission. Notwithstanding any other law to the contrary, the Commission's
+11 decisions on licensure or finding of suitability may be reviewed by the
+12 Commonwealth Superior Court which may affirm the decision and order of the
+13 Commission or the hearing examiner, or it may remand the case for further
+14 proceedings, or reverse the decision only if the substantial rights of the petitioner,
+15 applicant or license holder have been prejudiced because the decision is:
+16 (1) In violation of constitutional provisions;
+17 (2) In excess of the statutory authority or jurisdiction of the
+18 Commission or the hearing examiner;
+19 (3) Made upon unlawful procedure;
+20 (4) Unsupported by any evidence; or
+21 (5) Arbitrary or capricious or otherwise not in accordance with law.
+- 38 -
+
+vi -91
+HOUSE BILL
+1 (u) The Commission shall have the authority to require performance and
+2 completion bonds in any amount agreeable to the Commission or any other means
+3 of assurance in lieu of a "bond" acceptable to the Commission that the project will
+4 be timely and fully completed, free of any mechanic's or other liens, prior to or
+5 during the construction of any facility that houses a facility or entity which requires
+6 a license from the Commission. In addition to other Commonwealth regulatory
+7 agencies, the Commission may regulate the interior design, cleanliness or sanitation
+8 of any portion of the integrated resort, or other facility which requires or has a
+9 license issued by the Commission.
+10 (v) To allow gaming to commence at any time, and in such locations in
+11 Saipan, as the Commission deems appropriate subject to other applicable CNMI
+12 laws and regulations.
+13 (w) Notwithstanding any other provision of law, the Commonwealth Casino
+14 Commission shall have all oversight responsibility and authority necessary to
+15 assure compliance with this chapter, including but not limited to authority over: the
+16 commencement of operations and achieving minimum initial investment
+17 requirements. The Commission shall approve the casino licensee's set number of
+18 games, such as, but not limited to, slot machines or gaming tables, either in total or
+19 by category, or by location.
+20 (x) To regulate the advertising, regardless of location, of any casino or other
+21 facility subject to licensure by the Commission.
+- 39 -
+
+HOUSE BILL 9•41 w 7 i
+1 (y) Self-Exclusion: The Commission may create self-exclusion programs in
+2 which problem gamblers or problem garners, may, and any licensed casino or other
+3 facility licensed by the Commission must participate. Such programs may include,
+4 but not be limited to, provisions which require problem gamblers to forfeit to the
+5 Commonwealth any chips, credits or wagering instruments of any kind on their
+6 possession in any facility from which they have been excluded, as well as
+7 provisions requiring any licensed facility to forfeit to the Commonwealth any or all
+8 of a self-excluded patron's losses if the excluded person is permitted to gamble or
+9 game once they have self-excluded.
+10 (z) The Commission may accept money and property from other
+11 governments and governmental agencies and entities as a result in inter- and intra-
+12 governmental cooperation.
+13 (aa) The Commission may exercise all powers incidental, convenient or
+14 necessary to enable it to administer or carry out any of the provisions of this chapter.
+15 (bb) The Commission shall cause to be made and kept a record of all
+16 proceedings at regular and special meetings of the Commission. These records are
+17 open for public inspection, copying, and disclosure.
+18 (cc) The Commission shall maintain a file of applications for licenses under
+19 this chapter, together with a record of all actions taken with respect to those
+20 applications. The file and record are open for public inspection, photocopying, and
+21 disclosure
+- 40 -
+
+21/-79
+HOUSE BILL
+1 (dd) The Commission shall maintain an alphabetical listing of all vendors
+2 doing business with the casino licensee, which shall include but not be limited to
+3 each vendor's name, registration or license number, mailing address, telephone
+4 number, authorized representative, and nature of services. The listing shall be open
+5 to public inspection, shall be updated regularly and at a minimum on a monthly
+6 basis, and shall be posted online at the Commission's official website.
+7 (ee) The Commission may maintain such other files and records as they may
+8 deem desirable and make these available for public inspection.
+9 § 2315. Executive Director.
+10 (a) The Commission shall hire an Executive Director who will be
+11 responsible for the overall administration of the Commission and the supervision
+12 of the casino licensee and others pursuant to this chapter.
+13 (b) Qualification of the Executive Director. The Executive Director shall
+14 possess the following minimum qualifications:
+15 (1) A bachelor's degree from a United States accredited educational
+16 institution or equivalent; and
+17 (2) Ten years of work experience in professional, administrative, or
+18 management in government or private sectors, preferably in the gaming
+19 industry; and
+20 (3) Good ethical and moral character; and
+- 41 -
+
+HOUSE BILL
+1 (4) The Commission shall not hire any person for the Executive
+2 Director's position who has been convicted of a crime in any jurisdiction of
+3 the United States, or any foreign country carrying a minimum sentence of
+4 imprisonment of more than six months, excepting traffic offenses.
+5 (5) The Executive Director shall not have any interest, directly or
+6 indirectly, in any business under the jurisdiction of the Commission.
+7 (c) The Executive Director shall be the head of the administration of the
+8 Commission, and subject to the general oversight and direction of the Commission,
+9 shall organize the work of the Commission in a manner that will ensure its efficient
+10 and effective operation and, subject to the budgetary authority, the Executive
+11 Director may hire and terminate such staff, including a legal counsel and other
+12 professionals, necessary to carry out the purpose of the Commission. Such staff
+13 shall be exempt from the civil service. The Executive Director shall obtain such
+14 equipment, rent or build such additional office space, and generally make such
+15 regular office expenditure and acquisitions as necessary to establish and maintain a
+16 working office suitable for the Commission to effectively function pursuant to this
+17 chapter.
+18 (d) The Executive Director shall have such other duties as may be assigned
+19 or delegated by the Commission.
+20 (e) The Executive Director serves at the pleasure of the Commission.
+-42 -
+
+9
+HOUSE BILL VI . 7
+1 (f) The annual salary and benefits of the Executive Director shall be
+2 established by the Commission, consistent with its autonomous authority, and shall
+3 be funded exclusively from the Commonwealth Casino Commission Regulatory
+4 Fee Fund established under § 2309, subject to appropriation by the Legislature. In
+5 setting the salary, the Commission shall consider the need to attract and retain
+6 qualified applicants with relevant expertise and experience in the gaming industry
+7 and shall take into account prevailing market standards for comparable positions in
+8 the Commonwealth and other gaming jurisdictions. All travel shall be subject to 1
+9 CMC § 7407.
+10 § 2316. Rules and Regulations.
+11 (a) The Commission shall promulgate rules and regulations to carry out the
+12 purposes of this chapter, including but not limited to, gaming promotional activities
+13 and licensing carried out by independent third parties (agents), granting of gaming
+14 credit, prohibited gambling, anti-money laundering, compliance and internal
+15 controls, and control of the financial suitability of gaming operators. The
+16 Commission may, in addition to any other purpose, use such rules and regulations
+17 to interpret, enlarge upon, or define any provision of this title. Such rules and
+18 regulations shall take into consideration the need for companies generally to be able
+19 to participate in the gaming industry in the Commonwealth without jeopardizing
+20 their ability to maintain or receive gaming licenses from other United States or
+21 foreign jurisdictions.
+- 43 -
+
+241119
+HOUSE BILL
+1 (b) In addition to rules and regulations provided for in other provisions of
+2 this chapter, the rules and regulations shall provide for the following:
+3 (1) Means to exclude from the gaming areas of a casino individuals
+4 under 21 years of age, except such lawful employees of the casino or of a
+5 resort complex or other facility of which the casino forms a part as the
+6 Commission determines by regulation may be present in such areas; and
+7 (2) Provisions for the casinos to attempt to identify and refuse
+8 service to gambling addicts and problem gamblers as they may be defined
+9 by the Commission.
+10 § 2317. License.
+11 (a) Casino License.
+12 (1) License.
+13 (i) Number of Authorized License.
+14 (A) The granting of a casino license is within the
+15 discretion of the Commonwealth Casino Commission. The
+16 Commonwealth Casino Commission must act to deny or
+17 approve applications when the requirements of 4 CMC §
+18 2318 have been completed. After approving an application
+19 for the casino license, the Commission may negotiate the
+20 terms of the license before it is issued. The license shall be
+21 subject to such conditions as the Commission deems
+- 44 -
+
+HOUSE BILL 2 41 , /
+1 necessary to assure compliance with this chapter, including
+2 timelines for construction, commencing operations, and
+3 achieving the minimum initial investment requirements. The
+4 issuance of the license by the Commonwealth Casino
+5 Commission shall not be subject to judicial review.
+6 (B) In the event that a license is not issued as
+7 provided in this chapter, the Commonwealth Casino
+8 Commission shall establish new application timelines and
+9 may provide for additional application procedures and
+10 requirements that are consistent with this chapter.
+11 (ii) Term. Once the casino license is granted, it shall be for
+12 a period of twenty-five (25) consecutive years with an option to
+13 extend the term for fifteen (15) additional years.
+14 (iii) Criteria: Other criteria required for the issuance of a
+15 license shall be provided for by the Commonwealth Casino
+16 Commission but shall include financial capacity to operate hotel or
+17 resort and the casino that serves the best interest of the people of the
+18 Commonwealth both short term and long term as intended under this
+19 chapter.
+20 (iv) Restrictions. The Commonwealth Casino Commission
+21 shall approve the casino licensee's set number of games, such as slot
+- 45 -
+
+HOUSE BILL 2,4 "' T? q
+1 machines or gaming tables, either in total or by category, which will
+2 be offered for play for an establishment to constitute a casino. The
+3 Commonwealth Casino Commission shall determine whether a
+4 casino shall offer a sports pool, racebook, system for pari-mutuel
+5 wagering, or similar system dependent on on-premises or off-
+6 premises events. Pursuant to this subsection, each casino licensee
+7 shall operate a conforming casino in good faith so as to prohibit a
+8 license from being held without a good-faith casino operation. After
+9 the issuance of the license, the Commission may amend by
+10 regulation the requirements of 4 CMC Section 2317(a)(1)(iv) as it
+11 deems to be in the best interest of the Commonwealth.
+12 (b) Casino Service Providers. The Commission shall, by regulation,
+13 determine which types of casino service providers shall require licensing under this
+14 chapter and shall, subject to 4 CMC § 2316, provide for such licensing.
+15 (c) Individual Licenses.
+16 (1) The Commission may, consistent with and in addition to other
+17 applicable Commonwealth laws and regulations, license or otherwise
+18 regulate the employment of individuals by or in the casino, and set charge
+19 fees therefore.
+20 (2) The Commission may provide for the licensing of such types of
+21 employees of casino service providers as the Commission determines
+- 46 -
+
+2q-
+79
+HOUSE BILL
+1 should be licensed, and of other types of individuals (other than patrons)
+2 who the Commission determines should be licensed because of their
+3 association with or presence in the casino, and set and charge fees therefore.
+4 (d) Review. A license suspension or revocation is reviewable in the
+5 Commonwealth Superior Court as a final action of a government body.
+6 (e) Inspection and Monitoring. The Commission shall provide by
+7 regulation, as a condition of a casino license or casino service provider license, that
+8 the Commission or its authorized representatives may inspect and monitor, at any
+9 time and with or without notice, any part of the licensed casino, its gaming
+10 operations, equipment, records, and related activities and any similar area or
+11 activity of the licensed casino service provider, and that a law enforcement officer
+12 may enter any such area as requested by the Commission.
+13 (f) Change of Licensee. No license may be sold, assigned, pledged,
+14 transferred, or otherwise alienated or encumbered without the express written
+15 permission of the Commission or as the Commission may by regulation provide.
+16 A change in the ownership or control of a licensee shall be considered a transfer of
+17 a license under this subsection, except where a change in ownership is as a result
+18 of a change in stockholders of a publicly held corporation. The seller of the license
+19 must pay all taxes due as a result of capital gains of the sale of the license. No sale
+20 or lease of a casino (or of a larger establishment of which the casino is a part) or
+- 47 -
+
+2.( t.-
+HOUSE BILL 1 41
+1 contract for its operation or management may be entered into, except as set forth in
+2 subsections (0(1) and (0(2) herein.
+3 (1) Before the license is granted, if such sale, lease, or contract was
+4 considered by the Commission in its decision on whether to grant the
+5 license; or
+6 (2) After a license is granted and after any necessary investigation,
+7 with the express written permission of the Commission, which shall not be
+8 withheld unreasonably.
+9 (g) License Not Property Right. A license granted by the Commonwealth
+10 Casino Commission:
+11 (1) Is a purely personal privilege;
+12 (2) Is valid for the period stated in the license, unless sooner
+13 revoked;
+14 (3) Is renewable only as provided or allowed by the Commission by
+15 Regulation;
+16 (4) Is revocable or suspendable as provided by the Commission by
+17 Regulation;
+18 (5) Is transferable from the premises for which the license was
+19 originally issued to other premises, subject to the provisions of the gaming
+20 laws of the Commonwealth, regulations promulgated thereunder, and other
+21 applicable laws and regulations;
+- 48 -
+
+HOUSE BILL 1
+1 (6) Expires upon the death of the licensee, except as may be
+2 provided by the Commission by Regulation;
+3 (7) Does not constitute property;
+4 (8) Is not alienable;
+5 (9) Is not subject to attachment or execution;
+6 (10) Does not descend by the laws of the testate or intestate
+7 devolution.
+8 (h) Grandfathered Conversion License; Qualifying Successor.
+9 (1) Definitions. A "Qualifying Successor" means any entity,
+10 organized in the Commonwealth and approved by the Commission, that (a)
+11 acquired substantially all casino assets through a court-approved process;
+12 and (b) files with the Commission a written, irrevocable relinquishment of
+13 any claim to exclusivity under prior law or license instruments.
+14 (2) Conditional Conversion Right. Upon timely application and
+15 demonstrated suitability, and subject to all requirements applicable to new
+16 casino licenses under this chapter and the Commission's regulations, the
+17 Commission shall issue to the Qualifying Successor one (1) casino license,
+18 which shall be considered one (1) valid non-exclusive casino license under
+19 this chapter, provided that the applicant:
+20 (a) satisfies fit-and-proper and financial capability standards; (b)
+21 executes any Commission-required compliance plan and bond/assurance;
+- 49 -
+
+2.9- "riff
+HOUSE BILL
+1 (c) is current on, or has Commission-approved agreements to cure, any
+2 lawfully imposed fees, taxes, rents, or penalties relating to the assets and
+3 operations it elects to assume; and (d) agrees in writing that no right of
+4 exclusivity exists or will be asserted going forward.
+5 (3) Timing. The conversion right under subsection (2) expires 180
+6 days after the effective date of this Act unless extended by the Commission
+7 for good cause shown. After expiration, the applicant may compete for any
+8 remaining licenses on the same basis as any other applicant.
+9 (4) No Waiver of Enforcement. Nothing in this section waives or
+10 impairs the authority of the Commission or other agencies to investigate,
+11 enforce, or sanction past or ongoing violations by any person, nor does it
+12 assume or release liabilities of the any prior estate except as otherwise
+13 agreed under applicable law.
+14 (5) Non-Transferability; Not a Property Right. The conversion right
+15 is personal to the Qualifying Successor, is not transferable, and does not
+16 constitute property. Issuance remains contingent upon final Commission
+17 approval.
+18 (6) Lease and Land Tenure. The Commission may condition
+19 issuance or activation of a conversion license on completion of any public
+20 land lease assignment and satisfaction of CNMI land use and permitting
+21 requirements.
+- 50 -
+
+2,4- 99
+HOUSE BILL
+1 (7) Regulatory Coordination. Within 90 days of this Act, the
+2 Commission shall promulgate interim rules for conversion procedures,
+3 application contents, technical standards, and milestones to commence and
+4 maintain operations under a conversion license.
+5 § 2318. Investigations.
+6 (a) Prior to the issuance of the license under this title, the Commonwealth
+7 Casino Commission shall investigate the applicant and any related or associated
+8 person holding more than five percent or more shares of the share capital up to the
+9 ultimate shareholder or a publicly held corporation for such license, as the
+10 Commonwealth Casino Commission determines to protect the public interest. If
+11 such person or a publicly held corporation holds a similar license from any other
+12 United States jurisdiction, the Commonwealth Casino Commission shall limit such
+13 investigation in determining the validity of that license and inquiring of the issuer
+14 of such license regarding any negative information relating to such person or a
+15 publicly held corporation. The Commonwealth Casino Commission may similarly
+16 limit the investigation of any such person or a publicly held corporation that holds
+17 such a license issued by a foreign jurisdiction upon the advice of the Federal Bureau
+18 of Investigation, the United States Department of the Treasury, or other applicable
+19 federal agency that the foreign issuer may be relied upon for such purpose.
+20 (b) The Commonwealth Casino Commission shall, in connection with the
+21 potential sale, lease, transfer, change in ownership, or other change related to a
+- 51 -
+
+241-7/
+HOUSE BILL
+1 license issued under this title, investigate any person involved in such transaction
+2 as necessary to protect the public interest in future activities under such license.
+3 (c) The Commonwealth Casino Commission may require that a licensee
+4 reimburse the Commonwealth Casino Commission for its outside expenses
+5 incurred in the conduct of an investigation of the licensee or transferee.
+6 (d) The Commonwealth Casino Commission may at any time investigate
+7 the holder of any license under this title or any related person, with or without notice
+8 to such holder or person, when it determines that such investigation is warranted.
+9 § 2319. Detention of Violators.
+10 The operator of a casino, any employee or agent of such operator, or any
+11 person inspecting or monitoring a gaming establishment on behalf of the
+12 Commission, may, upon reasonable suspicion, detain in a suitable place in such
+13 gaming establishment (or elsewhere in a resort complex or other facility of which
+14 the gaming establishment is a part) any person who, on the premises of such gaming
+15 establishment, is or may be violating this title or any regulation promulgated
+16 pursuant to this title, or who is or may be committing a related crime (such as a
+17 crime against property set out in Part 2 of 6 CMC, Division 1), using such force as
+18 is reasonably necessary for that purpose, until the arrival of a law enforcement
+19 office. The detaining person shall take such steps as are necessary to ensure that a
+20 law enforcement officer is summoned and arrives with as little delay as possible.
+21 § 2320. Exclusion or Removal.
+- 52 -
+
+9i
+HOUSE BILL 1 14 11.
+1 A casino operator or any employee or agent of such operator may exclude
+2 or remove any undesirable person from a casino pursuant to regulations
+3 promulgated by the Commission and may use reasonable force to carry out such
+4 exclusion or removal. A casino may establish and enforce a dress code for its
+5 patrons, and any person who fails to comply with such code on the premises of such
+6 gaming establishment may, at the discretion of the casino operator, be deemed an
+7 undesirable person for purposes of this section. Any action taken under this section
+8 shall comply with any applicable federal or Commonwealth law that prohibits
+9 discrimination by private persons against individuals generally or against any
+10 protected class of individuals.
+11 § 2321. Immunity for Detention, Exclusion, or Removal.
+12 No civil or criminal action shall lie against any person for action reasonably
+13 taken pursuant to 4 CMC § 2319 or § 2320.
+14 § 2322. Entry by Law Enforcement Officers.
+15 A law enforcement officer may, without warrant, notice, or explanation,
+16 enter any area of a casino to which a patron of the casino or the public has access
+17 and, for such purpose, such area is a public place in which the officer may exercise
+18 any power or discharge any duty which may be exercised or discharged in a public
+19 place under this chapter or any other provision of law. A law enforcement officer
+20 may enter any other area of a casino or any area of a casino service provider with
+21 the consent of any person having control over such area, at the request of any person
+- 53 -
+
+24•'? if
+HOUSE BILL
+1 inspecting or monitoring such area on behalf of the Commission under 4 CMC §
+2 2317(e), or as otherwise authorized by law.
+3 § 2323. Gambling by Commission and Licensees Prohibited.
+4 (a) No member, officer, employee, or agent of the Commission shall play
+5 any game in or make any bet or wager:
+6 (1) the casino under the jurisdiction of the Commission;
+7 (2) any other gaming establishment reasonably associated with any
+8 such gaming establishment;
+9 (3) any gaming establishment, the owner, lessee, operator, or
+10 manager of which is an applicant for a license from the Commission, or is
+11 a potential applicant that has entered into discussions with the Commission
+12 prior to such application and has not clearly abandoned its interest in a
+13 license, or is reasonably associated with such an applicant or potential
+14 applicant; unless such playing of games or making of bets or wagers is
+15 absolutely necessary for investigative, compliance or enforcement
+16 purposes.
+17 (b) No member, officer, employee, or agent of the Commission shall
+18 knowingly be an employee of or have any business or financial association with or
+19 interest in any casino or casino service provider licensee under this title or any
+20 business reasonably related to such license.
+- 54 -
+
+24 - "7 i
+HOUSE BILL
+1 (c) No owner, lessee, operator, manager, officer, employee, agent, or other
+2 person associated with a casino licensed under this chapter shall play any game or
+3 make any bet or wager in such casino.
+4 § 2324. Administrative Penalties.
+5 The Commission may, by regulation, provide civil penalties for the
+6 violation of this chapter or of any regulation or order issued pursuant to this chapter.
+7 No penalty may exceed $50,000, and a range of lesser penalties shall be provided
+8 for minor or intermediate violations. Such regulations may specify conditions under
+9 which a natural person who causes any other person to commit a violation
+10 (generally or for any specified type of transaction) shall also be liable for such
+11 violation. The Commission may suspend, reduce, or rescind any penalty imposed
+12 pursuant to this section and according to any and all due process protections.
+13 § 2325. Nonprofit Gaming Permits.
+14 Notwithstanding the foregoing, the Secretary of Commerce's authority to
+15 grant special gaming permits for charitable organizations and 6 CMC § 3157 as
+16 applicable to nonprofit gaming permits shall not be in any way affected by any
+17 provision of this chapter
+18 § 2326. Persons Ineligible for Employment.
+24th
+19 Members of the CNMI legislature and their immediate family as
+20 defined in 1 CMC § 8503(h), shall not be paid or receive any financial consideration
+21 nor shall they be retained as independent contractors or employed directly or
+- 55 -
+
+HOUSE BILL 14 I 4)
+1 indirectly by any casino licensed under this chapter in its current form or as
+2 amended, or by said casino's affiliates or agents, for five (5) years beginning from
+3 the date of the issuance of said casino's license.
+4 § 2327. Serving of Alcohol.
+5 Notwithstanding any other law to the contrary, a holder of a casino
+6 employee or casino key employee license issued by the Commonwealth Casino
+7 Commission who is under 21 years of age but at least 18 years of age may possess
+8 and serve, but may not consume, alcohol in the course of the licensee's employment
+9 for which (s)/he is licensed.
+10 § 2328. Contracts or Agreements with Certain Unsuitable or Unlicensed
+11 Persons Prohibited; Termination of Contract or Agreement.
+12 (a) A person who has:
+13 (1) Been denied a license by the Commonwealth Casino
+14 Commission;
+15 (2) Been found unsuitable by the Commonwealth Casino
+16 Commission; or
+17 (3) Had a license or finding of suitability revoked by the
+18 Commonwealth Casino Commission; shall not enter or attempt to enter into
+19 any contract or agreement with:
+20 (i) the casino licensee regulated by the Commonwealth
+21 Casino Commission; or
+- 56 -
+
+HOUSE BILL 24-, I
+1 (ii) a holder of any license granted by the Commonwealth
+2 Casino Commission; either directly or indirectly, through any
+3 business organization under such a person's control, that involves
+4 the operations of a licensee without the prior approval of the
+5 Commission. This provision does not prohibit any person from
+6 purchasing any goods or services for personal use from a licensee at
+7 retail prices that are available to the general public.
+8 (b) Every contract or agreement with a person that is subject to the
+9 provisions of 4 CMC § 2328(a) shall be deemed to include a provision for its
+10 termination without liability on the part of the licensee or applicant. Failure to
+11 expressly include that condition in the contract or agreement is not a defense in any
+12 action brought pursuant to this section to terminate the agreement.
+13 § 2329. Remedies Are Cumulative.
+14 The remedies of the Commonwealth Casino Commission, the
+15 Commonwealth, its political subdivisions and agencies for the imposition,
+16 collection, and payment of any penalty, fine, fee, license fees, taxes, and interest
+17 provided for in the Commonwealth Code, the regulations of the Commission, and
+18 the regulations of any other government agency are cumulative to each other and
+19 any action taken or not taken by the Commission, the Commonwealth or any
+20 agency does not constitute an election by the Commonwealth, the Commission or
+- 57 -
+
+2. - if
+HOUSE BILL
+1 any other agency to pursue or not pursue any remedy to the exclusion of any other
+2 remedy for which provision in the Code or any regulation.
+3 § 2330. Remuneration, Contracts, and Employment Prohibited for Certain
+4 Unsuitable or Unlicensed Persons.
+5 If any person who is required by law or the regulations promulgated by the
+6 Commonwealth Casino Commission to be licensed or found suitable because of the
+7 person's connection with a corporation, partnership, limited partnership, limited-
+8 liability company or other business organization holding or applying for a license,
+9 or a holding company or intermediary company, including a publicly traded
+10 corporation, fails to apply for a license or a finding of suitability after being
+11 requested to do so by the Commission or is denied a license or a finding of
+12 suitability, or if the person's license or finding of suitability is revoked, the
+13 corporation, partnership, limited partnership, limited-liability company, business
+14 organization, holding company, intermediary company or any person who directly
+15 or indirectly controls, is controlled by or is under common control with the
+16 corporation, partnership, limited partnership, limited-liability company, business
+17 organization, holding company or intermediary company shall not, and any licensee
+18 or an affiliate of the licensee shall not, after receipt of written notice from the
+19 Commission:
+20 (a) Pay the person any remuneration for any service relating to the activities
+21 of a licensee, except for amounts due for services rendered before the date of receipt
+- 58 -
+
+24-11
+HOUSE BILL
+1 of notice of such action by the Commission. Any contract or agreement for personal
+2 services or the conduct of any activity at a licensed gaming establishment between
+3 a former employee whose employment was terminated because of failure to apply
+4 for a license or a finding of suitability, denial of a license or finding of suitability,
+5 or revocation of a license or a finding of suitability, or any business enterprise under
+6 the control of that employee and the licensee, holding or intermediary company or
+7 registered publicly traded corporation is subject to termination. Every such
+8 agreement shall be deemed to include a provision for its termination without
+9 liability on the part of the licensee upon a finding by the Commission that the
+10 business or any person associated therewith is unsuitable to be associated with a
+11 gaming enterprise. Failure expressly to include such a condition in the agreement
+12 is not a defense in any action brought pursuant to this section to terminate the
+13 agreement.
+14 (b) Enter into any contract or agreement with the person or with a business
+15 organization that the licensee knows or under the circumstances reasonably should
+16 know is under the person's control which involves the operations of a licensee,
+17 without the prior approval of the Commission.
+18 (c) Employ the person in any position involving the activities of a licensee
+19 without prior approval of the Commission.
+20 § 2331. Inspections.
+- 59 -
+
+290-7
+HOUSE BILL
+1 (a) The Commonwealth Casino Commission may inspect every game,
+2 gaming device, gambling device, electronic table game, and associated equipment
+3 which is manufactured, sold or distributed for use in the Third Senatorial District,
+4 before it is put into play and may inspect every game, gaming device, gambling
+5 device, electronic table game, and associated equipment, which is offered for play
+6 or possessed by any person within the Third Senatorial District, by the gaming
+7 licensee, or by any other licensee or person required to be licensed by the
+8 Commission.
+9 (b) The Commission may inspect all associated software and equipment
+10 used with a game, gaming device, gambling device, electronic gaming machine,
+11 electronic table game, which is manufactured, sold or distributed for use in the
+12 Third Senatorial District before the equipment or system is installed or used by a
+13 licensee or any other person as well as at any time while the licensee or any other
+14 person possesses, tests, validates, or uses the equipment, software, or system.
+15 (c) The Commission shall conduct recurring inspections of the devices,
+16 machines and equipment and may determine, charge, and collect an inspection
+17 and/or test validation fee from each manufacturer, seller, distributor, casino gaming
+18 licensee, other licensee, or independent testing laboratory for the inspection and
+19 validation of any game, gaming device, gambling device, electronic gaming
+20 machine, electronic table game, or associated software or associated equipment
+21 subject to the Commission's authority.
+- 60 -
+
+P)
+24 if
+HOUSE BILL
+1 § 2332. Contempt.
+2 If any person in proceedings before the Commonwealth Casino
+3 Commission disobeys or resists any lawful order or refuses to respond to a
+4 subpoena, or refuses to take the oath or affirmation as a witness or thereafter refuses
+5 to be examined, or is guilty of misconduct during the hearing or so near the place
+6 thereof as to obstruct the proceeding, the Commission may certify the facts to the
+7 Commonwealth Superior Court where the proceedings are held. The court shall
+8 thereupon issue an order directing the person to appear before the court and show
+9 cause why the person should not be punished as for contempt. The court order and
+10 a copy of the statement of the Commission must be served on the person cited to
+11 appear. Thereafter, the court has jurisdiction of the matter, and the same
+12 proceedings must be had, the same penalties may be imposed and the person
+13 charged may purge himself or herself of the contempt in the same way as in the
+14 case of a person who has committed a contempt in the trial of a civil action before
+15 the superior court.
+16 § 2333. Malfunctions.
+17 (a) When wagering, gambling, gaming or in any way using any gambling
+18 machine, gaming machine, electronic gaming machine, or electronic table game,
+19 any malfunction of the machine (either hardware or software) voids all plays and
+20 pays.
+- 61 -
+
+24-0i
+HOUSE BILL
+1 (b) The Commonwealth Casino Commission may determine what
+2 constitutes a malfunction of a gambling machine, gaming machine, electronic
+3 gaming machine, or electronic table game hardware and software in the Third
+4 Senatorial District.
+5 § 2334. Enforcement.
+6 (a) The Division of Enforcement and Investigations, a division of the
+7 Commonwealth Casino Commission, and any other inspector, agent, or employee
+8 of the Commission appointed by the Executive Director shall have the primary
+9 responsibility and authority to enforce the provisions of the gambling and gaming
+10 laws of the Commonwealth and the regulations promulgated thereunder. This
+11 authority shall be concurrent with the authority of any other law enforcement
+12 agency as provided by law.
+13 (b) Any agent, inspector or other person who is trained and authorized by
+14 the Executive Director of the Commonwealth Casino Commission to enforce the
+15 provisions of: the casino and gambling laws or gaming laws of the Commonwealth;
+16 and the regulations promulgated thereunder may:
+17 (1) Arrest any person, if there exists probable cause to believe that
+18 such person committed an act in violation of the casino, gambling or gaming
+19 laws and regulations of the Commonwealth;
+- 62 -
+
+2. 4 • ') I
+HOUSE BILL
+1 (2) Seize any evidence related to any violation of any provision of
+2 the casino, gaming, or gambling laws and regulations of the
+3 Commonwealth;
+4 (3) Execute any warrant or other process issued by a court of
+5 competent jurisdiction.
+6 (c) If the Commonwealth Casino Commission enters into a mutual
+7 agreement with any other casino or gaming commission established by local law or
+8 referendum within the CNMI which provides for the rendering of assistance, any
+9 agent, inspector, or other person who is authorized by the Executive Director of the
+10 Commonwealth Casino Commission to enforce the provisions of the casino,
+11 gaming, and gambling laws of the Commonwealth, and the regulations
+12 promulgated thereunder may assist the other local commission in the enforcement
+13 of the local laws and regulations promulgated thereunder both in the Third
+14 Senatorial District and the senatorial district in which the requesting commission is
+15 located. Such assistance is hereby declared to be within the scope of the Casino
+16 Commission agent's jurisdiction and duties as a law enforcement officer of the
+17 Commonwealth.
+18 (d) If the Commonwealth Casino Commission enters into a mutual
+19 agreement with any other law enforcement agency which provides for the rendering
+20 of assistance, any agent who is authorized by the Executive Director of the
+21 Commonwealth Casino Commission to enforce the provisions of the casino,
+- 63 -
+
+2.4- 11
+HOUSE BILL
+1 gaming, and gambling laws of the Commonwealth, and the regulations
+2 promulgated thereunder may assist the other law enforcement agency in the
+3 enforcement of the laws and regulations enforced by the other law enforcement
+4 agency in the other agency's jurisdiction within or without the Third Senatorial
+5 District. Such assistance is hereby declared to be within the scope of the Casino
+6 Commission agent's jurisdiction and duties as a law enforcement officer of the
+7 Commonwealth.
+8 § 2335. Jurisdiction.
+9 (a) The jurisdiction of the Commonwealth Casino Commission shall extend
+10 throughout the entirety of the Commonwealth of the Northern Mariana Islands as
+11 may be necessary to enforce the casino, gambling, and gaming laws of the
+12 Commonwealth including, but not limited to:
+13 (1) all places within the CNMI which are casinos regulated by the
+14 Commonwealth Casino Commission;
+15 (2) all persons or facilities in the CNMI which are required by law
+16 or regulation to be licensed by the Commonwealth Casino Commission;
+17 (3) all places in the Third Senatorial District where casino gaming
+18 devices, casino gambling devices, or their software or constituent parts
+19 (whether licensed or unlicensed) are found.
+20 (b) The jurisdiction of the Commonwealth Casino Commission shall extend
+21 outside the Third Senatorial District to any location within or without the
+- 64 -
+
+HOUSE BILL
+1 Commonwealth where any: gambling device; gaming device; (or hardware or
+2 software component thereof); or any gambling or gaming accessory; which is to be
+3 shipped to the Third Senatorial District is found, or where any applicant for a
+4 license issued by the Commission is found.
+5 2336. No Liability for Official Acts.
+6 No member or employee of the Commonwealth Casino Commission may
+7 be sued for doing or omitting any official act in the performance of the powers and
+8 duties as prescribed in this chapter.
+9 Article 3. Financial Instruments in Casino Gaming.
+10 § 2351. Definitions. As used in this Article, the term:
+11 (a) "Casino credit instrument" means a gaming guarantee, marker, or any
+12 other writing which evidences a gaming debt owed to a person who holds a casino
+13 gaming license in any senatorial district of the Commonwealth and includes any
+14 writing taken in consolidation, redemption or payment of a previous credit
+15 instrument.
+16 (b) "Commission" means the casino gaming commission authorized to
+17 regulate a casino gaming licensee in each respective senatorial district of the
+18 Commonwealth.
+19 (c) "Credit" means an arrangement or understanding with a person, firm,
+20 corporation, bank, or depository for the payment of a check or other written
+21 instrument evidencing a debt.
+- 65 -
+
+HOUSE BILL
+1 (d) "Gaming debt" means a debt, evidenced by a writing, which is incurred
+2 from gambling or participation in a lawful game or other lawful wagering activity
+3 offered by a casino licensee in a senatorial district of the Commonwealth. It also
+4 includes a debt, evidenced by a writing, which is owed to a junket operator licensed
+5 by the Commission, by a person who traveled to the Commonwealth as part of a
+6 junket for gambling or participation in a lawful game or other lawful wagering
+7 activity offered by a casino licensee in a senatorial district of the Commonwealth.
+8 (e) "Gaming guarantee" means a promissory note or any other written
+9 promise accepted by a licensee as security for extending credit to an identified
+10 patron for gaming purposes in which the maker or signer unconditionally
+11 guarantees payment to the licensee of the full amount of the credit extended to and
+12 used by the identified patron. The term does not include a check as defined by 5
+13 CMC § 3104. (f) "Licensee" or "Casino Licensee" means any person, corporation
+14 or other entity that holds a lawful casino gaming license in any senatorial district
+15 of the Commonwealth.
+16 (g) "Marker" means a dated instrument bearing the following information:
+17 the name of the player; the name, location, and account number of the player's
+18 bank; and the instruction "Pay to the Order of' the casino for a specific value in
+19 United States dollars or such other currency approved by the Commission. The
+20 marker also contains a stipulation whereby the maker represents that the amount
+- 66 -
+
+24. -111 1
+HOUSE BILL
+1 drawn by the marker is on deposit in the referenced financial institution and that
+2 the maker guarantees payment.
+3 (h) Unless provided otherwise in this Article or other statute, the definitions
+4 in 5 CMC 10 §3102 shall apply with respect to financial documents or financial
+5 disputes involving or relating to a casino licensee in any senatorial district.
+6 2352. Gaming Debt.
+7 (a) Any gaming debt which is evidenced by a casino credit instrument is
+8 valid and enforceable in any administrative, civil, or criminal proceeding. Any
+9 gaming debt not evidenced by a casino credit instrument is void and unenforceable
+10 and does not give rise to any administrative, civil, or criminal enforcement unless
+11 provided otherwise herein or in 6 CMC § 1704.
+12 (b) Any "marker" issued by a lawful casino licensee shall be the same as a
+13 check defined by 5 CMC § 3104, and all Commonwealth laws applicable to a check
+14 defined by 5 CMC § 3104 are applicable to a "marker" which includes but is not
+15 limited to, the provisions of 7 CMC § 2442.
+16 § 2353. Casino Credit Instruments.
+17 The following shall apply to casino credit instruments: (a) A licensee or a
+18 person acting on behalf of a licensee:
+19 (1) may accept a casino credit instrument that is payable to an
+20 affiliated company or may complete a casino credit instrument in the name
+21 of an affiliated company as payee, only if the affiliated company is licensed
+- 67 -
+
+2.1/.. 9
+HOUSE BILL
+1 by the Commission, the casino credit instrument otherwise complies with
+2 this subsection, and the records of the affiliated company are made available
+3 to agents of the Commission upon request.
+4 (2) may accept a casino credit instrument either before, at the time
+5 of, or after the patron incurs the debt. This subsection does not apply to a
+6 casino credit instrument made between a casino licensee (or its affiliates)
+7 and a commission-licensed junket operator.
+8 (b) The casino credit instrument and the debt that the casino credit
+9 instrument represents are enforceable without regard to whether the casino credit
+10 instrument was accepted before, at the time of, or after the debt was incurred.
+11 (c) This section does not prohibit the establishment of an account by deposit
+12 of cash, recognized traveler's check, or any other instrument which is equivalent to
+13 cash.
+14 (d) If a casino credit instrument is lost or destroyed, the debt represented by
+15 the credit instrument may be enforced if the licensee or person acting on behalf of
+16 the licensee pursuant to a written authorization can prove the existence of the casino
+17 credit instrument.
+18 (e) A patron's claim of having a mental or behavioral disorder involving
+19 gambling:
+- 68 -
+
+Z4 - '?q
+HOUSE BILL
+1 (1) is not a defense in civil or administrative action based on or
+2 arising out of a casino credit instrument or the debt that the casino credit
+3 instrument represents; and
+4 (2) is not a valid counterclaim to any civil or administrative
+5 enforcement or collection action.
+6 (f)(1) A casino licensee in any senatorial district or a person acting on behalf
+7 of casino licensee may accept an incomplete casino credit instrument provided that
+8 it:
+9 (i) is signed by a patron;
+10 (ii) states the credit limit being offered or that there is no credit limit;
+11 (iii) states the interest rate and any fees to be incurred;
+12 (iv) advises the patron that the principal debt amount will be filled
+13 in after play is completed and the debt is incurred; and
+14 (v) states that the patron will also be responsible for paying interest
+15 as it accrues as well as collection fees listed.
+16 (2) Subsection (f) does not apply to a casino credit instrument made
+17 between a casino licensee (or its affiliates) and a commission-licensed
+18 junket operator.
+19 (g) Casino credit instruments that leave open the final amount of the debt
+20 when signed by the patron and that are then filled in by the licensee when play is
+21 complete are enforceable. This subsection does not apply to a casino credit
+- 69 -
+
+rt 9
+HOUSE BILL 2. 411.°
+1 instrument made between a casino licensee (or its affiliates) and a commission-
+2 licensed junket operator.
+3 (h) The appropriate regulatory commission or agency in each senatorial
+4 district may adopt regulations prescribing the conditions under which a casino
+5 credit instrument may be redeemed or presented to a bank, credit union, or other
+6 financial institution for collection or payment.
+7 (i) The failure of a licensee or any other person to comply with the
+8 provisions of this section or any applicable regulation promulgated by a
+9 governmental regulatory agency does not invalidate a casino credit instrument or
+10 affect the ability to enforce the casino credit instrument or the debt that the casino
+11 credit instrument represents.
+12 § 2354. Applicability.
+13 The provisions of this Article shall apply to any lawful casino licensee in
+14 any senatorial district.
+15 Article 6. Internet, Online Gaming and Digital Currency.
+16 § 2590. Authorization. Internet Gaming and Online Gaming are hereby
+17 authorized in the Commonwealth, subject to licensing and regulation by the
+18 Commonwealth Casino Commission ("Commission"). Such gaming activities
+19 shall be conducted only by operators licensed under this chapter and in accordance
+20 with regulations issued by the Commission.
+21 § 2591. Federal Law Compliance and Jurisdictional Scope.
+- 70 -
+
+'75
+HOUSE BILL 2 .1 •
+1 (a) Internet and Online Gaming authorized under this Article shall be
+2 conducted on an intrastate basis within the Commonwealth, unless extended as
+3 provided in subsection (b).
+4 (b) The Commission may, by regulation, authorize participation from other
+5 U.S. states, territories, or foreign jurisdictions, only pursuant to interstate or
+6 international compacts, agreements, or arrangements expressly permitted under
+7 U.S. federal law. Any foreign jurisdiction must not be subject to U.S. trade or
+8 financial restrictions and must be specifically approved by the Commission.
+9 (c) All operations shall conform to the Unlawful Internet Gambling
+10 Enforcement Act (UIGEA), 31 U. S.0 . §§ 5361-5367, the Wire Act, 18 U.S.C. §
+11 1084, the Bank Secrecy Act, Anti-Money Laundering statutes, and the Office of
+12 Foreign Assets Control (OFAC) regulations, including prohibitions on transactions
+13 with sanctioned jurisdictions or persons.
+14 (d) Sports wagering, if offered online, shall be confined strictly to persons
+15 physically present within the Commonwealth, or as otherwise permitted under
+16 federal law or compacts authorized under subsection (b).
+17 § 2592. Consumer Protections. The Commission shall establish mandatory
+18 safeguards by regulation including:
+19 (a) Geolocation technology to ensure patrons are physically located in
+20 authorized jurisdictions.
+- 71 -
+
+HOUSE BILL 2 Plf • '71
+1 (b) Identity and age verification systems prohibit participation by
+2 individuals under 21 years of age.
+3 (c) Self-exclusion programs for problem and compulsive gamblers.
+4 (d) Cybersecurity and data protection standards consistent with best
+5 practices in the gaming industry.
+6 § 2593. Licensing and Technical Standards.
+7 (a) No person or entity may conduct Internet or Online Gaming in the
+8 Commonwealth without a valid license issued by the Commission.
+9 (b) The Commission shall require all gaming software, systems, and
+10 platforms to be independently tested and certified by a Commission-approved
+11 laboratory, including random number generators (RNGs).
+12 (c) The Commission shall adopt technical standards for servers, encryption,
+13 system integrity, and transaction monitoring.
+14 § 2594. Authorization of Digital Payment Instruments.
+15 (a) The Commission shall not approve the use of any payment instruments
+16 or methods other than Payment Stablecoins, as defined in 12 U.S.C. § 5901 (22),
+17 for Internet Gaming conducted under this Chapter.
+18 (b) The Commission shall not approve, and shall prohibit use in casino and
+19 Internet Gaming conducted under this Chapter, of any Payment Stablecoin whose
+20 issuance, in the Commonwealth, is unlawful pursuant to 12 U.S.C. § 5902 (a).
+21 § 2596. Oversight and Governance.
+- 72 -
+
+2,1"1 1
+HOUSE BILL
+1 (a) The Commission shall license and regulate all providers of software and
+2 services used by casinos or Internet Gaming operators, for facilitating Payment
+3 Stablecoin transactions.
+4 (b) The Commission shall set technical, transaction, wallet, and reporting
+5 standards to ensure security, transparency, and consumer protection.
+6 § 2597. Use in Internet and Online Gaming.
+7 A casino licensee may, with Commission approval, accept Payment
+8 Stablecoins for remote internet wagers and settlement of online gaming accounts.
+9 § 2598. Reserved
+10 § 2599. Internet Gaming Regulatory Fee.
+11 (a) Each casino licensee approved by the Commonwealth Casino
+12 Commission to conduct Internet or Online Gaming shall pay an annual Internet
+13 Gaming Regulatory Fee of one hundred thousand dollars ($100,000).
+14 (b) The Internet Gaming Regulatory Fee shall be imposed in addition to all
+15 other application fees, license fees, and regulatory fees required under this chapter.
+16 (c) All Internet Gaming Regulatory Fees collected under this section shall
+17 be deposited into the Commonwealth Casino Commission Regulatory Fee Fund
+18 (CCCRF) established under § 2309 and earmarked for the exclusive purpose of
+19 regulating, monitoring, and ensuring compliance with applicable Commonwealth
+20 and federal laws governing Internet and Online Gaming.
+- 73 -
+
+24.171
+HOUSE BILL
+1 (d) The Commission shall adopt regulations to implement and enforce this
+2 section, including reporting, auditing, and compliance requirements to ensure
+3 licensees meet all federal and Commonwealth obligations related to Internet
+4 Gaming operations.
+5 § 2600. Taxation.
+6 (a) Internet and Online Gross Gaming Revenue shall be treated as Casino
+7 Gross Gaming Tax (CGGT) under § 2308 of this Chapter and taxed accordingly at
+8 rates set by law or Commission regulation. This provision shall not duplicate or
+9 alter § 2308 but shall incorporate Internet Gaming revenues into the existing tax
+10 framework.
+11 § 2601. Enforcement. The Commission shall have full enforcement authority over
+12 Internet and Online Gaming under this Article, including sanctions and rulemaking.
+13 Detailed operational standards shall be promulgated by regulation."
+14 Section 3. Severabilitv. If any provisions of this Act or the application of
+15 any such provision to any person or circumstance should be held invalid by a court
+16 of competent jurisdiction, the remainder of this Act or the application of its
+17 provisions to persons or circumstances other than those to which it is held invalid
+18 shall not be affected thereby.
+19 Section 4. Savings Clause. This Act and any repealer contained herein
+20 shall not be construed as affecting any existing right acquired under contract or
+21 acquired under statutes repealed or under any rule, regulation, or order adopted
+- 74 -
+
+HOUSE BILL VI' 4'
+1 under the statutes. Repealers contained in this Act shall not affect any proceeding
+2 instituted under or pursuant to prior law. The enactment of the Act shall not have
+3 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+4 which shall already be in existence on the date this Act becomes effective.
+5 Section 5. Effective Date. This Act shall take effect upon its approval by
+6 the Governor, or it becoming law without such approval.
+Prefiled: /62./ge(q-ar
+Date: Introduced by:
+Rep. RalkU. Yumul
+Reviewed for introduction purposes only by:
+use egal Counsel
+Date: / 2 •
+- 75 -

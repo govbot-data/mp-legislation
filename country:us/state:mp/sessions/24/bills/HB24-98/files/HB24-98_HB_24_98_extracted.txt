@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - HB 24-98
+Media Type: application/pdf
+
+================================================================================
+
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+/9
+Session, 2026 H. B. 24-
+A BILL FOR AN ACT
+To amend Title 4 of the Commonwealth Code to provide Business
+Gross Revenue Tax relief for taxpayers operating at a net loss
+under the Northern Mariana Islands Territorial Income Tax; and
+for other purposes.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The Legislature finds that the
+2 Commonwealth administers a mirror-code income tax system, known as the
+3 Northern Mariana Islands Territorial Income Tax (NMTTIT), pursuant to Section
+4 601 of the Covenant to Establish a Commonwealth of the Northern Mariana Islands
+5 in Political Union with the United States of America and applicable provisions of
+6 federal law, under which tax revenues are retained by the Commonwealth. The
+7 Commonwealth also imposes a Business Gross Revenue Tax (BGRT) under Title
+8 4 of the Commonwealth Code, which is assessed on gross receipts derived from
+9 business activity within the Commonwealth, without regard to profitability.
+10 BGRT and NMTTIT are separate and cumulative taxes, and current law
+11 provides no general offset or credit between the two. As a result, businesses
+
+6/3
+HOUSE BILL 24-
+1 operating in the Commonwealth may be required to pay BGRT even when
+2 operating at a net loss for the same taxable year under the NMTTIT.
+3 Evidence from multiple industries demonstrates that the combined
+4 application of BGRT and NMTTIT can, in certain circumstances, result in effective
+5 tax burdens that exceed net income, particularly for low-margin, capital-intensive,
+6 or labor-intensive businesses. Such outcomes are structural in nature, arising from
+7 the interaction of a gross-based tax and a net-income-based tax, rather than from
+8 noncompliance or tax avoidance.
+9 Courts have consistently upheld gross receipts taxes as constitutionally valid
+10 exercises of a legislature's taxing authority. However, questions of economic
+11 distortion, tax neutrality, and proportionality arising from the structure or
+12 interaction of taxes are matters of public policy, not constitutional adjudication.
+13 Accordingly, responsibility for correcting structural distortions or inequitable
+14 outcomes within the tax system rests with the Legislature, not the Judiciary.
+15 Sound public finance principles favor tax systems that avoid imposing tax
+16 liability where no net income exists, minimize distortion of business behavior and
+17 investment decisions, and align burden with a taxpayer's actual ability to pay. As
+18 currently structured, the Business Gross Revenue Tax, when stacked with the
+19 Northern Mariana Islands Territorial Income Tax without offset mechanisms, fails
+20 commonly accepted tax neutrality standards. This failure constitutes a policy
+2
+-
+
+q$1
+HOUSE BILL 24-
+1 deficiency, not a legal defect in the validity of the tax.
+2 The Legislature determines that targeted relief in loss years is the most
+3 fiscally responsible and administratively efficient means of addressing this policy
+4 deficiency at this time. This approach preserves the Business Gross Revenue Tax
+5 as a stable revenue source while preventing confiscatory taxation of businesses that
+6 are demonstrably unprofitable.
+7 The purpose of this Act is to ensure that the Business Gross Revenue Tax is
+8 not imposed on taxpayers who have incurred a net operating loss under the Northern
+9 Mariana Islands Territorial Income Tax for the same taxable year, thereby
+10 promoting economic stability, tax fairness, and compliance without undermining
+11 the Commonwealth's revenue base.
+12 Section 1A. Policy Summary. The Legislature hereby adopts the following
+13 policy summary to guide interpretation and implementation of this Act:
+14 (a) Courts have consistently upheld gross receipts taxes as
+15 constitutionally permissible; however, constitutional validity does not equate
+16 to optimal tax policy.
+17 (b) The Business Gross Revenue Tax, while lawful, produces non-
+18 neutral outcomes when applied concurrently with a net-income tax and
+19 without adjustment.
+20 (c) When stacked with the Northern Mariana Islands Territorial Income
+21 Tax without offset mechanisms, the BGRT can impose tax burdens that
+3
+
+HOUSE BILL 24- 951
+1 exceed a taxpayer's net income, undermining economic neutrality and
+2 fairness.
+3 (d) These outcomes represent a policy failure rather than a legal defect,
+4 and therefore warrant legislative — not judicial — correction.
+5 (e) Relief limited to loss years:
+6 (1) Prevents taxation in the absence of economic gain;
+7 (2) Reduces distortion without eliminating the BGRT;
+8 (3) Preserves revenue stability in profitable years; and
+9 (4) Encourages accurate income tax reporting and compliance.
+10 (f) This Act is intended as an incremental reform that addresses the
+11 most severe distortions while allowing the Legislature to evaluate future
+12 measures, including credits or rate caps, based on fiscal perfolinance and
+13 economic conditions.
+14 Section 2. Amendment. Title 4, Division 1, Chapter 3, Section 1301 is
+15 hereby amended by adding a new subsection (c) to read as follows:
+16 "(c). Loss-Year Relief.
+17 (1) Notwithstanding any other provision of this chapter, no
+18 Business Gross Revenue Tax shall be imposed for any taxable year in
+19 which a taxpayer demonstrates a net operating loss under the Northern
+20 Mariana Islands Territorial Income Tax for the same taxable year.
+-4
+_
+
+97
+HOUSE BILL 24-
+1 (2) Eligibility for relief under this subsection shall be established
+2
+3 (i) The Filing of a timely territorial income tax return; and
+4 (ii) Certification by the Division of Revenue and Taxation
+5 that the taxpayer incurred a net operating loss for that year.
+6 (3) This subsection shall apply only to the taxable year for which
+7 the net operating loss is demonstrated and shall not create any refund,
+8 credit, carryforward, or carryback of Business Gross Revenue Tax paid
+9 in prior years.
+10 (4) The Secretary of Finance shall promulgate regulations as
+11 necessary to implement and administer this subsection, including
+12 coordination between BGRT filings and territorial income tax filings."
+13 Section 3. Rulemaking Authority. The Secretary of Finance shall adopt
+14 rules and regulations pursuant to the Administrative Procedure Act to carry out the
+15 provisions of this Act, provided that such regulations shall be consistent with the
+16 Covenant, Title 4 of the Commonwealth Code, and the Internal Revenue Code as
+17 mirrored in the Commonwealth.
+18 Section 4. Seyerability. If any provisions of this Act or the application of
+19 any such provision to any person or circumstance should be held invalid by a court
+20 of competent jurisdiction, the remainder of this Act or the application of its
+5
+
+HOUSE BILL 24- 9 g
+1 provisions to persons or circumstances other than those to which it is held invalid
+2 shall not be affected thereby.
+3 Section 5. Savings Clause. This Act and any repealer contained herein shall
+4 not be construed as affecting any existing right acquired under contract or acquired
+5 under statutes repealed or under any rule, regulation, or order adopted under the
+6 statutes. Repealers contained in this Act shall not affect any proceeding instituted
+7 under or pursuant to prior law. The enactment of the Act shall not have the effect
+8 of terminating, or in any way modifying, any liability, civil or criminal, which shall
+9 already be in existence on the date this Act becomes effective.
+10 Section 6. Effective Date. This Act shall take effect upon its approval by the
+11 Governor or it becoming law without such approval.
+Prefiled: gi 16/
+Date: Introduced by:
+R arissa R. Flor s
+Reviewed for introduction purposes only by:
+se LLeeggaall -Counsel
+Date
+-6
+-

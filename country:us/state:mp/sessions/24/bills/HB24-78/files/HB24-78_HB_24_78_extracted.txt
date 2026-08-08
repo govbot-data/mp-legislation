@@ -1,0 +1,96 @@
+Title: 
+Official Title: 
+Source: versions - HB 24-78
+Media Type: application/pdf
+
+================================================================================
+
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+1g
+24
+Regular Session, 2025 H. B.
+A BILL FOR AN ACT
+To amend Title 4. Economic Resources, Division 6. Banking
+and Financial Institutions of the Commonwealth Code, to give
+the Banking Director authority to regulate digital asset
+businesses; and for other purposes."
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. Congress has enacted the Guiding and
+2 Establishing National Innovation for U.S. Stablecoins (GENIUS) Act, which
+3 creates a nationwide system to license and oversee issuers of payment stablecoins.
+4 A payment stablecoin is a type of digital currency designed to hold a steady value,
+5 usually by being backed one-for-one with U.S. dollars or other safe assets. An
+6 issuer of payment stablecoins is the company or financial institution that creates
+7 and circulates them for use in payments.
+8 The Act includes the Commonwealth in its definition of "State," which
+9 means the Commonwealth retains the option to regulate these issuers locally. But
+10 that option is not automatic. If the Commonwealth does not act, businesses
+11 operating here will have to register directly with federal regulators, bypassing local
+
+HOUSE BILL gq ' rill
+1 oversight entirely.
+2 The responsibility placed on the Commonwealth under the GENIUS Act is
+3 both clear and urgent. Regulations must be adopted within one year of enactment-
+4 by July 1, 2026. In addition, an initial certification must be filed with the U.S.
+5 Department of the Treasury within one year of the Act's effective date—by January
+6 1, 2027. Certification is the formal statement by a regulator that its laws and rules
+7 meet the requirements of the Act. Meeting both deadlines is the condition for
+8 preserving local authority.
+9 If the Commonwealth fails to meet those deadlines, the result will likely be
+10 irreversible. Local control over digital asset businesses would essentially be
+11 waived, along with the ability to set prudential standards that match the
+12 Commonwealth's economy, to enforce consumer protections suited to the
+13 community, and to retain licensing revenues that should remain in the CNMI. Once
+14 lost, this authority cannot be regained.
+15 New legislation is therefore required to establish a Commonwealth
+16 framework for the regulation of issuers of payment stablecoins. By acting now, the
+17 Legislature ensures compliance with federal law, preserves jurisdiction, and keeps
+18 authority in the hands of the people of the Commonwealth rather than distant
+19 regulators.
+20 Section 2. Amendment. Title 4. Economic Resources, Division 6. Banking
+21 and Financial Institutions, of the Commonwealth Code, is hereby amended to add
+2
+-
+
+2 cl—
+1 l i
+HOUSE BILL
+1 a new Chapter 11, titled, "Digital Assets and Financial Technology," that shall read
+2 as follows:
+3 "Chapter 11. Digital Assets and Financial Technology.
+4 §61000. Digital Assets.
+5 The director may specifically provide for the operation of the business of
+6 custodianship, issuance, redemption, or selling of digital assets, as the term "digital
+7 asset" is defined in the laws of the Commonwealth of the Northern Mariana Islands
+8 or the laws of the United States of America. The director may establish by
+9 regulation such conditions and restrictions upon the digital asset business as the
+10 director deems consistent with this division and in the public interest."
+11 Section 3. Seyerability. If any provisions of this Act or the application of
+12 any such provision to any person or circumstance should be held invalid by a court
+13 of competent jurisdiction, the remainder of this Act or the application of its
+14 provisions to persons or circumstances other than those to which it is held invalid
+15 shall not be affected thereby.
+16 Section 4. Savings Clause. This Act and any repealer contained herein
+17 shall not be construed as affecting any existing right acquired under contract or
+18 acquired under statutes repealed or under any rule, regulation, or order adopted
+19 under the statutes. Repealers contained in this Act shall not affect any proceeding
+20 instituted under or pursuant to prior law. The enactment of this Act shall not have
+3
+-
+
+HOUSE BILL
+1 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+2 which shall already be in existence on the date this Act becomes effective.
+3 Section 5. Effective Date. This Act shall take effect upon its approval by
+4 the Governor, or it becoming law without such approval.
+It1T01%C
+Prefiled: 12(
+Date: Introduced by:
+Rep.
+Reviewed for 1 suf y:
+House Legal Co i set
+Date:
+-4

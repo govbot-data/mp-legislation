@@ -1,0 +1,361 @@
+Title: 
+Official Title: 
+Source: versions - HB 24-88
+Media Type: application/pdf
+
+================================================================================
+
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+71
+Regular Session, 2026 H. B. 24-
+A BILL FOR AN ACT
+To mandate that the Commonwealth Utilities Corporation
+undergo a comprehensive, independent, third-party utility expert
+audit; to require a formal Commonwealth Public Utilities
+Commission audit-review docket and transparent public review
+process; to require an enforceable corrective action plan, a
+ratepayer impact matrix, and a public audit implementation
+dashboard; to impose strict timelines and narrowly limited
+extensions; to require mandatory decennial audits; to establish
+compliance reporting and civil penalties for missed deadlines
+payable to the CNMI Treasury; and for other purposes.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The Legislature finds that:
+2 (a) The Commonwealth Utilities Corporation ("CUC") provides essential
+3 electric, water, and wastewater services impacting public health, public safety,
+4 economic stability, and quality of life.
+5 (b) Sound utility governance requires accurate financial reporting,
+6 verifiable asset records, effective internal controls, prudent procurement and
+7 contract management, and transparent performance metrics.
+
+$3
+HOUSE BILL 24-
+1 (c) Independent third-party utility expert audits are necessary to validate
+2 financial integrity, verify assets and capital planning, test billing and collections
+3 controls, and identify deficiencies that materially affect customer bills, system
+4 reliability, and public confidence.
+5 (d) Persistent deficiencies, delayed responsiveness, and failures to operate
+6 in a businesslike manner warrant mandatory independent verification with
+7 enforceable deadlines and measurable corrective action.
+8 The purpose of this Act is to mandate comprehensive independent utility
+9 expert audits of the Commonwealth Utilities Corporation on a strict schedule,
+10 require Commonwealth Public Utilities Commission procedural review and public
+11 transparency, compel timely corrective actions, and ensure accountability through
+12 enforceable reporting and civil penalties for missed deadlines.
+13 Section 2. Enactment. Subject to codification by the CNMI Law Revision
+14 Commission, the following is hereby enacted into law:
+15 "Section 101. Short Title.
+16 This Act may be cited as the "CUC Independent Utility Audit, Decennial
+17 Review, and Accountability Act of 2026."
+18 Section 102. Definitions.
+19 For purposes of this Act:
+20 (a) "Adoption Date" means the date this Act becomes law.
+2
+-
+
+HOUSE BILL 24- Si
+1 (b) "Audit" means a comprehensive independent review by qualified utility
+2 expert auditors encompassing financial, operational ("desk"), asset, compliance,
+3 and risk/internal control examinations, including testing of internal controls and
+4 verification of material assets.
+5 (c) "Auditor" means an independent third party with demonstrated expertise
+6 in electric and water/wastewater utilities, including utility finance, billing and
+7 revenue assurance, procurement and contract controls, inventory controls, asset
+8 verification, and utility operational performance metrics.
+9 (d) "CAP" means the Corrective Action Plan required by this Act, including
+10 specific actions, accountable owners, deadlines, measurable outcomes, and
+11 verification methods.
+12 (e) "CPUC" means the Commonwealth Public Utilities Commission (or its
+13 lawful successor).
+14 (f) "Dashboard" means the public-facing Audit Implementation Dashboard
+15 required by this Act.
+16 (g) "Deadline" means any mandatory time requirement established in
+17 Sections 103, 105, 106, or 107 of this Act, as applicable.
+18 (h) "Missed Deadline" means failure to meet a Deadline without a valid
+19 extension granted under Section 109 of this Act.
+20 (i) "Responsible Party" means the official designated under Section 110 (0
+21 as accountable for a specific Deadline, and includes, at minimum, the CUC
+-3
+
+HOUSE BILL 24- SI
+1 Executive Director/Chief Executive Officer and any other officer, manager,
+2 employee, or agent assigned responsibility for timely completion of a deliverable
+3 or action required by this Act.
+4 (j) "Trigger Date" means, for each decennial cycle, the tenth (10th)
+5 anniversary of the date the prior final Audit Report was delivered under Section
+6 103(c) of this Act (or, if not delivered, the tenth anniversary of the date the report
+7 was required to be delivered).
+8 Section 103. Mandatory Independent Utility Expert Audit;
+9 Independence; Scope; Cooperation; Decennial Requirement.
+10 (a) Audit Required. The Commonwealth Utilities Corporation shall procure
+11 and complete an Audit in accordance with this Act.
+12 (b) Independence Requirements. The Auditor shall be independent of CUC
+13 and shall not, within the prior three (3) years, have served as CUC' s material
+14 vendor, contractor, consultant, or auditor in a manner that creates a conflict of
+15 interest, except as permitted by written conflict disclosure and mitigation approved
+16 under subsection (e).
+17 (c) Minimum Scope. The Audit shall include, at a minimum, examination
+18 of:
+19 (1) Cash management;
+20 (2) Accounts receivable, billing accuracy, and collections;
+21 (3) Accounts payable and disbursement controls;
+4
+
+HOUSE BILL 24- 46/
+1 (4) Payroll and timekeeping controls;
+2 (5) Fuel and power cost processes (if applicable) and cost pass-through
+3 controls;
+4 (6) Procurement and contract administration;
+5 (7) Inventory management and warehousing controls;
+6 (8) Capital project controls and change order governance;
+7 (9) Operational performance and reliability metrics, including SAIDI and
+8 SAIFI where applicable;
+9 (10) Non-revenue water and production and distribution loss controls for
+10 water and wastewater systems;
+11 (11) Asset verification and condition assessment to the extent practicable;
+12 and
+13 (12) Any additional areas identified by the Auditor as high risk.
+14 (d) Access and Cooperation. CUC shall provide the Auditor prompt access
+15 to personnel, systems, records, facilities, contracts, invoices, meter and billing data,
+16 work orders, and asset information reasonably necessary to complete the Audit.
+17 (e) Conflict Disclosure. The Auditor shall submit written conflict
+18 disclosures prior to award and update them throughout performance.
+19 (f) Mandatory Decennial Audit.
+-5
+
+HOUSE BILL 24- Ca
+1 (1) After completion of the initial Audit required by this Act, CUC shall
+2 procure and complete a new independent utility expert Audit at least once every ten
+3 (10) years ("Decennial Audit").
+4 (2) Each Decennial Audit shall satisfy the same independence, scope,
+5 cooperation, and deliverables requirements set forth in this Act, and shall be subject
+6 to CPUC procedural docketing and public review under Section 105 and CAP and
+7 Dashboard requirements under Sections 106 and 107.
+8 (3) Each Decennial Audit cycle shall be triggered by the Trigger Date and
+9 shall follow the strict deadlines in Section 104.
+10 Section 104. Procurement and Strict Timelines; Decennial Scheduling.
+11 (a) Solicitation Deadline (Initial Audit). Within sixty (60) calendar days
+12 after the Adoption Date, CUC shall issue a competitive solicitation for the Audit.
+13 (b) Award Deadline (Initial Audit). Within one hundred twenty (120)
+14 calendar days after the Adoption Date, CUC shall award the Audit contract.
+15 (c) Final Report Deadline (Initial Audit). CUC shall require, and the Auditor
+16 shall deliver, the final Audit Report and all deliverables required under Section 105
+17 no later than one hundred eighty (180) calendar days after contract award.
+18 (d) Decennial Audit Deadlines. For each Decennial Audit cycle triggered
+19 by the Trigger Date:
+20 (1) Within sixty (60) calendar days after the Trigger Date, CUC shall issue
+21 a competitive solicitation;
+6
+
+HOUSE BILL 24- VI
+1 (2) Within one hundred twenty (120) calendar days after the Trigger Date,
+2 CUC shall award the Audit contract; and
+3 (3) The Auditor shall deliver the final Audit Report and deliverables
+4 required under Section 105 no later than one hundred eighty (180) calendar days
+5 after contract award.
+6 (e) Time is of the Essence. The timelines in this Act are mandatory, and
+7 time is of the essence.
+8 Section 105. Mandatory Deliverables.
+9 The Auditor shall produce, at minimum:
+10 (a) A written Audit Report with findings and recommendations, quantified
+11 where practicable;
+12 (b) A Management Letter identifying internal control weaknesses and
+13 corrective recommendations;
+14 (c) A Validated Asset Register (or validated update) and summary of
+15 verification methods and exceptions;
+16 (d) A plain-language Executive Summary suitable for public dissemination;
+17 (e) A CPUC Briefing Exhibit summarizing findings relevant to CPUC
+18 jurisdiction;
+19 (0 A Ratepayer Impact Matrix identifying for each major finding the
+20 mechanism of impact, estimated direction, and potential annual range of ratepayer
+21 impact, informational only and not a rate determination; and
+-7
+
+HOUSE BILL 24- in
+1 (g) A "Top 10 Controls to Fix in 90 Days" list with specific fixes,
+2 accountable owners, verification methods, and expected risk reduction.
+3 Section 106. CPUC Procedural Docket and Public Audit-Review
+4 Process.
+5 (a) Docket Required. Within fifteen (15) calendar days after the CPUC
+6 receives the final Audit Report, the CPUC shall open and docket an audit-review
+7 matter for the limited purpose of receiving the Audit Report, conducting a
+8 transparent public review process, and receiving stakeholder input through public
+9 technical conferences or hearings.
+10 (b) No Compelled Substantive Outcome. Nothing in this Act shall be
+11 construed to require the CPUC to reach any particular substantive outcome,
+12 approve or deny any specific rate adjustment, or impair the CPUC's independent
+13 adjudicatory or regulatory discretion beyond the procedural obligations expressly
+14 stated in subsection (a).
+15 (c) Record. The CPUC shall maintain a publicly accessible docket record,
+16 subject to lawful confidentiality limitations.
+17 Section 107. Corrective Action Plan and Quarterly Reporting.
+18 (a) CAP Required. Within thirty (30) calendar days after CUC receives the
+19 final Audit Report, CUC shall submit to the Legislature and CPUC:
+20 (1) A written Management Response; and
+8
+
+a
+HOUSE BILL 24-
+1 (2) A time-bound CAP with specific actions, responsible owners, deadlines,
+2 measurable outcomes, and verification methods.
+3 (b) Quarterly Progress Reports. CUC shall submit quarterly CAP progress
+4 reports to the Legislature and CPUC until all CAP items are completed or formally
+5 closed with written justification and supporting documentation.
+6 (c) Verification Standard. CAP closure shall include completion proof or a
+7 verification method sufficient for independent review.
+8 Section 108. Public Audit Implementation Dashboard.
+9 (a) Dashboard Required. Within forty-five (45) calendar days after
+10 submission of the CAP, CUC shall publish and maintain a public-facing
+11 Dashboard, updated at least quarterly, listing each CAP item, owner, due date,
+12 status, and completion proof or verification method.
+13 (b) Confidentiality. The Dashboard and related publications shall respect
+14 lawful confidentiality requirements, including security-sensitive, personally
+15 identifiable, privileged, or procurement-sensitive information. Redacted public
+16 versions and confidential appendices are authorized.
+17 Section 109. Funding.
+18 (a) Use of CUC Funds. CUC shall fund the Audit and related obligations
+19 under this Act from its legally available revenues and funds and shall treat such
+20 costs as a priority governance and compliance expenditure.
+-9
+
+ga
+HOUSE BILL 24-
+1 (b) No Excuse of Noncompliance. Lack of separate appropriation shall not
+2 excuse noncompliance where legally available utility revenues exist.
+3 Section 110. Limited Extensions—Strict Standard, Public Vote, Notice,
+4 and Cap.
+5 (a) Extensions to deadlines in Section 104 are disfavored and may be
+6 granted only upon a written determination adopted by the CUC Board at a public
+7 meeting that:
+8 (1) Delay is unavoidable due to specific documented circumstances beyond
+9 reasonable control;
+10 (2) CUC has taken all reasonable mitigation measures; and
+11 (3) The extension is for the shortest period necessary.
+12 (b) Any extension shall:
+13 (1) Be transmitted to the Speaker of the House, the Senate President, the
+14 chairs of the committees of jurisdiction, and the CPUC no later than ten (10)
+15 calendar days before the affected deadline; and
+16 (2) Include a revised schedule and mitigation plan.
+17 (c) No single extension shall exceed sixty (60) calendar days unless the
+18 Legislature, by subsequent law, authorizes a longer extension.
+19 (d) No penalty shall accrue for any day covered by a valid extension granted
+20 under this Section.
+- 10 -
+
+HOUSE BILL 24- SI
+1 Section 111. Compliance Consequences; Civil Penalties; Responsibility
+2 Designation; Collection.
+3 (a) Immediate Notice of Default. If CUC incurs a Missed Deadline in
+4 Sections 104, 107, or 108, the CUC Board Chair and the CUC Executive
+5 Director/Chief Executive Officer shall transmit a written Notice of Default to the
+6 Speaker of the House, the Senate President, and the CPUC within five (5) calendar
+7 days identifying the missed requirement, reasons, responsible officials, and
+8 corrective steps with dates certain.
+9 (b) Automatic Oversight Hearing Trigger. A Notice of Default shall
+10 automatically trigger committee oversight proceedings, and CUC leadership shall
+11 appear when noticed.
+12 (c) Restrictions Pending Cure. From the date of Default until Cure, CUC
+13 shall not approve discretionary travel not directly required for emergency response
+14 or public safety, pay performance bonuses or non-contractual incentive pay to
+15 executive management, or execute new professional services contracts exceeding
+16 Fifty Thousand Dollars ($50,000.00) unless necessary for emergency operations or
+17 public safety and accompanied by a written determination by the CUC Board
+18 adopted at a public meeting.
+19 (d) Cure Certification. Cure occurs when CUC submits the delinquent
+20 deliverable and provides written certification to the Legislature and CPUC with
+21 supporting documentation.
+
+%I
+HOUSE BILL 24-
+1 (e) Daily Civil Penalties for Missed Deadlines (Payable to CNMI Treasury).
+2 If CUC incurs a Missed Deadline, then beginning on the first calendar day
+3 after the Deadline and continuing each day until Cure, a civil penalty shall accrue
+4 as follows:
+5 (1) CUC Executive Director/Chief Executive Officer: One Hundred Dollars
+6 ($100.00) per day; and
+7 (2) Each other Responsible Party designated under subsection (f): Fifty
+8 Dollars ($50.00) per day.
+9 The penalties in this subsection are personal civil obligations of the officials
+10 assessed and are payable to the CNMI Treasury.
+11 Penalties shall not accrue for any period covered by an extension granted in
+12 accordance with Section 110.
+13 Penalties under this subsection are civil in nature and do not create criminal
+14 liability.
+15 (f) Responsibility Designation Required.
+16 Within fifteen (15) calendar days after the Adoption Date, and within fifteen
+17 (15) days after the start of each Decennial Audit cycle, the CUC Board shall adopt,
+18 at a public meeting, a written Responsibility Designation assigning a named
+19 Responsible Party for each Deadline in Sections 104, 107, and 108.
+20 The Responsibility Designation shall be transmitted to the Speaker of the
+21 House, the Senate President, and the CPUC and shall be posted on CUC's website.
+- 12 -
+
+HOUSE BILL 24- logg
+1 If the Board fails to timely adopt or transmit the Responsibility Designation,
+2 then for purposes of subsection (e), the CUC Executive Director/Chief Executive
+3 Officer and the CUC Board Chair shall be deemed the Responsible Parties for all
+4 Deadlines until a valid designation is filed.
+5 (g) No Reimbursement; No Rate Recovery.
+6 Penalties assessed under subsection (e) shall not be paid, reimbursed,
+7 indemnified, offset, advanced, or otherwise funded directly or indirectly by CUC,
+8 any CUC contractor, or any affiliate.
+9 Penalties assessed under subsection (e) shall not be included in any rate
+10 base, fuel factor, surcharge, pass-through, settlement, or other charge to ratepayers.
+11 (h) Notice of Assessment; Opportunity to Contest.
+12 Within ten (10) calendar days after a Missed Deadline occurs, the CUC
+13 Board shall issue a written Notice of Assessment to each assessed official
+14 identifying the Missed Deadline, start date of accrual, daily rate, Responsible Party
+15 basis, and Cure requirements. Copies shall be transmitted to the Speaker of the
+16 House, the Senate President, the CPUC, the Attorney General, and the Secretary of
+17 Finance.
+18 An assessed official may submit a written contest to the CUC Board within
+19 fifteen (15) calendar days of receipt, limited to whether a Missed Deadline
+20 occurred, whether a valid extension applied, or whether the official was properly
+21 designated as a Responsible Party.
+- 13 -
+
+HOUSE BILL 24-
+1 The CUC Board shall issue a written decision within fifteen (15) calendar
+2 days after receiving a timely contest. If the contest is denied in whole or in part, the
+3 Board shall transmit its decision and supporting record to the Attorney General for
+4 collection under subsection (i).
+5 This subsection provides minimum due process and does not limit judicial
+6 review available under Commonwealth law.
+7 (i) Billing, Payment, and Collection.
+8 Assessed penalties shall be due and payable to the CNMI Treasury within
+9 thirty (30) calendar days after issuance of the Notice of Assessment or Board
+10 decision, and thereafter every thirty (30) days while accrual continues until Cure.
+11 If penalties remain unpaid for sixty (60) calendar days after due date, the
+12 Attorney General is authorized to collect the unpaid amount by any lawful means,
+13 including a civil action, and to seek reasonable costs of collection.
+14 All collected penalties shall be deposited into the CNMI Treasury.
+15 (j) Cumulative Remedies. The remedies and penalties in this Section are
+16 cumulative and do not limit any other lawful remedy, oversight action, or
+17 accountability measure available to the Legislature or the Commonwealth."
+18 Section 3. Severabilitv. If any provisions of this Act or the application of
+19 any such provision to any person or circumstance should be held invalid by a court
+20 of competent jurisdiction, the remainder of this Act or the application of its
+- 14 -
+
+HOUSE BILL 24- 413
+1 provisions to persons or circumstances other than those to which it is held invalid
+2 shall not be affected thereby.
+3 Section 4. Savings Clause. This Act and any repealer contained herein
+4 shall not be construed as affecting any existing right acquired under contract or
+5 acquired under statutes repealed or under any rule, regulation, or order adopted
+6 under the statutes. Repealers contained in this Act shall not affect any proceeding
+7 instituted under or pursuant to prior law. The enactment of the Act shall not have
+8 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+9 which shall already be in existence on the date this Act becomes effective.
+10 Section 5. Effective Date. This Act shall take effect upon its approval by
+11 the Governor, or it becoming law without such approval.
+Prefiled: 0\ -
+Date: Introduced by:
+Rep. Vincent S. Aldan
+Reviewed for legal sufficiency by:
+///612.
+H se Legal Counsel
+- 15 -

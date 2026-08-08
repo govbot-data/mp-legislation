@@ -1,0 +1,1595 @@
+Title: 
+Official Title: 
+Source: versions - HB 24-80
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+Session, 2025 H. B. 24- Teb
+A BILL FOR AN ACT
+To Repeal and Re-Enact Public Law 24-14 to further Define and
+Identify General Revenues and approve revenues and resources
+of the Commonwealth of the Northern Mariana Islands as
+identified pursuant to Article III, Section 9 (a) of the CNMI
+Constitution, as amended, and 1 CMC Division 7, for Fiscal Year
+2026 and make appropriations for the operations and activities of
+the Government of the Commonwealth of the Northern Mariana
+Islands, its agencies, instrumentalities, and independent
+programs, and to provide budget authority for government
+corporations for Fiscal Year 2026; and for other purposes.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 CHAPTER 1. PRELIMINARY PROVISIONS.
+2 Section 101. Short Title. This Act may be cited as the "Revised
+3 Appropriations and Budget Authority Act of 2026".
+4 Section 102. Purpose. This Act appropriates local funds for the operations
+5 and activities of the Government of the Northern Mariana Islands, its agencies,
+6 instrumentalities, independent agencies, and political subdivisions, and provides
+7 authority for government corporations for Fiscal Year 2026 commencing October
+8 1, 2025, and ending September 30, 2026.
+
+HOUSE BILL 24-7M
+1 Section 103. Definitions. As used in this Act:
+2 (a) "ORG" means Organization Code.
+3 (b) "NEW" means that the Legislature hereby authorizes the Secretary of
+4 Finance to establish an organization code as set forth therein for the named entity.
+5 (c) Government of the Commonwealth of the Northern Mariana Islands
+6 includes:
+7 (1) Judicial Branch, which includes the following organization codes:
+8 11510600 Justices and Judges
+9 11510400 Supreme Court
+10 11510300 Superior Court
+11 11510100 Judiciary Administrative Office
+12 11510500 Law Revision Commission
+13 11510700 Drug Court
+14 11511000 Mental Health Court
+15 (2) Legislative Branch, which includes the following organization codes:
+16 11620100 House of Representatives Salaries
+17 11620200 House Members Allocation
+18 11620300 House Leadership Account
+19 11620400 Senator Salaries
+20 11620500 Senate Members Allocation
+21 11620600 Senate Leadership Account
+2
+-
+
+90
+HOUSE BILL 24-
+1 11620700 Legislative Bureau
+2 11620800 CNMI Youth Congress
+3 (3) Executive Branch, which includes the following departments and offices:
+4 (A) Offices of the Governor, which includes the following organization
+5 codes:
+6 11261100 Governor's Office
+7 11269000 Governor's Discretionary Account
+8 (B) Office of the Lt. Governor
+9 11262000 Lt. Governor's Office
+10 11269100 Lt. Governor's Discretionary Account
+11 (C) Other Offices of the Governor and Lt. Governor
+12 11260900 Management and Budget
+13 11260100 Administrative Services
+14 11260700 CNMI Homeland Security and Emergency Management
+15 Office
+16 11261800 Office of Youth Affairs
+17 11260500 Office of Planning & Development
+18 11261300 Board of Parole
+19 11261000 Office of Grants Management
+20 11261200 Public Defender
+21 11260200 Carolinian Affairs Office
+3
+
+SO
+HOUSE BILL 24-
+1 11260800 Indigenous Affairs Office
+2 11261400 Veterans Affairs Office
+3 11261600 Women's Affairs Office
+4 11261900 Environmental Quality Saipan
+5 11262200 Saipan Zoning Board
+6 11260400 Criminal Justice Planning Agency
+7 11261500 Vocational Rehabilitation Service
+8 11882200 Medicaid Reimbursement
+9 11880300 Medicaid Agency
+10 11850400 Medicaid Enterprise Systems & Health Information
+11 Technology
+12 (D) Department of Commerce, which includes the following organization
+13 codes:
+14 11160100 Secretary of Commerce
+15 11160300 Economic Development — Saipan
+16 11160400 Statistical Research
+17 11160200 Alcoholic Beverage & Tobacco Control
+18 11160500 Enforcement & Compliance
+19 11160600 Workers Compensation Commission
+20 Unassigned Office of Foreign Corporation Liaison
+-4
+
+HOUSE BILL 24-gb
+1 (E) Department of Community and Cultural Affairs, which includes the
+2 following organization codes:
+3 11120100 Secretary of DCCA
+4 11120800 Youth Services —Saipan
+5 11120900 Child Care Licensing Program
+6 11120600 Historic Preservation — Saipan
+7 11120700 Office on Aging—Saipan
+8 11120200 Council for Arts & Culture
+9 11121000 Low Income Home Energy Asst. Program
+10 11121200 Chamorro/Carolinian Language Commission
+11 11121400 Nutrition Assistance Program
+12 (F) Department of Corrections, which includes the following organization
+13 codes:
+14 11130100 Corrections Commissioner
+15 11130200 Juvenile Detention Unit
+16 (G) Department of Fire and Emergency Medical Services, which includes
+17 the following organization codes:
+18 11140100 Administration
+19 11140300 Emergency Services
+20 11140200 Fire Prevention & Arson Investigation
+21 11140400 Emergency Medical Services
+-5
+
+HOUSE BILL 24-
+1 11140500 Logistics and Support
+2 11140600 DFEMS Training Section
+3 11140700 DFEMS Dispatch Section
+4 (H) Department of Finance, which includes the following organization
+5 codes:
+6 11170100 Secretary of Finance
+7 11170800 Finance and Accounting — Saipan
+8 11170700 Treasury
+9 11170500 Revenue and Taxation — Saipan
+10 11170400 Procurement & Supply —Saipan
+11 11170900 Customs Services — Saipan
+12 11170200 Office of Information Technology
+13 11171000 Passport Office
+14 (I) Department of Labor, which includes business codes:
+15 11180100 Secretary of Labor
+16 11180400 Administrative Hearing Office
+17 11180500 Employment Services
+18 11180700 Labor Enforcement Fund
+19 (J) Department of Lands and Natural Resources, which includes the
+20 following organization codes:
+21 11190100 Secretary of DLNR
+6
+
+HOUSE BILL 24-
+1 11190700 Agriculture
+2 11190800 Fish & Wildlife — Saipan
+3 11190400 Parks & Recreation — Saipan
+4 11190500 Soil & Water (SPN & NI) District
+5 11190900 Land Registration & Survey — Saipan
+6 (K) Department of Public Safety, which includes the following organization
+7 codes:
+8 11150400 DPS Commissioner
+9 N/A Executive Protection Services
+10 11150500 Police —Saipan
+11 11150100 Administrative Division
+12 11150300 Motor Vehicles Division
+13 (L) Department of Public Works, which includes the following
+14 organization codes:
+15 11200100 Secretary of DPW
+16 11200200 Building Safety Code
+17 11200500 Roads and Grounds Division
+18 11200600 Solid Waste Management
+19 11200700 Technical Services Division
+20 (4) First Senatorial District (Rota) which includes the following the
+21 following organization codes:
+7
+
+HOUSE BILL 24-9 V
+1 12270100 Mayor Rota
+2 12710100 Municipal Council — Rota
+3 12170800 Finance & Accounting — Rota
+4 12170500 Revenue & Taxation — Rota
+5 12170400 Procurement & Supply — Rota
+6 12170900 Customs Service — Rota
+7 12120600 Historic Preservation — Rota
+8 12120400 Sports & Recreation — Rota
+9 12180100 Labor—Rota
+10 12160300 Commerce - Rota (Economic Development Rota)
+11 12150500 Police - Rota (DPS)
+12 12140100 Fire & EMS — Rota
+13 12190700 Agriculture — Rota
+14 12190800 Fish & Wildlife — Rota
+15 12190400 Parks & Recreation — Rota
+16 12190500 Soil and Water Conservation — Rota
+17 12190900 Land Registration & Survey — Rota
+18 12200100 Public Works - Rota (Operations and Maintenance Rota)
+19 12880900 Public Library — Rota
+20 (5) Second Senatorial District (Tinian and Aguiguan) which includes the
+21 following organization codes:
+-8
+
+HOUSE BILL 24-20
+1 13270100 Mayor Tinian
+2 13710100 Municipal Council — Tinian
+3 13170800 Finance & Accounting — Tinian
+4 13170500 Revenue & Taxation — Tinian
+5 13170400 Procurement & Supply —Tinian
+6 13170900 Customs Service — Tinian
+7 13120600 Historic Preservation — Tinian
+8 13120700 Aging—Tinian
+9 13120400 Sports & Recreation — Tinian
+10 13180100 Labor—Tinian
+11 13160300 Commerce-Tinian (Economic Development Tinian)
+12 13150500 Police - Tinian (DPS)
+13 13140100 Fire and EMS — Tinian
+14 13190700 Agriculture—Tinian
+15 13190800 Fish & Wildlife — Tinian
+16 13190400 Parks & Recreation — Tinian
+17 13190500 Soil & Water Conservation -Tinian
+18 13200100 Public Works-Tinian (Operations & Maintenance Tinian)
+19 13880900 Public Library —Tinian
+20 (6) Third Senatorial District — Saipan & Northern Islands Mayors &
+21 Municipal Council which includes the following organization codes:
+9
+
+HOUSE BILL 24- TO
+1 11270100 Mayor Saipan
+2 14270100 Mayor Northern Islands
+3 11710100 Municipal Council Saipan
+4 (7) Boards and Commissions which include the following the following
+5 organization codes:
+6 11110700 Board of Civil Service Commission
+7 11111100 Office of Personnel Management — Saipan
+8 13111100 Office of Personnel Management — Tinian
+9 12111100 Office of Personnel Management — Rota
+10 11110200 Commonwealth Election Commission
+11 11110500 Board of Professional Licensing
+12 11110800 Commonwealth Public Utilities Commission (CPUC)
+13 11111200 Commonwealth Casino Commission
+14 11110900 Commonwealth Cannabis Commission
+15 11111000 CNMI Cannabis Commission Board
+16 (8) "Independent Programs" means government programs under separate
+17 boards established by law (unless receiving appropriations or budget authority
+18 under another heading), specialized general items of appropriations, and those non-
+19 profit corporations and associations or organizations established outside of the
+20 Government of the Commonwealth of the Northern Mariana Islands to which the
+- 10 -
+
+HOUSE BILL 24-R 6
+1 Commonwealth Government provides financial assistance includes the following
+2 organization codes:
+3 11881400 CNMI Scholarship and Financial Assistance Office
+4 11881500 Substance Abuse Prevention
+5 11880500 Elected Attorney General
+6 11884200 25% Retirees' Pension Benefits
+7 11881600 NMI DC Employer Contributions
+8 11881700 GHLI Retirees
+9 11883100 Northern Marianas Sports Association
+10 11881800 Gov't Health Insurance Employer Contribution (Active
+11 Employees)
+12 Unassigned Government Utilities
+13 11880900 Joeten/Kiyu Public Library
+14 11884500 General Fund Deficit Reduction
+15 11881900 NMIRF - Gov/Lt. Gov Pension
+16 11884600 Judgments Against Government
+17 11880200 NMI Museum of History and Culture
+18 11882400 Commonwealth Cancer Association
+19 11884400 Government Operational Costs
+20 Public Assistance Matching
+21 Unassigned CNMI State Soil and Water Conservation Districts, Inc.
+
+HOUSE BILL 24-90
+1 (9) Other Programs:
+2 11850100 Commonwealth Healthcare Corp. (CHCC Subsidy)
+3 11850700 Health Network Program
+4 11881000 Northern Marianas College
+5 11882100 NMC Board of Regents
+6 11881300 Marianas Visitors Authority
+7 11881100 Public School System
+8 11882000 PSS Board of Education
+9 11883300 Micronesian Legal Services Corporation
+10 11883500 Northern Marianas Technical Institute
+11 (10) Public Corporations which include the following:
+12 Commonwealth Economic Development Authority
+13 Commonwealth Ports Authority
+14 Commonwealth Utilities Corporation
+15 Northern Marianas Housing Corporation
+16 Office of the Public Auditor
+17 Commonwealth Economic Incentive Authority
+18 (d) "Earmark" means funds provided by the Legislature for specific projects
+19 or programs.
+- 12 -
+
+HOUSE BILL 24-SO
+1 (e) "General Revenue" means: Total available resources for FY 2026 less
+2 Special Revenue, earmarked funds, debt service payments, other mandatory
+3 obligations, and the Department of Public Lands.
+4 (f) "Local funds" means locally generated revenues and revenues received
+5 pursuant to Section 702 (a) of the Covenant.
+6 (g) "Number of Positions"(NOP) means the maximum number of persons
+7 that may be employed, pursuant to Article X, Section 7 of the Commonwealth
+8 Constitution but does not include Workforce Investment Agency, substitute
+9 teachers, summer trainees, teacher aides, physicians, licensed professional nurses
+10 and licensed allied health providers working part-time and paid only for
+11 instructional time, student-teacher trainees, or short terms specialized instructors,
+12 such as visiting artists, performers, writers, and the like. For purposes of this
+13 exception, "part-time" means employment not exceeding 40 hours in any biweekly
+14 pay period, and "short-term" means not more than 90 instructional days of
+15 employment within the Public School System during the fiscal year.
+16 (h) "Operations" means appropriations for all lawful activities other than
+17 personnel.
+18 (i) "Personnel" means appropriations for salaries, employer's contribution
+19 to the Northern Marianas Retirement Fund, the Defined Contribution Plan,
+20 overtime, night differential, hazardous pay, and other employee wages and benefits.
+- 13 -
+
+HOUSE BILL 24-TO
+1 (j) "Special Account" means a limited special appropriation that sets aside
+2 an amount for specific purposes. It is not a bank account but a mechanism to
+3 increase or decrease an existing special appropriation. Special accounts are
+4 established by legislation. They are managed as a subset of appropriations and are
+5 used when other types of appropriations are not suitable.
+6 (k) "Special Revenues" are revenues that bear a relationship or nexus
+7 between the revenue source and the purpose for said revenues, to include but not
+8 be limited to: licensing fees or certain tax revenues that may only be used for the
+9 purposes designated by law.
+10 CHAPTER II. ESTIMATED REVENUES
+11 Section 201. Estimated Revenues. Pursuant to House Concurrent
+12 Resolution No. 24-3 the total estimated revenues and resources approved and
+13 identified for Fiscal Year 2026 are as follows:
+14 I. The total identified budgetary resources for FY 2026: $179 701 969
+15 Department of Public Lands: $4,892,548
+16 Total Revenue Including DPL: $184 594 517
+17 II. This amount is subject to the following adjustments:
+18 (A) Less Special Revenue Earmarks (Unsuspended):
+19 1) MVA — Hotel (80%) 4 CMC §1803 ($7,085,234)
+20 2) IDC Reimbursement to Office of Grants Management
+21 35%, 1 CMC § 2893 ($937,843)
+- 14 -
+
+HOUSE BILL 24-24
+1 3) Vehicle Registration Fees, 9 CMC § 2118 L$807,684)
+2 4) Admiralty and Maritime Fees, 2 CMC § 1222 ($4,323)
+3 5) Weapon Fees, PL19-73, 6 CMC § 10902 ($23,925)
+4 6) Corporation Fees, 4 CMC § 4205 ($101,698)
+5 7) Solid Waste Fund (7%) of Ex. Tax, 4 CMC §1402(g)(1) ($179,691)
+6 Subtotal ($9,140,398)
+7 (B) Less Debt Services:
+8 (1) 2007A Refunding Bond Payment ($3,618,500)
+9 (2) 2007B Refunding Bond Payment ($3,361,750)
+10 (3) 2024A Pension Obligation Note Payment (BOG) ($5,892,000)
+11 (4) MPLT Loan Payment ($5,475,209)
+12 Subtotal ($18,347,459)
+13 III. Total Resources and Department of Public Lands
+14 Resources available for appropriation: $157,106,660
+15 (1) Department of Public Lands ($4,892,548)
+16 (2) General Revenue Resources $152 214 112
+17 Notwithstanding 1 CMC § 7204, funds for Fiscal Year 2026 shall be allotted
+18 monthly; except programs and agencies that require one-time payments shall
+19 receive advance allotments. These programs include, but shall not be limited to: the
+20 CNMI Scholarship and Financial Assistance Office, the Commonwealth
+21 Healthcare Corporation, the Commonwealth Medicaid Agency, the CNMI Public
+- 15 -
+
+HOUSE BILL 24- 0
+1 School System, the Northern Marianas College, and the Northern Marianas
+2 Technical Institute.
+3 Section 202. Suspension of Earmarked Funds.
+4 Except for debt service obligations and other earmarking of funds as
+5 permitted in Section 201 of this Chapter, the earmarking, reservation, commitment,
+6 allotment, or allocation of funds pursuant to the following public laws are hereby
+7 suspended for the Fiscal Year 2026:
+8 a) Tobacco Control — Cigarette Tax, Public Law 13-38: $2,443,534
+9 b) CIQ Overtime Revolving Fund: $1,498,413
+10 c) GHLI — 50% Cigarette 4 CMC §1402(g)(3) — PL 18-64: $4,072,557
+11 d) Cancer Fund — Cigarette Tax, 4 CMC § 1402(g)(2): $681,198
+12 e) PSS Technical Education — 4 CMC § 1503(f): $67,546
+13 f) MVA — Alcohol Container (20%), 4 CMC § 1803: $103,457
+14 g) Foreign Worker Fee Fund, PL 17-01; 2 CMC §4968: $0
+15 h) NMIRF — Hotel Tax (20%), 4 CMC § 1803: $1,771,309
+16 i) NMIRF — Alcohol Container (30%), 4 CMC § 1803: $155,186
+17 j) NMIRF DB Plan Fund — 15% E-gaming, Public Law 18-30,
+18 4 CMC § 1511 (a): $288,847
+19 k) NMIRF — 60% E-gaming, Public Law 18-30,
+20 4 CMC § 1511 (b): $1,155,387
+21 1) Developers Infrastructure Tax (100%): $232,590
+- 16 -
+
+HOUSE BILL 2450
+1 Provided further, notwithstanding any Commonwealth laws to the contrary,
+2 in the event that actual collections exceed the projected amounts as identified by
+3 the Department of Finance on April 1, 2025, any excess amount shall not be subject
+4 to suspension and shall be automatically transferred to the beneficiary entity
+5 without further legislative action.
+6 Section 203. Reporting Requirements for the Secretary of Finance.
+7 (a) Comparison of Actual Revenues Collected and Revenues Estimated.
+8 Notwithstanding any law to the contrary, the Secretary of Finance shall submit to
+9 the Presiding Officers of the Legislature, Chairperson of the Senate Committee on
+10 Fiscal Affairs and the Chairperson of the House Committee on Ways and Means,
+11 at the end of each month a fund status report 1) comparing the actual revenues
+12 collected and the revenues estimated of all funds appropriated for the operations
+13 and activities of the Commonwealth Government in this Act and 2) all the funds
+14 that have been reprogrammed. The Secretary of Finance shall meet monthly with
+15 the Chairperson of the Senate Committee on Fiscal Affairs and the Chairperson of
+16 the House Committee on Ways and Means discuss actual revenues collected versus
+17 the revenues estimated.
+18 (b) Comparison of Actual Expenditures and Appropriated Expenditures.
+19 Notwithstanding any law to the contrary, the Secretary of Finance shall submit to
+20 the Presiding Officers of the Legislature, Chairperson of the Senate Committee on
+21 Fiscal Affairs and the Chairperson of the House Committee on Ways and Means,
+- 17-
+
+HOUSE BILL 24-50
+1 at the end of each month a fund status report comparing the actual expenditures and
+2 appropriated expenditures of all funds appropriated for the operations and activities
+3 of the Commonwealth Government in this Act.
+4 (c) Transfer In and Out Funds. Notwithstanding any law to the contrary, the
+5 Secretary of Finance shall submit to the Presiding Officers of the Legislature, at the
+6 end of each month, a fund status report on the funds transferred in and out each
+7 month pursuant to Section 201 of this Act.
+8 (d) All Other Source. The Secretary of Finance shall, consistent with 1 CMC
+9 7604, report revenues in excess of $200,000.00 received from other sources that are
+10 not identified in this Act.
+11 (e) Violation. The salary of the Secretary of Finance or designee shall be
+12 suspended for at least 30 days and the salary shall not be restored until the Secretary
+13 of Finance provides all the reports under this section to the Presiding Officers of
+14 the Legislature, Chairperson of the Senate Committee on Fiscal Affairs, and the
+15 Chairperson of the House Committee on Ways and Means. Provided that the
+16 Secretary of Finance shall not be entitled to indemnification, defense, or
+17 reimbursement under the Government Liability Act or any other Commonwealth
+18 Law.
+- 18 -
+
+HOUSE BILL 24-2°
+1 CHAPTER III.
+2 GOVERNMENT CORPORATIONS AND DESIGNATED
+3 AGENCIES/ACTIVITIES
+4 Section 301. Appropriation and Budget Authority.
+5 Pursuant to 1 CMC § 7206 and as provided herein, budget and expenditure
+6 authority for the following activities is hereby approved. Expenditures in excess of
+7 the budget authority approved herein for agencies to which General Funds are
+8 appropriated shall not be incurred or committed and hiring in excess of the number
+9 of positions authorized by this Act is prohibited, unless authorized by a legislative
+10 joint resolution in accordance with Section 7, Article X of the N.M.I. Constitution.
+11 ACTIVITIES NOP PERSONNEL OPERATIONS TOTAL
+12 (a) Commonwealth Economic Development Authority 13 $1,157,389 $305,920 $1,463,309
+13 (b) Commonwealth Healthcare Corporation 1,041 $86,225,460 $54,928,966 $141,154,426
+14 (c) Commonwealth Ports Authority 237 $6,709,276 $11,636,965 $18,346,241
+15 (d) Commonwealth Utilities Corporation 572 $22,287,194 $80,207,856 $102,495,050
+16 (e) Marianas Public Land Trust 6 $460,317 $1,301,971 $1,762,288
+17 f) Marianas Visitors Authority 31 $1,620,967 $5,464,267 $7,085,234
+18 (g) Northern Marianas College 166 $10,762,153 $4,450,000 $15,212,153
+19 (h) Northern Marianas Housing Corporation 67 $5,338,598 $2,601,002 $7,939,600
+20 (i) Northern Marianas Technical Institute 35 $722,572 $198,372 $920,944
+21 (j) Office of the Public Auditor 17 $1,328,415 $400,493 $1,728,908
+22 (k) Public Utilities Commission 1 $47,097 $471 $47,568
+23 Grand Total: 2,186 $136,659,438 $161,496,283 $298,155,721
+- 19 -
+
+HOUSE BILL
+1 Notwithstanding the above dollar amounts, the entities above shall expend
+2 only the lesser of funds actually generated, collected, or received, or the amounts
+3 indicated above.
+4 Section 302. Prior Certification of Funds.
+5 No contract shall be entered into with the Commonwealth or any
+6 government entity therein without first receiving from the Secretary of the
+7 Department of Finance certification that lawful and sufficient funds have been
+8 appropriated. Notwithstanding any Commonwealth laws, regulations, or provisions
+9 to the contrary, this section shall not apply to the Judicial Branch, Legislative
+10 Branch, the Public School System, and the Northern Marianas College.
+11 Section 303. Reporting Requirement.
+12 In Fiscal Year 2026, the expenditure authorities of the foregoing activities
+13 listed in Section 301, shall submit to the Presiding Officers of the Legislature,
+14 Chairperson of the Senate Committee on Fiscal Affairs and the Chairperson of the
+15 House Committee on Ways and Means, a fund status report on the expenditures for
+16 personnel and operations of each government entity, and the payments of the public
+17 auditor's fee, every month and, if applicable, year-to-date totals as of the close of
+18 the reporting period.
+19 Furthermore, notwithstanding any provisions or laws to the contrary, all
+20 additional resources realized within the fiscal year outside of those specified and
+- 20 -
+
+HOUSE BILL 24- V
+1 identified under this Act shall be reported in detail to the Legislature for
+2 appropriation purposes.
+3 CHAPTER IV. ADMINISTRATION OF APPROPRIATED FUNDS
+4 Section 401. Management of Funds.
+5 The expenditure of the funds appropriated and allocated under this Act shall
+6 be regulated and controlled by the Secretary of Finance so that no agency,
+7 department, instrumentality, program, or activity may expend the funds contrary to
+8 the law or fiscal management policies and practices of the Commonwealth.
+9 Section 402. Number of Position(s) (NOP) Ceiling.
+10 Employment Ceilings. Pursuant to Article X, § 7 of the Commonwealth
+11 Constitution, the employment ceilings relative to the number of positions are
+12 hereby established as set forth in this Act.
+13 Section 403. Donation of Sick Leave.
+14 Notwithstanding any laws to the contrary, when an employee donates sick
+15 leave, each hour of donated sick leave shall be counted as 1.0 hour regardless of
+16 the hourly rate that was earned by the donor or recipient. Provided that the donated
+17 sick leave hours shall not exceed 1040 hours.
+18 Section 404. Expenditure Authority.
+19 The distribution and expenditure of funds shall be in compliance with the
+20 fiscal expenditure authority that the listed agencies have pursuant to the statute and
+21 the administrative provisions of this Act.
+-21-
+
+HOUSE BILL 2421)
+1 CHAPTER V. REPROGRAMMING AUTHORITY
+2 Section 501. Reprogramming Authority
+3 (a) The Governor shall have up to 25% reprogramming authority for the
+4 departments, agencies, and offices of the executive branch, provided that the
+5 municipal entities shall not be subject to this reprogramming authority without the
+6 consent of the mayor. Provided further that the reprogramming authority shall not
+7 apply to Section 604 of this Act. Reprogramming shall not be used for the hiring
+8 of new personnel or for the salary adjustment of active personnel. This authority to
+9 reprogram shall not apply to the funds appropriated to the Legislative or Judicial
+10 Branches as well as to those funds appropriated by the respective legislative
+11 delegations. Provided further, that if the Governor requests additional
+12 reprogramming authority, said authority shall only be approved via joint resolution.
+13 (b) Pursuant to 1 CMC § 7402(e), all reprogramming shall be reported in
+14 writing to the Presiding Officers of the Legislature, the Chairperson of the House
+15 Committee on Ways and Means, or the Chairperson of the Senate Committee on
+16 Fiscal Affairs within 30 days after the end of each quarter of the fiscal year. Such
+17 report shall include a description of each item reprogrammed, the reason for each
+18 reprogramming, the change in the approved budget caused by the reprogramming,
+19 the cumulative amount of all reprogramming during the fiscal year, and such other
+20 information as may be requested by the Chairpersons. The Governor shall submit
+- 22 -
+
+HOUSE BILL 24-215
+1 to the Presiding Officers and Chairpersons an annual summary of all
+2 reprogramming activity within 60 days after the end of a fiscal year.
+3 (c) Notwithstanding 1 CMC 7401(0, the mayors of all three Senatorial
+4 Districts shall have 25% reprogramming authority.
+5 CHAPTER VI. SUPPLEMENTAL ADMINISTRATIVE PROVISIONS
+6 Section 601. Utilities.
+7 (a) The CUC monthly utility billings for all departments and agencies shall
+8 be paid by the central government after all the funds in the general revolving
+9 accounts are exhausted.
+10 (b) For prepaid meter accounts, the authorized designee of the respective
+11 government agencies or offices shall follow the protocol of the Department of
+12 Finance for timely payment.
+13 (c) No funds appropriated for utilities shall be reprogrammed.
+14 Section 602. Hiring Restriction.
+15 (a) Except as provided in subsection (b) of this section, no new or vacant
+16 position shall be filled in the executive branch, except for positions that are essential
+17 for the delivery of public services such as the Department of Public Safety and the
+18 Department of Fire and Emergency Services personnel for each respective
+19 Senatorial District and other essential positions as determined by the Governor and
+20 approved by the Legislature via joint resolution.
+- 23 -
+
+HOUSE BILL 24-2 0
+1 (b) Notwithstanding any law or regulation to the contrary, if a Notice of
+2 Personnel Action has been executed by the hiring agency or a candidate to fill the
+3 vacancy has been selected or action has been initiated to fill the position by any
+4 department or agency and filed at the Office of Personnel Management on Rota,
+5 Tinian, or Saipan, the vacant position shall be considered as processed and to be
+6 filled. The renewal of the contract for an existing employee shall not be considered
+7 as creating a vacant position.
+8 Section 603. Salary Cap.
+9 (a) For Fiscal Year 2026, the compensation of appointed officials shall be
+10 compensated as set forth in the attached Schedule A and pursuant to 1
+11 CMC § 8245 and 1 CMC § 28003. Subject to a Joint Resolution, all
+12 salaries for appointed officials shall remain the same as the listed salary
+13 in the Governor's FY 2026 budget submission on April 1, 2025.
+14 (b) Subject to a Joint Resolution, all salaries for excepted service employees
+15 shall remain the same as the listed salary in the Governor's FY 2026
+16 budget submission on April 1, 2025.
+17 (c) For Fiscal Year 2026, notwithstanding 1 CMC § 8245(c), the annual
+18 salary of the Resident Department Heads of the First and Second
+19 Senatorial Districts shall be $40,000.
+20 (d) For Fiscal Year 2026, notwithstanding any provision of law to the
+21 contrary, all Resident Department Heads of the First and Second Senatorial
+- 24 -
+
+HOUSE BILL 24-26
+1 Districts and CNMI Department Heads shall be subject to austerity measures as
+2 provided for by law.
+3 (e) For Fiscal Year 2026, notwithstanding any provision of law to the
+4 contrary, federal and/or non-General Revenue funds may be utilized to fund salaries
+5 in excess of the caps set forth in 1 CMC § 8245 (a), (0, (h) and (j) and 1 CMC §
+6 8246.
+7 Section 604. Salary Increases after Revised Budget Submittal
+8 (a) All salaries of employees who received salary increases after the
+9 enactment of Public Law 24-14 shall revert back to the original salary
+10 as approved by Public Law 24-14. This provision shall apply only to
+11 salaries funded by the General Fund.
+12 (b) All realized prospective funds that were intended to be used for the
+13 salary increases under subsection (a) shall be utilized for the 25%
+14 Retirees' Pension Benefit (Org. Code 118842000).
+15 Section 605. Federal Employees to be working 80 hours.
+16 Notwithstanding any laws or regulations to the contrary, all employees who
+17 are 100% federally-funded shall be reverted back to 80 hours bi-weekly. Provided
+18 further, for positions that entirely or partially funded by federal funds, these
+19 positions shall remain at 80 hours and shall revert to their 80 hour levels if their
+20 federal funding is sufficient to cover the funding difference, if any.
+- 25 -
+
+HOUSE BILL 24-10
+1 Section 606. Revolving Accounts.
+2 Subject to constitutional limits, notwithstanding any CNMI and/or local
+3 laws, regulations, and rules to the contrary and except for the suspended accounts
+4 as provided in Section 203 and special revenue accounts, all general revolving
+5 account expenditure limitations and restrictions relating to the scope of application
+6 or other subject matter requirements are hereby suspended in FY 2026.
+7 Provided further, all earmarked funds under Section 202(b) [CIQ Overtime
+8 Revolving Fund] shall be utilized for its intended purpose.
+9 Accordingly, all legally established general and/or special revolving
+10 accounts and the funds therein may be expended by their respective expenditure
+11 authorities for personnel and operational expenses; including fuel,
+12 communications, operational office supplies, utilities, and travel for training
+13 purposes. Provided further that Section 501 of this Act shall not apply to this
+14 section.
+15 Section 607. Legal Holidays.
+16 (a) Any employee required to work on a non-federal Commonwealth
+17 legal holiday shall be paid at the basic salary rate for the hours worked on that day
+18 without any additional adjustment for holiday leave with pay. This provision does
+19 not apply to employees who are 100% or partially funded with federal funds.
+- 26 -
+
+HOUSE BILL 24-26
+1 Section 608. Cell #1 and Cell #2 of the Marpi Landfill Closure Financial
+2 Assurance Mechanism.
+3 In the event of any funding shortfalls caused by this Appropriations Act, the
+4 CNMI Government shall commit its full faith and credit when necessary to
+5 effectuate the closure of Cell #1 and Cell #2 of the Marpi Landfill.
+6 Section 609. Vacant Positions. Except as provided under Section 602(b),
+7 notwithstanding any law to the contrary, any position that becomes vacant shall be
+8 closed out. Unused funds for such position shall go to operation expenses within
+9 that department or agency within 30 days upon vacancy unless a request is made to
+10 the Legislature for reinstatement of the vacant position, which shall be approved by
+11 a joint resolution.
+12 Section 610. DPS Rota and DPS Tinian Detainees. The Department of
+13 Public Safety shall be responsible for all costs and expenses associated with the
+14 transportation of all detainees between the senatorial districts for all courts
+15 appearances and other legally mandated activities.
+16 Section 611. OGM Funds in Excess of Office of Grants Management
+17 Budget. Notwithstanding anything to the contrary, if the OGM receives funding in
+18 excess of $937,843 that is allotted to OGM as provided under 1 CMC § 2893(a),
+19 the excess shall be reserved for CNMI's government's obligation to the retirees'
+20 25% pension payment. The OGM Administrator shall provide a budget and
+21 spending plan with respect to all federal grants administered by OGM, to include
+- 27 -
+
+HOUSE BILL 24- SO
+1 but not be limited to indirect costs, to the presiding officers of the legislature on or
+2 before January 1, 2026.
+3 Section 612. Hazardous Pay. The Solid Waste Management shall pay the
+4 amount of $179,691 of hazardous pay owed to the Saipan, Tinian, and Rota
+5 employees from the Solid Waste Management Revolving Fund collected under
+6 Title 2 section 3551. This obligation shall be prioritized and fully satisfied before
+7 any other funds are expended for other programs. With respect to the payment of
+8 hazardous pay, there shall be a written report submitted by the Secretary of Finance
+9 and the Department of Public Works to the Presiding Officers by the end of first
+10 quarter of Fiscal Year 2026.
+11 Section 613. DCCA NAP Sun Bucks Program. Of the amount
+12 appropriated via Schedule A, attached and incorporated by reference hereto, to the
+13 Nutritional Assistance Program, the amount of $160,000 shall be allotted for the
+14 50% matching of the NAP Sun Bucks Program. Notwithstanding any provision of
+15 this Act to the contrary, the Sun Bucks Program shall not be subject to austerity
+16 measures.
+17 Section 614. MVA Trust Funds.
+18 (a) Notwithstanding 4 CMC §2159, the Secretary of Finance shall transfer
+19 the monthly share of the Hotel Occupancy Tax to the respective mayors.
+20 Additionally, the Secretary shall account the transfers and ensure that the respective
+21 mayors receive not less than $175,000 before the end of the fiscal year.
+- 28 -
+
+HOUSE BILL 24- 2 16
+1 (b) The funds shall be remitted on a quarterly basis in the amount of
+2 $43,750.
+3 (c) Each mayor must submit a quarterly report within 30 days after the end
+4 of each quarter.
+5 Section 615. Commonwealth Casino Members. Notwithstanding 4 CMC
+6 §§ 2308 and 2309 or any CNMI law to the contrary, the Secretary of Finance shall
+7 reserve $210,000 from the $2.7 million received from the IPI Settlement
+8 Agreement, as these special revenue funds have a clear nexus to said payment, to
+9 pay the salaries owed to the former Commonwealth Casino members. Payments
+10 shall be distributed as allocated in Schedule B.
+11 Section 616. Payment of 25% to Retirees. Notwithstanding 4 CMC §§
+12 2308 and 2309, the balance of $2,490,000 shall be reserved by the Secretary of
+13 Finance for payments towards the 25% CNMI share of the Settlement Fund
+14 payments for FY 2026.
+15 Section 617. Outside-Sourced Revenue Received by the CNMI. Any
+16 funds received by the CNMI government from the federal government or other
+17 outside sources shall be identified by the Governor and reported to the Legislature
+18 for appropriation. Notwithstanding any laws to the contrary, any general revenue
+19 funds that are supplemented, replaced, or otherwise off-set by non-general fund
+20 sources, including but not limited to:
+21 1. inter-fund transfers,
+- 29 -
+
+HOUSE BILL 24-20
+1 2. inter-fund accounts-receivable collections,
+2 3. outside-sourced revenue;
+3 4. federal funding, inclusive of funds from the Office of Insular Affairs,
+4 and
+5 5. or funding not listed in Volumes II and III of the Governor's Annual
+6 Budget Submission for FY 2026
+7 shall revert to the Legislature for the payment of land compensation and to the
+8 Marianas Visitors Authority for the upgrade of all tourist sites in the CNMI.
+9 CHAPTER VII. APPROPRIATIONS.
+10 Section 701. In General.
+11 Funds designated in Chapter II as available for appropriation for Fiscal Year
+12 2026 are hereby appropriated pursuant to this Chapter.
+13 Section 702. Appropriation.
+14 The amount of $152,214,112 is hereby appropriated as set forth in the
+15 attached Schedule A as the General Revenues of the Commonwealth available for
+16 appropriation in FY 2026.
+17 Section 703. Judicial Branch.
+18 (a) The Number of Personnel and appropriations for personnel, operations,
+19 and utilities for the Judicial Branch shall be as shown in Schedule A.
+20 (b) Notwithstanding any laws to the contrary, the Chief Justice of the CNMI
+21 Supreme Court and Presiding Judge of the CNMI Superior Court may adjust the
+- 30 -
+
+HOUSE BILL 24- le
+1 Judicial Branch work schedule and operating hours that are consistent with
+2 available funds for personnel and operations.
+3 (c) Notwithstanding any provision of law to the contrary, in the event of
+4 austerity measures, the Chief Justice and the Presiding Judge may use any available
+5 non-General Revenue source funds, including revolving accounts, to restore the
+6 reduced work hours of the Judicial Branch personnel and operations.
+7 Notwithstanding any other law to the contrary, the expenditure authority for the
+8 Judicial Branch shall have reprogramming authority to move funding from
+9 Personnel to Operations and from Operations to Personnel.
+10 (d) Notwithstanding any Commonwealth law to the contrary, there shall be
+11 no retroactive reduction of allotments and or proportionate cuts to the Judicial
+12 Branch absent a new annual budget submission and corresponding enactment of an
+13 amended annual budget.
+14 Section 704. Legislative Branch.
+15 The Number of Personnel and allocations for personnel, operations, and
+16 utilities for the Legislative Branch shall be as shown in Schedule A.
+17 (a) Art. II Sec. 16(e) of the Commonwealth Constitution provides:
+18 e) Beginning the second Monday of January 1998, the amount of the
+19 ceiling and all other dollar amounts stated in this section shall be adjusted
+20 every two years by the same percentage as the percentage change in the
+21 United States Department of Commerce composite price index during the
+-31 -
+
+HOUSE BILL 24-
+1 two preceding fiscal years using the beginning of the fiscal year 1996 as
+2 the base.
+3 The allocation ceilings have automatically increased every two years,
+4 beginning in January 1998. Using the price composite indexes developed by the
+5 Department of Commerce, Bureau of Economic Analysis for State and Local
+6 Government Consumption Expenditures and Gross Investment, the allocation
+7 ceilings for the Legislature for fiscal years 2022, 2023, and 2024 are as follows:
+8 Price Index for All Government Consumption Expenditures and Gross Investment
+9 Legislative Branch Base Ceiling Change in Price Ceiling Jan. 1, 2020
+10 Oct. 1, 1995 Index Jan 1,2020 Based on Change
+11 Members Allocation $155,000 60.335% $248,519.25
+12 Presiding Officers Allocation $400,000 60.335% $641,340.00
+13 Legislative Bureau $2,000,000 60.335% $3,206,700.00
+14 (b) Notwithstanding any laws to the contrary, the Legislative Bureau
+15 Director may adjust the Legislative Branch work schedule and operating hours that
+16 are consistent with available funds for personnel and operations.
+17 (c) The Legislative Bureau Director may use any available non-General
+18 Revenue funds to restore the reduced work hours of the LB personnel.
+19 (d) Salaries of Legislative Members.
+20 (1) The amount appropriated under this section to the House of
+21 Representatives under "personnel" shall be used to fund the salaries and benefits of
+22 the members of the House of Representatives. The expenditure authority for the
+23 amounts appropriated shall be the Speaker of the House.
+- 32 -
+
+HOUSE BILL 24-91)
+1 (2) The amount appropriated under this section to the Senate under
+2 "personnel" shall be used to fund the salaries and benefits of the members of the
+3 Senate. The expenditure authority for the amounts appropriated shall be the
+4 President of the Senate.
+5 (e) Members' Office Accounts and Employees.
+6 (1) Notwithstanding 1 CMC § 7401(c) to the contrary, each member shall
+7 be the expenditure authority of the funds appropriated to their individual sub-
+8 account;
+9 (2) Funds appropriated for the operation of the member's office, including,
+10 but not limited to, the personnel costs of the member's employees and expenditures
+11 as authorized by the adopted rules of the Senate in the case of the Senate member,
+12 or the adopted rules of the House of Representatives in the case of a House member,
+13 or the Legislative Bureau, may be expended to defray travel and incidental expenses
+14 for the purpose of attending to legislative business; provided that a member may
+15 receive a one-month advancement of funds appropriated to his or her office for
+16 expenditures;
+17 (3) Allocation of the maximum number of positions among House members
+18 shall be governed by the rules of the House; and
+19 (4) Allocation of the maximum number of positions among Senate members
+20 shall be governed by the rules of the Senate.
+- 33 -
+
+HOUSE BILL 24-D
+1 (f) Senate and House Leadership Accounts. The leadership account of each
+2 house shall be $200,000. The Presiding Officer of each respective house, or his
+3 lawfully authorized designee, shall be the expenditure authority and shall use such
+4 funds to support the operations and activities of the House of Representatives and
+5 Senate in accordance with its rules, provided that the Presiding Officer distributes
+6 a portion of the total allocation in equal amounts to all the standing committees for
+7 their operations and activities.
+8 (g) Legislative Bureau, ORG 11620700. The Number of Personnel and
+9 allocations for personnel, operations, and utilities for the Legislative Bureau shall
+10 be as shown in Schedule A. The expenditure authority of the funds appropriated for
+11 the Legislative Bureau shall be the Director of the Legislative Bureau or authorized
+12 designee. Notwithstanding any other law to the contrary, including any provision
+13 of this Act, the expenditure authority for the Legislative Bureau shall have
+14 unrestricted reprogramming authority to move funding from Personnel to
+15 Operations, which includes Utilities, and from said Operations to Personnel.
+16 (h) Salary adjustments. All salary adjustments for the staff of the Legislative
+17 Bureau and the Youth Congress shall take effect only with an annual performance
+18 evaluation and consultation with the Speaker of the House and the President of the
+19 Senate. All adjustments shall be subject to funding.
+20 (i) Northern Marianas Youth Congress, ORG 11620800. The Number of
+21 Personnel and allocations for personnel and operations for Youth Congress shall be
+-34-
+
+HOUSE BILL 24- 0
+1 as shown in Schedule A. The expenditure authority is vested in the Director of the
+2 Legislative Bureau with the consent of the Speaker of the Northern Mariana Islands
+3 Youth Congress.
+4 (j) Notwithstanding any Commonwealth law to the contrary, there shall be
+5 no retroactive reduction of allotments and or proportionate cuts to the Legislative
+6 Branch absent a new annual budget submission and corresponding enactment of an
+7 amended annual budget.
+8 (k) Legislative Branch Funding. Notwithstanding any CNMI law,
+9 regulation, or rule to the contrary, the following provisions governing the
+10 Legislative Branch and the Legislative Bureau are hereby enacted:
+11 Section 101. The Legislative Bureau is established by the N.M.I.
+12 Constitution, Art. II, Sec. 17 to provide all required services to the members
+13 of the legislature in connection with their duties and responsibilities and to
+14 maintain all records, files, library and other documents of the legislature.
+15 Section 102. Legislature Operations Fund.
+16 (a) There is hereby established a fund to be known as the
+17 "Legislature Operations Fund" (Fund) which shall be maintained separate
+18 and apart from other funds of the Commonwealth government. Independent
+19 records and accounts shall be maintained for the Fund by the Legislative
+20 Bureau.
+- 35 -
+
+HOUSE BILL 24-i0
+1 (b) Each annual appropriation act shall appropriate to the Legislative
+2 Branch not less than 9% of the funds identified by the Governor as available
+3 for appropriation, or the amount that was appropriated to the Legislature in
+4 the previous annual appropriation, whichever is greater, but in any event
+5 this appropriation shall not exceed the limit set forth in Article II, section
+6 16, of the CNMI Constitution.
+7 (c) The expenditure authority over the funds in the Legislature
+8 Account shall be the Director of the Legislative Bureau. Consistent with
+9 Public Law 15-71 section 2, "Reprogramming Authority," notwithstanding
+10 any provision of law to the contrary, including, but not limited to, 1 CMC
+11 §§7205, 7402, 7403 and 7831, the expenditure authorities listed herein shall
+12 have authority to reprogram all or a portion of the funds under his or her
+13 expenditure authority.
+14 (d) The funds in the Legislative Account shall be expended in
+15 accordance with the regulations of the Department of Finance for the
+16 Control of Public Funds except where these regulations require certification
+17 of funds or expenditure authority to be directly controlled or regulated by
+18 the Department of Finance in a manner expressly inconsistent with this Act.
+19 (e) The Legislative Bureau shall establish such bank accounts as are
+20 necessary for the Legislature Operations Fund in banks qualified to hold
+21 government deposits.
+- 36 -
+
+HOUSE BILL 24- V )
+1 (f) All moneys received by the Legislature from whatever source
+2 shall be deposited in the Fund's bank accounts.
+3 (g) All appropriations by the Commonwealth shall be allotted and
+4 transferred to the Fund's bank account at the beginning of each quarter.
+5 (h) All debts, liabilities, obligations and operational expenses of the
+6 Legislature and its members, the Legislative Bureau and the
+7 Commonwealth of the Northern Mariana Islands Youth Congress shall be
+8 paid from the Fund.
+9 Section 103. Legislature Fund Sub Accounts.
+10 The following Sub Accounts are established within the Legislature
+11 Fund:
+12 (a) House of Representatives Members Personnel Account to fund
+13 the salaries and benefits of the members of the House of Representatives.
+14 (b) Senate Members Personnel Account to fund the salaries and
+15 benefits of the members of the Senate.
+16 (c) House Members' Office Accounts. Funds allocated for the
+17 operation of the member's office, including, but not limited to, the
+18 personnel costs of the member's employees and expenditures as authorized
+19 by the adopted rules of the House of Representatives. Each Member may
+20 initiate a request for payment of the funds allocated to their account.
+-37-
+
+HOUSE BILL 24-V0
+1 (d) Senate Members' Office Accounts. Funds allocated for the
+2 operation of the member's office, including, but not limited to, the
+3 personnel costs of the member's employees and expenditures as authorized
+4 by the adopted rules of the Senate. Each Member may initiate a request for
+5 payment of the funds allocated to their account.
+6 (e) House Leadership Account. The Speaker of the House, is
+7 authorized to request such funds in support of the conduct of official and
+8 representational duties to the district from which elected. The Speaker of
+9 the House shall distribute a portion of the total appropriation in equal
+10 amounts to each of the standing committees in support of the conduct of
+11 official and representational duties to the standing committee from which
+12 they preside as chairman.
+13 (f) Senate Leadership Accounts. The President of the Senate, is
+14 authorized to request such funds in support of the conduct of official and
+15 representational duties to the district from which elected. The Senate
+16 President shall distribute a portion of the total appropriation in equal
+17 amounts to each of the standing committees in support of the conduct of
+18 official and representational duties to the standing committee from which
+19 they preside as chairman.
+20 (g) Legislative Bureau. A request for payment may be initiated by
+21 the Director of the Legislative Bureau.
+- 38 -
+
+HOUSE BILL 24-
+1 (h) Northern Marianas Youth Congress. A request for payment may
+2 be initiated by the Director of the Legislative Bureau.
+3 Section 104. Expenditure Ceilings.
+4 (a) The N.M.I. Constitution, Art. II Sec. 16(e) of the Commonwealth
+5 Constitution provides: "Beginning the second Monday of January 1998, the
+6 amount of the ceiling and all other dollar amounts stated in this section shall
+7 be adjusted every two years by the same percentage as the percentage
+8 change in the United States Department of Commerce composite price
+9 index during the two preceding fiscal years using the beginning of fiscal
+10 year 1996 as the base."
+11 (b) Consistent with N.M.I. Constitution, Art. II Sec. 16(e), the
+12 annual fiscal year expenditure levels for the sub accounts listed in §1703
+13 shall be determined every two years by the Director of the Legislative
+14 Bureau and adopted by joint resolution by both houses of the Legislature.
+15 Section 105. Reporting to the Department of Finance.
+16 Consistent with Article X, section 8, the Legislative Branch must
+17 provide comprehensive financial reports that meet general accounting
+18 principles to the Secretary of Finance on a quarterly basis prior to expending
+19 funds for the next quarter.
+20 (1) Notwithstanding any provision of law to the contrary, in the event of
+21 austerity measures, the Legislative Bureau Director may use any available non-
+- 39 -
+
+HOUSE BILL 24- 515
+1 General Revenue source funds, including revolving accounts, to restore the reduced
+2 work hours of the Legislative Bureau personnel. Notwithstanding any other law to
+3 the contrary, the expenditure authority for the Legislative Bureau shall have
+4 reprogramming authority to move funding from Personnel to Operations and from
+5 Operations to Personnel.
+6 (m) Notwithstanding any Commonwealth law to the contrary, there shall be
+7 no reduction of allotments and or proportionate cuts to the Legislative Branch
+8 absent a new annual budget submission.
+9 Section 705. Executive Branch.
+10 The allocation for the Executive Branch shall be as shown in Schedule A.
+11 (a) The Governor shall have authority to expend, obligate, encumber, or
+12 otherwise commit, all the funds appropriated to the Office of the Governor and all
+13 Other Offices of the Governor.
+14 (b) The Lt. Governor shall be the expenditure authority of the funds
+15 appropriated to the Office of the Lt. Governor.
+16 (c) Of the collections received by the CNMI Passport Office, no less than
+17 $50,000 of the General Revenue funds shall be reserved for the CNMI Passport
+18 Office's personnel and operations. This does not affect the Schedule "A"
+19 appropriation of $96,485.
+20 (d) Notwithstanding any provision of law to the contrary, for Fiscal Year
+21 2026, indirect costs shall remain with Department of Community and Cultural
+- 40 -
+
+HOUSE BILL 24-cd
+1 Affairs for purposes of funding operations and utilities and shall not be transferred
+2 to the Office of Grants Management.
+3 (e) Of the collections received by the Registrar of Corporations Revolving
+4 Account, under the Department of Commerce, funds shall be reserved for NOPs for
+5 personnel in the amount of $149,236 and the amount of $30,000 for operations.
+6 Under the Department of Commerce, there shall be 7 NOPs to include three
+7 ABTC Officers I, one Director for the Foreign Corporation Office, one
+8 Administrative Specialist, one Admin Clerk, and one Economist.
+9 (f) Department of Labor. Of the amount appropriated to the CNMI
+10 Department of Labor, the sum of $10,000 shall be remitted to the Rota Department
+11 of Labor (DOL) under the expenditure authority of the Rota DOL Resident
+12 Director, in consultation of the Mayor of Rota, to fund apprenticeship and training
+13 programs of U.S. citizens to augment Rota's workforce; and $10,000 shall be
+14 remitted to the Tinian Department of Labor (DOL) under the expenditure authority
+15 of the Tinian DOL Resident Director, in consultation of the Mayor of Tinian, fund
+16 apprenticeship and training programs of U.S. citizens to augment Tinian's
+17 workforce.
+18 (g) All earmarked funds under Section 202(b) [CIQ Overtime Revolving
+19 Fund] shall be utilized for its intended purpose.
+-41-
+
+HOUSE BILL 24-9
+1 Section 706. First Senatorial District — Mayor of Rota and Rota
+2 Municipal Council.
+3 The Number of Personnel and allocations for personnel, operations, and
+4 utilities for the First Senatorial District shall be as shown in Schedule A.
+5 (a) Except as provided in this section, the Mayor of Rota shall have
+6 authority to expend, obligate, encumber, and otherwise commit, all the funds
+7 appropriated to the First Senatorial District. Additionally, except as provided in this
+8 section, in accord with the Superior Court's decision in the case of Inos v. Tenorio,
+9 the Mayors shall also have expenditure authority over resident government
+10 departments in the First and Second Senatorial districts respectively unless the
+11 Governor revokes expenditure authority in a manner consistent with the Superior
+12 Court's holding in Inos v. Tenorio, to wit: expenditure authority over resident
+13 departments that are primarily concerned with the delivery of public services can
+14 be revoked only on a prior showing of just cause, but the Governor has the
+15 discretion to revoke expenditure authority over those departments that are primarily
+16 concerned with enforcing the law.
+17 (b) Rota Municipal Council. Appropriations to the Municipal Council
+18 shall be divided and distributed equally to each member of the Municipal Council
+19 in separate accounts. Each Municipal Council member shall be the expenditure
+20 authority of funds distributed to him/her.
+- 42 -
+
+HOUSE BILL 24-Se
+1 Section 707. Second Senatorial District — Mayor of Tinian & Aguiguan
+2 and Tinian Municipal Council.
+3 The Number of Personnel and allocations for personnel, operations, and
+4 utilities for the Second Senatorial District shall be as shown in Schedule A.
+5 (a) Except as provided in this section, the Mayor of Tinian and
+6 Aguiguan shall have authority to expend, obligate, encumber, or otherwise commit
+7 or reprogram, all the funds appropriated to the Second Senatorial District.
+8 Additionally, in accord with the Superior Court's decision in the case of Inos v.
+9 Tenorio, the Mayors shall also have expenditure authority over resident
+10 government departments in the First and Second senatorial districts respectively
+11 unless the Governor revokes expenditure authority in a manner consistent with the
+12 Superior Court's holding in Inos v. Tenorio, to wit: expenditure authority over
+13 resident departments that are primarily concerned with the delivery of public
+14 services can be revoked only on a prior showing of just cause, but the Governor
+15 has the discretion to revoke expenditure authority over those departments that are
+16 primarily concerned with enforcing the law.
+17 (b) Tinian Municipal Council. Appropriations to the Municipal Council
+18 shall be divided and distributed equally to each member of the Municipal Council
+19 in separate accounts. Each Municipal Council member shall be the expenditure
+20 authority of funds distributed to him/her. Of the $27,729 appropriated to the
+21 Municipal Council under Operations, the amount of $10,000 shall be reserved for
+- 43 -
+
+so
+HOUSE BILL 24-
+1 utilities and operations and the remainder shall be divided equally among the
+2 council members.
+3 Section 708. Third Senatorial District — Mayor of Saipan; Mayor of the
+4 Northern Islands; and Saipan and Northern Islands Municipal Council.
+5 The Number of Personnel and allocations for personnel, operations, and
+6 utilities for the Office of the Mayor of Saipan, Office of the Mayor of the Northern
+7 Islands, and the Saipan and Northern Islands Municipal Council shall be as shown
+8 in Schedule A.
+9 (a) The Mayor of Saipan, the Mayor of the Northern Islands, and the
+10 Chairperson of the Municipal Council for Saipan and the Northern Islands or each
+11 of their respective designees shall be the expenditure authority for allocations for
+12 their respective offices.
+13 (b) Notwithstanding any law to the contrary, the Mayor of the Northern
+14 Islands, may promulgate rules and regulations to generate revenue in his or her
+15 respective municipality, consistent with such authority exercised by other
+16 municipalities to include not be limited to package tour fees, fishing fees, and
+17 hunting fees. Said revenue shall be locally appropriated by the Saipan and Northern
+18 Islands Legislative Delegation after establishment of a revolving fund.
+19 Section 709. Other Programs.
+20 The Fiscal Year 2026 Budget Appropriation for the programs under this
+21 section shall be as shown in Schedule A.
+- 44 -
+
+HOUSE BILL 24-S6
+1 (a) Northern Marianas College. The President of the Northern Marianas
+2 College or designee shall be the expenditure authority of the funds under ORG
+3 11881000.
+4 (b) NMC Board of Regents. The Chairperson of the Board of Regents of
+5 the Northern Marianas College or designee shall be the expenditure authority of the
+6 appropriated funds under ORG 11882100.
+7 (c) Public School System. The Commissioner of Education or designee
+8 shall be the expenditure authority of the appropriated funds under ORG 11881100.
+9 Funds appropriated to PSS shall not be used for the following: 1) personnel and
+10 operations of the Board of Education, 2) pay raises for central administrative
+11 directors until or unless all austerity measures such as teacher furloughs or other
+12 curriculum/program cuts and or restrictions are rescinded or no longer in effect;
+13 and 3) legal fees and costs of litigation including but not limited to any payments
+14 for settlements and/or judgments and/or legal representation.
+15 Notwithstanding any law to the contrary, no budget cuts or austerity
+16 measures shall be applied to teacher salaries, instructional positions, or essential
+17 student programs (e.g., meals, counseling, special education, and Chamorro
+18 Carolinian Language Heritage Studies) until all non-instructional administrative
+19 cost reductions have been exhausted. 96% of all PSS funds must be allocated
+20 directly to instructional expenditures. Austerity measures shall not apply to
+- 45 -
+
+HOUSE BILL 24-
+1 federally funded positions and programs or those programs that receive a CNMI
+2 match from the General Fund.
+3 Provided further, of the appropriated funds under ORG 11881100, $400,000
+4 shall be reserved for inter-island travel and lodging accommodations within the
+5 CNMI for the students, coaches, teachers, support staff, and chaperones
+6 participating in the PSS interscholastic sports leagues, cultural competitions, and
+7 off-island academic competitions for School Year 2025-2026 to include Moot
+8 Court and Mock Trial. In addition, $100,000 shall be reserved for the teacher and
+9 support staff incentives and rewards program. These funds shall be in addition to
+10 any other amounts provided via federal grants.
+11 Provided further that the expenditure authority shall provide a detailed
+12 expense report in writing to the Presiding Officers of the Legislature, the
+13 Chairperson of the House Standing Committee on Ways and Means, and the
+14 Chairperson of the Senate Standing Committee on Fiscal Affairs within 30 days
+15 after the end of Fiscal Year 2026.
+16 Notwithstanding any law to the contrary PSS shall be exempt from 3 CMC
+17 1132. Provided further, PSS personnel assigned directly to schools, such as,
+18 administrative personnel and support staff inclusive of principals, vice principals,
+19 instructors, teachers (including those assigned to CCLHS), teacher aides, librarians,
+20 pupil transportation personnel and bus drivers, janitors and counselors, shall be
+21 exempt from any austerity measures such as furloughs and reductions in force.
+- 46 -
+
+go
+HOUSE BILL 24-
+1 The protection established by this section, shall take precedence over
+2 administrative or management positions which may be subject to austerity
+3 measures before any school level personnel.
+4 Notwithstanding any law to the contrary, the Commissioner of Education
+5 shall submit to the Presiding Officers of the Legislature, Chairperson of the Senate
+6 Committee on Fiscal Affairs and the Chairperson of the House Committee on Ways
+7 and Means, at the end of each month a fund status report of all funds appropriated
+8 for the operations and activities of the PSS.
+9 The Commissioner of Education shall meet quarterly with the Chairperson
+10 of the Senate Committee on Fiscal Affairs and the Chairperson of the House
+11 Committee on Ways and Means to discuss actual revenues collected versus the
+12 revenues estimated.
+13 (d) Board of Education. The Chairperson of the Board of Education or
+14 his/her designee shall be the expenditure authority of the appropriated funds under
+15 ORG 11882000. The funds appropriated to the Board of Education shall include
+16 the cost and expenses of the student and teacher representatives to the Board of
+17 Education.
+18 (e) The CNMI Health Network Program (hereinafter, "HNP") (formerly
+19 known as CNMI Medical Referral Program). The Commonwealth Healthcare
+20 Corporation shall administer the HNP or its successor, including both inter-island
+21 and off-island referrals, consistent with its duties and responsibilities under 3 CMC
+- 47 -
+
+so
+HOUSE BILL 24-
+1 § 2821 et seq. More specifically, the inter-island medical referral services shall
+2 include stipends, airfare, and lodging for patients and escorts, which is consistent
+3 with the off-island medical referral program. The expenditure authority for all funds
+4 appropriated to inter-island and off-island medical referral services and
+5 administration (inclusive of ORG 11850100, 11850700, and any new organizations
+6 codes established for CHCC Medical Referral) shall be the CEO of the
+7 Commonwealth Healthcare Corporation or designee. Provided further that
+8 $150,000 of the funds appropriated to the HNP, ORG 11850700, shall be used
+9 exclusively for inter-island medical referral.
+10 (0 Northern Marianas Technical Institute. The Chairperson of the Board of
+11 Trustees or designee in consultation with the Chief Executive Officer shall be the
+12 expenditure authority of the appropriated funds for the Northern Marianas
+13 Technical Institute.
+14 Section 710. Independent Programs.
+15 The Fiscal Year 2026 Budget Appropriation for the agencies under this
+16 section shall be as shown in Schedule A.
+17 (a) Joeten-Kiyu Public Library. The Chairperson of the Commonwealth
+18 Library Council or designee shall be the expenditure authority of the appropriated
+19 funds.
+- 48 -
+
+HOUSE BILL 24-c 0
+1 (b) NMI Museum of History and Culture. The Chairperson of the Board of
+2 Governors of the NMI Museum of History and Culture or designee shall be the
+3 expenditure authority of the appropriated funds.
+4 (c) Elected Attorney General. The Attorney General or designee shall be the
+5 expenditure authority of the appropriated funds.
+6 (d) The expenditure authority of the funds appropriated for the Public
+7 Assistance Program shall be the Governor's Authorized Representative.
+8 (e) Medicaid Program. The funds appropriated in this Act for the Medicaid
+9 Program, including Medicaid Reimbursement, ORG 11882200, Medicaid Agency,
+10 ORG 11880300, and Medicaid Enterprise Systems & Health Information
+11 Technology, ORG 11850400 shall be deemed a single budget reserved for the
+12 purposes of Medicaid Agency, Medicaid Reimbursement, and Medicaid Enterprise
+13 Systems & Health Information Technology. The Director of the Commonwealth
+14 Medicaid Agency may reallocate the funds appropriated in this Act to any of the
+15 expenditure categories, including, but not limited to, Medicaid Agency, Medicaid
+16 Reimbursement, and Medicaid Enterprise Systems & Health Information
+17 Technology. Provided further, notwithstanding any other law to the contrary, for
+18 Fiscal Year 2026, pursuant to the request of Commonwealth Medicaid Agency,
+19 with the concurrence of the Office of Personnel Management, all of the 12 NOPs
+20 for the Medicaid Enterprise Systems & Health Information Technology funded
+21 under ORG 11850400 shall be excepted service contract employees.
+- 49 -
+
+HOUSE BILL 24- 9b
+1 (f) CNMI Scholarship and Financial Assistance Office. Of the funds
+2 appropriated to the CNMI Scholarship and Financial Assistance Office, $50,000
+3 shall be used to fund the Professional Student Exchange Program (PSEP)
+4 established under 3 CMC § 11101, as shown in Schedule A.
+5 (g) For programs and activities not specifically mentioned, the expenditure
+6 authority shall be the Secretary of Finance.
+7 Section 711. Department of Public Lands.
+8 (a) Pursuant to 1 CMC § 2803 of the Commonwealth Code, Department of
+9 Public Lands (DPL) submitted a budget of $4,892,548. The DPL, pursuant to the
+10 Memorandum of Agreement between DPL and the Department of Lands and
+11 Natural Resources (DLNR) is authorized to pay for professional services provided
+12 by the personnel of the DLNR Division of Parks and Recreation of all three
+13 senatorial districts. Provided further, DPL shall provide payments for the
+14 landscaping and ground maintenance of all properties that fall under the purview of
+15 Parks and Recreation.
+16 (b) Pursuant to a formal Memorandum of Understanding (MOU) between
+17 the Department of Public Lands and the Department of Lands and Natural
+18 Resources (DLNR) and the Mayors of Rota and Tinian & Aguiguan, DPL is
+19 authorized to expend up to $800,000 annually for maintenance and security of
+20 public lands, including designated parks, recreational areas, and other real estate
+- 50 -
+
+HOUSE BILL 24-
+1 properties, inclusive of the former Rota Resort, the former Tinian Dynasty, the
+2 former Kanoa Resort, and the former Marianas Resort, under DPL's jurisdiction.
+3 (c) Of the funds within the DPL Holding Account, the sum of $4,000,000
+4 shall be remitted to the Marianas Public Lands Trust on or before October 15, 2025,
+5 in addition to the other constitutional and statutory remittance.
+6 Section 712. Financial Data and Transparency Information Access.
+7 (a) Access Provided to Legislative Fiscal Analysts.
+8 Notwithstanding any provision of law to the contrary, training and access
+9 to the following shall be provided:
+10 (1) The Munis Financial Management Information System or other
+11 financial and accounting system to obtain the following: monthly
+12 collections and expenditures, including but not limited to funds status, and
+13 detailed expenditure reports in a format that is exportable or convertible to
+14 Excel files; and
+15 (2) The following reports in a format that is exportable or
+16 convertible to Excel files shall be provided to the CNMI Legislative Fiscal
+17 Analysts 30 days after the effective date of this Act:
+18 (A) All revolving accounts;
+19 (B) All business activities listed in Schedule A;
+20 (C) All accounts listed as earmarks in the Budget Authority Act;
+- 51 -
+
+HOUSE BILL 24-50
+1 (D) All debt service payments, including payments to the Settlement
+2 Fund, and Series A and Series B Funds;
+3 (E) All revenue accounts in the First, Second, and Third Senatorial
+4 Districts that are identified as budgetary resources in the Budget
+5 Authority Act;
+6 (3) Any other financial information, not legally privileged or
+7 protected, relating to the CNMI Government's expenditure of public funds,
+8 as needed and requested, in writing, within 10 days of said request.
+9 Section 713. Violations of Spending Limits.
+10 The expenditure of funds in excess of allocations and reprogramming
+11 established by this Act is a violation of the Planning and Budget Act, 1 CMC §7101
+12 et seq. Any expenditure authority that violates The Planning and Budget Act shall
+13 be suspended without salary for at least 30 days and the salary shall not be restored
+14 until a fiscal plan is submitted to the Presiding Officers of the Legislature,
+15 Chairperson of the Senate Committee on Fiscal Affairs, and the Chairperson of the
+16 House Committee on Ways and Means, and accepted by both houses of the
+17 Legislature to retire the over-expenditure. Provided, they also shall not be entitled
+18 to indemnification, defense, or reimbursement under the Government Liability Act
+19 or any other Commonwealth Law.
+20 Section 714. Reporting Requirement.
+- 52 -
+
+HOUSE BILL 24-20
+1 In Fiscal Year 2026, the expenditure authorities of the foregoing activities
+2 listed in Chapter 7 and the CNMI Public School System, shall submit to the
+3 Presiding Officers of the Legislature, Chairperson of the Senate Committee on
+4 Fiscal Affairs and the Chairperson of the House Committee on Ways and Means, a
+5 fund status report on the expenditures for personnel and operations of each
+6 government entity, and the payments of the public auditor's fee, for the quarter
+7 ended and, if applicable, year-to-date totals as of the close of the reporting period.
+8 CHAPTER VIII. NON GENERAL REVENUE SOURCES
+9 Section 801. Administrative Provisions.
+10 (a) Notwithstanding 1 CMC § 7204, the non-General Revenue source funds
+11 appropriated for Fiscal Year 2026 shall be allotted monthly; except programs that
+12 require one-time payments may receive advance allotments.
+13 (b) Notwithstanding any law to the contrary, the Secretary of Finance shall
+14 submit to the Presiding Officers of the Legislature, at the end of each quarter, a
+15 fund status report on the non-General Revenue sourced funds that are transferred
+16 in and out of government organizational codes and their respective accounts,
+17 pursuant to Section 802 of this Act.
+18 (c) All salaries of elected officials that are waived under 1 CMC § 8442
+19 shall be transferred by the Secretary of Finance to the Scholarship Trust Account
+20 and the funds from the account shall be spent for scholarship purposes only, without
+21 further appropriation, and without fiscal year limitation. The Administrator of the
+- 53 -
+
+HOUSE BILL 24- gd
+1 CNMI Scholarship and Financial Assistance Office shall provide a report to the
+2 Presiding Officers of the legislature within 30 days after the end of each quarter.
+3 Section 802. Non General Revenue Sources.
+4 (a) Tobacco Settlement Funds. Pursuant to 3 CMC § 2173 and the funds
+5 allocated in this section pursuant to the submittal of a program and expenditure plan
+6 to the Secretary of Finance, the Tobacco Settlement funds in the amount of
+7 $541,597.00, not subject to reprogramming or fiscal year limitation, shall be
+8 allocated as follows:
+9 (1) Division of Public Health 40%: $216,638.80
+10 (2) Public School System 20%: $108,319.40
+11 (3) Youth Affairs Office 12.5%: $67,699.62
+12 (4) Coalition of Private Schools 7.5%: $40,619.78
+13 (5) Rota Mayor 10%: $54,159.70
+14 (6) Tinian and Aguiguan Mayor 10%: $54,159.70
+15 The expenditure authorities of the funds allocated pursuant to this Section
+16 802(a) shall be the persons authorized by law for each respective office or agency.
+17 The expenditure authorities shall provide accountability and transparency by
+18 providing within 30 days after the end of each quarter an expenditure report of the
+19 funds to the governor and the Presiding Officers of the Legislature.
+20 (b) Commonwealth Worker Fund (Source: U.S.P.L. 115-218).
+- 54 -
+
+HOUSE BILL 24- e l)
+1 In accordance with U.S. Public Law 115-218, the sum of $1,300,000 in
+2 Commonwealth Worker Fee Funds shall be available for the sole and exclusive
+3 purpose of funding vocational education, apprenticeships, or other training
+4 programs for United States workers by Commonwealth educational entities for
+5 Fiscal Year 2026. Provided that out of the $1,300,000 the following amounts shall
+6 be allocated for the sole and exclusive purpose of funding vocational education,
+7 apprenticeships, or other vocational training programs for United States workers:
+8 (1) NMTech 60%: $780,000.00
+9 (2) NMC 15%: $195,000.00
+10 (3) CNMI PSS 4%: $52,000.00
+11 (4) CNMI DOL: $273,000.00
+12 The expenditure authorities of all Commonwealth educational entities that
+13 receive Commonwealth Worker Fee Funds shall submit to the Presiding Officers
+14 of the Legislature, Chairperson of the Senate Committee on Fiscal Affairs and the
+15 Chairperson of the House Committee on Ways and Means, at the end of each
+16 quarter, a fund status report of the funds allocated under this subsection. Provided
+17 further, for purposes of data collection, all expenditure authorities shall 1) require
+18 all expenditure authorities of CW funds to register with the Department of Labor
+19 and 2) report on the status of all recipient placement into the workforce (or non-
+20 placement) of said funding.
+- 55 -
+
+HOUSE BILL 24- Sge
+1 The recipients of the funds in this subsection shall submit to the Governor
+2 and the Department of Labor the required education plans consistent with and
+3 mandated by U.S. Public Law 115-218.
+4 (c) Reporting Requirement. The expenditure authorities of the funds
+5 allocated pursuant to Section 802 shall provide accountability and transparency by
+6 providing within 30 days after the end of each quarter an expenditure report of the
+7 funds to the Governor and the Presiding Officers of the Legislature.
+8 CHAPTER IX. GENERAL PROVISIONS
+9 Section 901. Severability. If any provision of this Act, or its application to
+10 any person or circumstance, is held invalid, the invalidity does not affect other
+11 provisions or applications of the Act which can be given effect without the invalid
+12 provision or applications, and to this end the provisions of this Act are severable.
+13 Section 902. Savings Clause. This Act and any repealer contained herein
+14 shall not be construed as affecting any existing right acquired under contract or
+15 acquired under statutes repealed or under any rule, regulation or order adopted
+16 under the statutes. Repealers contained in this Act shall not affect any proceeding
+17 instituted under or pursuant to prior law. The enactment of this Act shall not have
+18 the effect of terminating, or in any way modifying, any liability civil or criminal,
+19 which shall already be in existence at the date this Act becomes effective.
+- 56 -
+
+HOUSE BILL 24- tO
+1 Section 903. Effective Date. This Act shall take effect upon its approval by
+2 the Governor, or it becoming law without such approval.
+Prefiled: 12012025
+Date: Introduced by:
+hn Paul P. Sablan t( \
+Reviewed for legal sufficiency by:
+ccL2
+2o Y —
+Hqfie Legal Counsel
+Date: 12-16-25
+4A- Okr -.-
+v'
+- 57 -
+
+SCHEDULE A
+Activity/Function ORG NOP PERSONNEL OPERATIONS UTILITIES TOTAL
+Judicial Branch
+Justices & Judges 11510600 8 $1,145,852 $11,459 $0 $1,157,311
+CNMI Supreme Court 11510400 8 $510,554 $5,106 $0 $515,660
+CNMI Superior Court 11510300 52 $1,628,923 $16,289 $0 $1,645,212
+Administrative 11510100 42 $1,602,512 $170,525 $300,000 $2,073,037
+Law Revision Commission 11510500 7 $170,645 $1,706 $0 $172,351
+Drug Court 11510700 8 $374,192 $3,742 $0 $377,934
+Mental Health Court 11511000 7 $241,544 $2,416 $0 $243,960
+Judicial Branch Total 132 $5,674,222 $211,243 $300,000 $6,185,465
+Legislative Branch
+Current House Member's Salaries 11620100 20 $769,704 $0 $0 $769,704
+House Member's Allocation 11620200 45 $0 $2,375,860 $0 $2,375,860
+House Leadership 11620300 0 $0 $200,000 $0 $200,000
+Current Senate Salaries 11620400 9 $336,624 $0 $0 $336,624
+Senate Member's Allocation 11620500 27 $0 $1,069,137 $0 $1,069,137
+Senate Leadership 11620600 0 $0 $200,000 $0 $200,000
+Legislative Bureau 11620700 33 $1,657,031 $193,814 $180,000 $2,030,845
+CNMI Youth Congress 11620800 1 $25,183 $3,485 $0 $28,668
+Legislative Branch Total 135 $2,788,542 $4,042,296 $180,000 $7,010,838
+Office of the Governor
+Office of the Governor 11261100 16 $699,460 $6,993 $0 $706,453
+Governor's Discretionary Account 11269000 0 $0 $101,000 $0 $101,000
+Office of the Governor Total 16 $699,460 $107,993 $0 $807,453
+Office of the Lt. Governor
+Office of the LT. Governor 11262000 16 $627,348 $6,273 $0 $633,621
+Lt. Gov's Discretionary Account 11269100 0 $0 $70,700 $0 $70,700
+Office of the Lt. Governor Total 16 $627,348 $76,973 $0 $704,321
+Other Offices of the Gov and Lt. Gov
+Office of Management & Budget 11260900 9 $413,887 $4,139 $0 $418,026
+Administrative Services 11260100 17 $670,136 $6,701 $0 $676,837
+CNMI Homeland Security & Emergency Management Office 11260700 14 $420,652 $4,207 $0 $424,859
+Office of Youth Affairs 11261800 8 $194,203 $1,942 $0 $196,145
+Office of Planning & Development 11260500 5 $170,485 $1,705 $0 $172,190
+Office of Parole Board 11261300 5 $95,972 $960 $0 $96,932
+Office of Grants Management 11261000 0 $1 $1 $0 $2
+Public Defender Office 11261200 9 $610,211 $6,102 $0 $616,313
+Carolinian Affairs Office 11260200 10 $317,328 $7,313 $10,000 $334,641
+Indigenous Affairs Office 11260800 4 $142,317 $1,423 $0 $143,740
+Veteran's Affairs Office 11261400 6 $274,416 $2,744 $0 $277,160
+Women's Affairs Saipan 11261600 4 $109,123 $1,091 $0 $110,214
+Environmental Quality - Saipan 11261900 1 $26,796 $268 $0 $27,064
+Zoning Board 11262200 6 $251,194 $2,512 $0 $253,706
+CJPA 11260400 3 $115,186 $1,152 $0 $116,338
+Vocational Rehabilitation Services 11261500 0 $0 $80,800 $0 $80,800
+Medicaid Reimbursements 11882200 0 $0 $6,262,000 $0 $6,262,000
+Medicaid Agency 11880300 20 $0 $0 $0 $0
+Medicaid Enterprise Systems & Health Information Technology 11850400 12 $66,239 $537,995 $0 $604,234
+Governor's Holding Account New 0 $1 $1 $0 $2
+Other Offices of the Gov and Lt. Gov Total 133 $3,878,147 $6,923,056 $10,000 $10,811,203
+1
+
+SCHEDULE A
+Activity/Function ORG NOP PERSONNEL OPERATIONS UTILITIES TOTAL
+Department of Commerce
+Secretary of Commerce 11160100 14 $554,761 $5,548 $0 $560,309
+Economic Development - Saipan 11160300 2 $97,313 $973 $0 $98,286
+Statistical Research 11160400 6 $181,065 $1,810 $0 $182,875
+Alcoholic Beverage Control 11160200 15 $391,840 $3,918 $0 $395,758
+Enforcement and Compliance 11160500 5 $197,187 $1,972 $0 $199,159
+Workers Compensation Commission 11160600 4 $182,871 $1,829 $0 $184,700
+Department of Commerce Total 46 $1,605,037 $16,050 $0 $1,621,087
+Department of Community & Cultural Affairs
+Secretary of CCA 11120100 8 $305,443 $3,054 $0 $308,497
+Youth Services - Saipan 11120800 15 $383,321 $3,833 $0 $387,154
+Child Care Licensing Program 11120900 5 $172,292 $1,723 $0 $174,015
+Historical Preservation - Saipan 11120600 8 $284,221 $2,842 $0 $287,063
+Office of Aging - Saipan 11120700 13 $231,630 $2,316 $0 $233,946
+Council for Arts & Culture 11120200 9 $206,868 $2,069 $0 $208,937
+Low Income Home Energy Assistance Program 11121000 3 $106,507 $2,665 $160,000 $269,172
+Chamorro/Carolinian Language Commission 11121200 5 $171,146 $1,711 $0 $172,857
+NAP 11121400 0 $0 $163,216 $0 $163,216
+Department of Community & Cultural Affairs Total 66 $1,861,428 $183,429 $160,000 $2,204,857
+Department of Corrections
+Secretary of Corrections 11130100 139 $3,583,178 $1,784,870 $0 $5,368,048
+Juvenile Detention Unit 11130200 15 $273,797 $2,738 $0 $276,535
+Department of Corrections Total 154 $3,856,975 $1,787,608 $0 $5,644,583
+Department of Fire & Emergency Services
+Administration 11140100 13 $572,697 $5,726 $0 $578,423
+Emergency Services 11140300 88 $3,170,864 $31,709 $0 $3,202,573
+Fire Prevention & Arson Investigation 11140200 10 $484,697 $4,847 $0 $489,544
+Emergency Medical Services 11140400 8 $377,070 $3,771 $0 $380,841
+Logistical Support 11140500 7 $318,797 $3,187 $0 $321,984
+DFEMS Training Section 11140600 2 $137,295 $1,373 $0 $138,668
+DFEMS Dispatch Section 11140700 8 $76,192 $762 $0 $76,954
+Department of Fire & Emergency Services Total 136 $5,137,612 $51,375 $0 $5,188,987
+Department of Finance
+Secretary of Finance 11170100 19 $991,683 $9,917 $0 $1,001,600
+Finance and Acct Saipan 11170800 27 $1,093,171 $10,932 $0 $1,104,103
+Treasury 11170700 15 $376,890 $3,769 $0 $380,659
+Revenue & Taxation - Saipan 11170500 64 $2,049,955 $20,500 $0 $2,070,455
+Procurement & Supply - Saipan 11170400 12 $398,546 $3,985 $0 $402,531
+Division of Customs & Quarantine Services - Saipan 11170900 105 $3,514,947 $35,149 $0 $3,550,096
+Office of Information Technology 11170200 11 $357,297 $904,396 $0 $1,261,693
+Passport Office 11171000 3 $95,530 $955 $0 $96,485
+Department of Finance Total 256 $8,878,019 $989,603 $0 $9,867,622
+Department of Labor
+Secretary of Labor 11180100 5 $253,034 $2,530 $0 $255,564
+Administrative Hearing Office 11180400 2 $102,934 $1,029 $0 $103,963
+Employment Services 11180500 8 $280,762 $2,808 $0 $283,570
+Labor Enforcement Fund 11180700 7 $267,465 $2,675 $0 $270,140
+Department of Labor Total 22 $904,195 $9,042 $0 $913,237
+2
+
+SCHEDULE A
+Activity/Function ORG NOP PERSONNEL OPERATIONS UTILITIES TOTAL
+Department of Land and Natural Resources
+Secretary of DLNR 11190100 6 $334,243 $3,342 $0 $337,585
+Agriculture 11190700 17 $577,199 $5,772 $0 $582,971
+Fish & Wildlife Saipan 11190800 12 $330,148 $3,301 $0 $333,449
+Parks & Recreation - Saipan 11190400 40 $591,720 $5,917 $0 $597,637
+Soil & Water Conservation - Saipan 11190500 1 $1 $0 $0 $1
+Land Registration Saipan 11190900 8 $238,830 $2,389 $0 $241,219
+Department of Land and Natural Resources Total 84 $2,072,141 $20,721 $0 $2,092,862
+Department of Public Safety
+DPS Commissioner 11150400 2 $86,796 $868 $0 $87,664
+Police - Saipan 11150500 184 $5,286,416 $52,864 $0 $5,339,280
+Administrative Division 11150100 13 $476,096 $4,761 $0 $480,857
+Motor Vehicles Division 11150300 12 $258,444 $2,584 $0 $261,028
+Department of Public Safety Total 211 $6,107,752 $61,077 $0 $6,168,829
+Department of Public Works
+Secretary Public Works 11200100 10 $450,740 $4,507 $0 $455,247
+Building Safety Code 11200200 14 $455,736 $4,558 $0 $460,294
+Roads & Grounds Division 11200500 22 $529,452 $5,295 $0 $534,747
+Technical Services Division 11200700 21 $763,448 $7,634 $0 $771,082
+Solid Waste Management Division 11200600 35 $922,025 $9,221 $0 $931,246
+Department of Public Works Total 102 $3,121,401 $31,215 $0 $3,152,616
+Executive Branch Total 1,242 $38,749,515 $10,258,142 $170,000 $49,177,657
+First Senatorial District
+Mayor Rota 12270100 118 $2,627,136 $211,085 $150,000 $2,988,221
+Municipal Council Rota 12710100 8 $170,319 $26,703 $0 $197,022
+Finance and Acct Rota 12170800 4 $149,298 $21,493 $0 $170,791
+Revenue & Taxation - Rota 12170500 4 $102,828 $1,028 $0 $103,856
+Procurement & Supply Rota 12170400 2 $79,261 $793 $0 $80,054
+Customs Service - Rota 12170900 15 $403,328 $4,033 $0 $407,361
+Historic Preservation - Rota 12120600 3 $90,340 $903 $0 $91,243
+Sports and Recreation - Rota 12120400 9 $275,637 $22,756 $0 $298,393
+Labor Rota 12180100 5 $221,721 $22,217 $0 $243,938
+Economic Development - Rota 12160300 4 $159,978 $16,600 $0 $176,578
+Police - Rota 12150500 47 $1,578,403 $30,784 $0 $1,609,187
+Fire & EMS - Rota 12140100 29 $1,169,514 $26,695 $0 $1,196,209
+Agriculture - Rota 12190700 12 $472,015 $24,720 $0 $496,735
+Fish & Wildlife Rota 12190800 5 $161,162 $1,612 $0 $162,774
+Parks & Recreation - Rota 12190400 4 $102,413 $1,024 $0 $103,437
+Soil & Water Conservation - Rota 12190500 1 $26,443 $264 $0 $26,707
+Land Registration Rota 12190900 2 $68,208 $682 $0 $68,890
+Operations & Maintenance - Rota 12200100 22 $612,193 $31,122 $0 $643,315
+Public Library - Rota 12880900 1 $18,792 $188 $0 $18,980
+Contingency - Rota 0 $0 $0 $0 $0
+First Senatorial District Total 295 $8,488,989 $444,702 $150,000 $9,083,691
+3
+
+SCHEDULE A
+Activity/Function ORG NOP PERSONNEL OPERATIONS UTILITIES TOTAL
+Second Senatorial District
+Mayor Tinian 13270100 144 $3,978,324 $221,211 $250,000 $4,449,535
+Mayor Contingency Tinian 0 $0 $0 $0 $0
+Municipal Council Tinian 13710100 7 $197,396 $27,729 $0 $225,125
+Finance and Acct Tinian 13170800 3 $101,318 $30,101 $0 $131,419
+Revenue & Taxation - Tinian 13170500 4 $114,834 $1,148 $0 $115,982
+Procurement & Supply Tinian 13170400 2 $45,739 $457 $0 $46,196
+Customs Service - Tinian 13170900 15 $365,589 $3,656 $0 $369,245
+Historic Preservation - Tinian 13120600 3 $79,841 $795 $0 $80,636
+Office of Aging - Tinian 13120700 4 $115,485 $1,118 $0 $116,603
+Sports and Recreation - Tinian 13120400 6 $200,848 $1,997 $0 $202,845
+Labor Tinian 13180100 9 $294,753 $15,068 $0 $309,821
+Economic Development - Tinian 13160300 9 $197,045 $1,970 $0 $199,015
+Police - Tinian 13150500 39 $1,052,926 $10,529 $0 $1,063,455
+Fire - Tinian 13140100 28 $1,094,542 $10,945 $0 $1,105,487
+Agriculture - Tinian 13190700 9 $311,776 $3,118 $0 $314,894
+Fish & Wildlife Tinian 13190800 5 $135,279 $1,353 $0 $136,632
+Parks & Recreation - Tinian 13190400 3 $75,471 $755 $0 $76,226
+Soil & Water Conservation Tinian 13190500 1 $25,175 $252 $0 $25,427
+Operations & Maintenance - Tinian 13200100 11 $290,432 $2,904 $0 $293,336
+Tinian Public Library 13880900 3 $63,907 $639 $0 $64,546
+Vacant Holding Account Tinian 0 $0 $0 $0 $0
+Second Senatorial District Total 305 $8,740,680 $335,745 $250,000 $9,326,425
+Third Senatorial District
+Mayor Saipan 11270100 87 $3,068,366 $503,401 $61,410 $3,633,177
+Mayor Northern Islands 14270100 14 $474,210 $54,742 $0 $528,952
+Municipal Council Saipan 11710100 5 $141,399 $1,414 $0 $142,813
+Mayor of Saipan Contingency 0 $0 $0 $0 $0
+Mayor of Northern Islands Contingency 0 $0 $0 $0 $0
+Third Senatorial District Total 106 $3,683,975 $559,557 $61,410 $4,304,942
+Boards and Commissions
+Civil Service Commission 11110700 3 $211,936 $2,119 $0 $214,055
+Office of Personnel Management - Saipan 11111100 17 $835,825 $8,358 $0 $844,183
+Office of Personnel Management - Tinian 13111100 1 $45,581 $456 $0 $46,037
+Office of Personnel Management - Rota 12111100 2 $74,136 $741 $0 $74,877
+Commonwealth Election Commission 11110200 6 $232,905 $61,919 $0 $294,824
+Board of Professional Licensing 11110500 3 $91,794 $918 $0 $92,712
+Commonwealth Public Utilities Commission 11110800 1 $53,825 $538 $0 $54,363
+Commonwealth Casino Commission 11111200 0 $1 $0 $0 $1
+Commonwealth Cannabis Commission 11110900 3 $1 $0 $0 $1
+CNMI Cannabis Commission Board 11111000 0 $1 $0 $0 $1
+Political Status Commission 0 $0 $0 $0 $0
+Boards and Commissions Total 36 $1,546,005 $75,049 $0 $1,621,054
+4
+
+SCHEDULE A
+Activity/Function ORG NOP PERSONNEL OPERATIONS UTILITIES TOTAL
+Independent Program
+Scholarship and Grants 11881400 7 $272,948 $507,729 $0 $780,677
+Substance Abuse Prevention 11881500 14 $480,743 $4,808 $0 $485,551
+Elected Attorney General 11880500 53 $3,101,266 $31,013 $0 $3,132,279
+Active Emplyees DC Emplyr Cntrbtn. 11881600 0 $0 $0 $0 $0
+GHLI: Retirees 11881700 0 $4,345,852 $43,459 $0 $4,389,311
+Marianas Bound Karidat NEW 0 $0 $1 $0 $1
+Active EE ER Health Ins Cntrbn. 11881800 0 $0 $0 $0 $0
+25% Retirees' Pension Benefits 11884200 0 $5,871,224 $58,711 $0 $5,929,935
+Governmental Utilities UNASSIGNED 0 $0 $19,802 $1,980,198 $2,000,000
+Joeten/Kiyu Public Library 11880900 16 $585,895 $5,859 $0 $591,754
+General Fund Deficit Reduction 11884500 0 $0 $0 $0 $0
+NMIRF - Gov/Lt. Gov Pension 11881900 0 $78,875 $789 $0 $79,664
+Judgement Against Government 11884600 0 $0 $0 $0 $0
+Commonwealth Museum 11880200 5 $105,136 $1,052 $0 $106,188
+Government Operational Costs 11884400 0 $0 $1,133,990 $0 $1,133,990
+Public Assistance Matching 0 $0 $0 $0 $0
+CNMI State Soil and Water Conservation Districts, Inc. NEW 0 $0 $70,000 $0 $70,000
+Independent Program Total 95 $14,841,939 $1,877,213 $1,980,198 $18,699,350
+Other Programs (Transfers to Agencies)
+Commonwealth Healthcare Corp. Subsidy 11850100 0 $0 $1 $0 $1
+Health Network Program 11850700 0 $0 $1,200,000 $0 $1,200,000
+Northern Marianas College (NMC) 11881000 178 $0 $7,500,000 $0 $7,500,000
+NMC Board of Regents 11882100 0 $0 $51,158 $0 $51,158
+Marianas Visitors' Authority 11881300 41 $0 $1 $0 $1
+Public School System 11881100 972 $0 $37,900,398 $0 $37,900,398
+PSS Board 11882000 6 $0 $153,131 $0 $153,131
+NMTI 11883500 0 $0 $1 $0 $1
+Other Programs (Transfers to Agencies) Total 1,197 $0 $46,804,690 $0 $46,804,690
+General Fund Grand Total 3,543 $84,513,867 $64,608,637 $3,091,608 $152,214,112
+Department of Public Lands 21400100 81 $3,067,154 $1,688,394 $137,000 $4,892,548
+General Fund Grand Total with DPL 3,624 $87,581,021 $66,297,031 $3,228,608 $157,106,660
+5
+
+Commonwealth Casino Commission
+Schedule B
+FY2026
+No Commissioner Name Senatorial District
+1 Edward C. Deleon Guerrero 3rd Senatorial District $35,000.00
+2 Rafael S. Demapan 3rd Senatorial District $35,000.00
+3 Mariano Taitano 3rd Senatorial District $35,000.00
+4 Ramon Dela Cruz 2nd Senatorial District $35,000.00
+5 Martin Mendiola 1st Senatorial District $35,000.00
+6 Thomas A. Manglona 1st Senatorial District $35,000.00
+$210,000.00

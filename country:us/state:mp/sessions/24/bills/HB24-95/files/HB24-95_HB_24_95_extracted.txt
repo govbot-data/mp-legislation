@@ -1,0 +1,232 @@
+Title: 
+Official Title: 
+Source: versions - HB 24-95
+Media Type: application/pdf
+
+================================================================================
+
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVE
+24- if r
+Regular Session, 2026 H. B.
+A BILL FOR AN ACT
+To enhance economic opportunities for small businesses and
+local farmers by establishing new gross revenue tax exemptions,
+clarifying export treatment, simplifying tax administration in the
+CNMI; providing for phased implementation to ensure
+administrative feasibility and fiscal stability; and for other
+purposes.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The Legislature finds that small
+2 businesses, including emerging "pop-ups," micro-businesses, and local farmers, are
+3 critical drivers of the Commonwealth's economy, providing essential goods,
+4 services, and employment opportunities. Many of these enterprises operate on
+5 limited revenue margins, and the burden of certain taxes, coupled with complex
+6 filing requirements, disproportionately impacts their viability. This burden can
+7 impede their ability to grow, expand, and reinvest in their operations, thereby
+8 limiting overall economic diversification and resilience within the Commonwealth.
+9 The Legislature finds that allowing small businesses and local farmers to
+10 retain a greater portion of their earnings will encourage them to reinvest in their
+
+Ag -9 C
+HOUSE BILL
+1 operations, foster innovation, support the establishment of new ventures, and
+2 stimulate local economic circulation. Therefore, it is the intent of this Act to provide
+3 targeted economic relief and simplify administrative processes for eligible small
+4 businesses and local farmers, enabling them to reinvest capital, create jobs, and
+5 contribute more robustly to the Commonwealth's prosperity. The Legislature
+6 further finds that for these benefits to be realized sustainably, the implementation
+7 of these tax reforms must be carefully managed, allowing the Department of
+8 Revenue and Taxation (DRT) sufficient time and resources to develop clear
+9 guidance, establish effective systems, and ensure fiscal responsibility. Clear
+10 statutory definitions and robust dispute resolution mechanisms are essential to
+11 minimize ambiguity and potential litigation.
+12 The Legislature finds that it has come to the attention of the CNMI
+13 Legislature that the Commonwealth Department of Revenue and Taxation has
+14 misconstrued the taxation imposed on goods produced or manufactured in the
+15 Commonwealth solely for export to destinations outside of the Commonwealth. In
+16 this time of economic hardship, as the Commonwealth attempts to attract new
+17 foreign investment with the creation of a Free Trade Zone and the offering of
+18 various tax incentives, the actions taken by the Department of Revenue and
+19 Taxation have the potential to damage investment attraction efforts. Notably, the
+20 Department has imposed double taxation on companies producing and
+21 manufacturing goods for export, by assessing both the Gross Revenue Tax of 4
+2
+
+2%.
+HOUSE BILL
+1 CMC §1301 and the Customs Certification User Fee of 4 CMC §1421 on export
+2 goods.
+3 The Legislature wishes to clarify that the production or manufacture of
+4 goods in the Commonwealth intended for shipment to buyers outside of the
+5 Commonwealth does not, and has never, subjected the producer or manufacturer to
+6 the Gross Revenue Tax or any similar flat tax under CNMI tax statutes.
+7 Section 2. Repeal and Re-enactment. Title 4, Division 1, Chapter 3,
+8 Section 1301 is hereby repealed and enacted to read as follows:
+9 "§ 1301. Tax on Gross Revenue.
+10 (a) Except as otherwise provided, there is imposed on every person, a
+11 yearly tax on the person's total gross revenue. The tax shall be determined
+12 in accordance with the following schedule:
+13 If the yearly total The tax on the yearly
+14 gross revenue is between: total gross revenue is:
+15 (1) $0 to $50,000 No tax
+16 (2) $50,001 to $100,000 1.5 percent of the amount over $0.
+17 (3) $100,001 to $250,000 Two percent of the amount over $0.
+18 (4) $250,001 to $500,000 2.5 percent of the amount over $0.
+19 (5) $500,001 to $750,000 Three percent of the amount over $0.
+20 (6) $750,001 and over Five percent of the amount over $0.
+3
+
+dir
+HOUSE BILL vi
+1 Provided, that the 'No tax' exemption for $0 to $50,000 of yearly total gross
+2 revenue shall apply only to persons whose total gross annual revenue did not exceed
+3 Five Hundred Thousand Dollars ($500,000) in the most recent CNMI government
+4 fiscal year unless otherwise provided by rule. For purposes of this subsection, a
+5 person without a prior year of operation shall be deemed to have met the preceding-
+6 year revenue test unless the Department determines otherwise based on available
+7 records. The Department of Revenue and Taxation may adopt rules for verification
+8 of the preceding fiscal year revenue.
+9 (b) Aggregation. A person who during the year conducts two or more
+10 separate and distinct businesses, sells more than one property, or is entitled to
+11 distributive shares from more than one partnership shall include the combined
+12 total gross revenue of all such businesses, sales, and distributive shares in
+13 computing the yearly tax under this section. The Department shall adopt rules
+14 to determine aggregation, including treatment of related parties and entities,
+15 and to prevent avoidance.
+16 (c) Notwithstanding subsection (a), the production or manufacture in the
+17 Commonwealth of goods that are exported and for which export is
+18 documented under subsection (d) shall not be subject to the gross revenue
+19 tax imposed under this section with respect to such production or
+20 manufacture. This subsection does not exempt gross revenue derived from
+21 sales or services performed within the Commonwealth that are not exported.
+4
+
+HOUSE BILL 24' gkr
+1 (d) To claim the exemption in subsection (c), a person must maintain
+2 and provide upon request records demonstrating that the goods were
+3 exported, including but not limited to customs export declarations, bills of
+4 lading, commercial invoices showing non-Commonwealth buyers or
+5 shipping destinations outside the Commonwealth, and any other
+6 documentation required by Customs or the Department. The Department
+7 may issue administrative guidance specifying acceptable documentation
+8 and record retention periods.
+9 (e) The exemption under subsection (c) does not alter or repeal the
+10 Customs Certification User Fee enacted at 4 CMC §1421; however, the
+11 Department and the Department of Homeland Security — Customs shall
+12 coordinate to avoid duplicative taxation on the same economic activity.
+13 Where a person demonstrates that the same activity has been subject to both
+14 a gross revenue tax and the Customs Certification User Fee, the Department
+15 may provide administrative relief consistent with this Chapter and
+16 applicable law, including credit or refund where appropriate. The
+17 Department shall not assess gross revenue tax on activity for which the
+18 Customs Certification user fee has been imposed on the same transaction.
+19 (1) Effective date. The amendments made by this Act shall take effect
+20 upon enactment into law."
+21 Section 3. Repeal and Re-enactment. Title 4, Division 1, Chapter 3,
+5
+
+HOUSE BILL
+1 Section 1302 (a) is hereby repealed and enacted to read as follows:
+2 "§ 1302. Tax on Agriculture Producers and Fishing.
+3 (a) In lieu of the tax rates of 4 CMC § 1301(a), the tax imposed on
+4 persons:
+5 (1) registered or otherwise recognized by rule with the
+6 Commonwealth Council for Arts and Culture as artists; or
+7 (2) engaged in the business of producing agricultural products in the
+8 Commonwealth, or fishing in the Commonwealth, or its waters,
+9 for dietary consumption, shall be determined in accordance with
+10 the following schedule:
+11 If the yearly total The tax on the yearly
+12 gross revenue is between: total gross revenue is:
+13 (i) $0 to $50,000 No tax.
+14 (ii) Over $50,000 One percent of total gross revenues
+15 in excess of $50,000.
+16 (b) 4 CMC § 1301(b) shall apply in determining the yearly total gross
+17 revenue of persons subject to subsection (a) of this section. The Department
+18 shall issue rules governing qualification, documentation, and aggregation
+19 for person claiming benefits under this section.
+20 (c) All persons subject to this section must file returns under 4 CMC §
+21 1306 whether or not any tax is due. The Department shall provide a
+6
+
+HOUSE BILL
+1 simplified zero-return form for persons with no tax liability under this
+2 section."
+3 Section 4. Enactment. Notwithstanding any laws or regulations to the
+4 contrary and subject to proper codification by the CNMI Law Revision
+5 Commission, under Title 4, Division 1, Chapter 3, a new Section 1314 is hereby
+6 enacted:
+7 "§ 1314. Fiscal Impact Statement and Sustainability Review.
+8 (a) Fiscal Impact Statement. Prior to the effective date of any tax rate
+9 changes or new exemptions detailed in this Act, the Department of Finance
+10 shall prepare and submit to the Legislature a comprehensive fiscal impact
+11 statement, projecting the estimated revenue loss or gain over the next five
+12 (5) fiscal years. This statement shall include an assessment of the potential
+13 impacts on the Commonwealth's budget and essential public services.
+14 (b) Sustainability Review. The Legislature shall review the fiscal
+15 impact statement and assess the Commonwealth's fiscal capacity to absorb
+16 the revenue changes proposed by this Act. Based on this review, the
+17 Legislature may, by subsequent concurrent resolution, adjust the phased
+18 implementation timelines or specific tax rates/exemptions as deemed
+19 necessary to maintain fiscal stability."
+20 Section 5. Enactment. Notwithstanding any laws or regulations to the
+21 contrary and subject to proper codification by the CNMI Law Revision
+7
+
+2.4.qr
+HOUSE BILL
+1 Commission, under Title 4, Division 1, Chapter 3, a new Section 1315 is hereby
+2 enacted:
+3 "§ 1315. Transitional provisions; claims for refund.
+4 (a) Transition and guidance. The Department shall adopt temporary and
+5 final rules, forms, and written guidance necessary to implement the
+6 amendments in §§1300-1302, including rules for verification,
+7 documentation requirements for export exemptions, and simplified zero-
+8 return procedures. The Department shall publish transitional guidance
+9 within 45 days after this Act's effective date and provide at least one public
+10 webinar or in-person outreach session in the first 90 days.
+11 (b) Procedural claims for refund. A person who paid gross revenue tax
+12 for any taxable period prior to the effective date of this Act and who believes
+13 such tax was erroneously imposed on production or manufacture of goods
+14 exported from the Commonwealth may file an administrative claim for
+15 refund with the Department within 180 days of the effective date of this Act.
+16 The claimant bears the burden of demonstrating eligibility for a refund. The
+17 Department may deny claims lacking required documentation; denials shall
+18 inform claimants of appeal rights. Appeals shall be reviewed de novo based
+19 on the administrative record.
+20 (c) No retroactive impairment of vested rights. This Chapter shall not
+21 be construed to impair vested contractual rights or to affect any proceeding
+8
+
+24- gS"
+HOUSE BILL
+1 lawfully pending on the effective date; provided, however, that nothing in
+2 this subsection shall prevent a claimant from pursuing a refund as provided
+3 in subsection (b)."
+4 Section 6. Severability. If any provisions of this Act or the application of
+5 any such provision to any person or circumstance should be held invalid by a court
+6 of competent jurisdiction, the remainder of this Act or the application of its
+7 provisions to persons or circumstances other than those to which it is held invalid
+8 shall not be affected thereby.
+9 Section 7. Savings Clause. This Act and any repealer contained herein
+10 shall not be construed as affecting any existing right acquired under contract or
+11 acquired under statutes repealed or under any rule, regulation, or order adopted
+12 under the statutes. Repealers contained in this Act shall not affect any proceeding
+13 instituted under or pursuant to prior law. The enactment of the Act shall not have
+14 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+15 which shall already be in existence on the date this Act becomes effective.
+16 Section 8. Effective Date. This Act shall take effect upon its approval by
+17 the Governor, or its becoming law without such approval.
+Prefiled: q(47 (Qatio
+Date: Introduced by:
+Rep. Thomas J. DLC. Manglona
+9
+
+HOUSE BILL 1q-q(t
+Rev.7ed for fieiency by:
+e Legai _gunsel
+Date:
+- 10 -
