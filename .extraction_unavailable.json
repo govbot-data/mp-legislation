@@ -1,5 +1,10 @@
 [
   {
+    "bill_id": "SR24-08",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/mp-legislation/mp-legislation/country:us/state:mp/sessions/24/bills/SR24-08/metadata.json"
+  },
+  {
     "bill_id": "SR24-01",
     "reason": "no_text_layer",
     "metadata_file": "/home/runner/work/mp-legislation/mp-legislation/country:us/state:mp/sessions/24/bills/SR24-01/metadata.json"
@@ -8,10 +13,5 @@
     "bill_id": "SR24-07",
     "reason": "no_text_layer",
     "metadata_file": "/home/runner/work/mp-legislation/mp-legislation/country:us/state:mp/sessions/24/bills/SR24-07/metadata.json"
-  },
-  {
-    "bill_id": "SR24-08",
-    "reason": "no_text_layer",
-    "metadata_file": "/home/runner/work/mp-legislation/mp-legislation/country:us/state:mp/sessions/24/bills/SR24-08/metadata.json"
   }
 ]
