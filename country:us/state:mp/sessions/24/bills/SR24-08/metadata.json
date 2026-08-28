@@ -70,8 +70,8 @@
   "_processing": {
     "logs_latest_update": "2026-08-28T23:32:39Z",
     "text_extraction_unavailable": {
-      "reason": "no_text_layer",
-      "checked_at": "2026-08-27T23:45:00.499777Z"
+      "reason": "download_failed",
+      "checked_at": "2026-08-28T23:33:31.286552Z"
     }
   }
 }
