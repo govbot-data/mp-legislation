@@ -1,30 +1,30 @@
 {
   "legislative_session": "24",
-  "identifier": "HB 24-94",
-  "title": "To amend the punishment for the crime of vandalism to include the option of confinement.",
+  "identifier": "HR 24-29",
+  "title": "Commending and Honoring Gloria Worswick Hunter for her historic two decades of cabinet leadership as Special Assistant for Programs and Legislative Review, her lifelong devotion to public service, and her enduring legacy as a cultural matriarch of the Commonwealth of the Northern Mariana Islands.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
-    "bill"
+    "resolution"
   ],
   "subject": [],
   "abstracts": [],
   "other_titles": [],
   "other_identifiers": [
     {
-      "identifier": "ocd-bill-mp-24-hb2494"
+      "identifier": "ocd-bill-mp-24-hr2429"
     }
   ],
   "actions": [
     {
       "description": "Date Introduced",
-      "date": "2026-02-09",
+      "date": "2026-08-20",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-26T05:01:37Z"
+        "log_file_created": "2026-08-31T19:57:11Z"
       }
     },
     {
@@ -50,25 +50,37 @@
       "_processing": {
         "log_file_created": "2026-08-31T19:57:11Z"
       }
+    },
+    {
+      "description": "Duly Adopted",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-31T19:57:11Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Flores, MR",
+      "name": "Sablan, JP",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Flores, MR\"}",
+      "person_id": "~{\"name\": \"Sablan, JP\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
   "versions": [
     {
-      "note": "HB 24-94",
+      "note": "HR 24-29",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/house/hse_bills/24/HB24-94.pdf",
+          "url": "https://cnmileg.net/documents/house/hse_res/24/HR24-29.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -80,7 +92,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=20066&secID=1",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20126&secID=1",
       "note": ""
     }
   ],
@@ -92,7 +104,6 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-31T19:57:11Z",
-    "text_extraction_latest_update": "2026-08-08T08:40:07.061406Z"
+    "logs_latest_update": "2026-08-31T19:57:11Z"
   }
 }
