@@ -80,6 +80,10 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-31T19:57:11Z"
+    "logs_latest_update": "2026-08-31T19:57:11Z",
+    "text_extraction_unavailable": {
+      "reason": "download_failed",
+      "checked_at": "2026-08-31T19:58:12.965354Z"
+    }
   }
 }
