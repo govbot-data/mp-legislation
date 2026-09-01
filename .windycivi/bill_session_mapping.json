@@ -269,7 +269,17 @@
     "name": "24th Commonwealth Legislature",
     "date_folder": "2025-2026"
   },
+  "SB24-64": {
+    "session_id": "24",
+    "name": "24th Commonwealth Legislature",
+    "date_folder": "2025-2026"
+  },
   "SR24-01": {
+    "session_id": "24",
+    "name": "24th Commonwealth Legislature",
+    "date_folder": "2025-2026"
+  },
+  "SJR24-06": {
     "session_id": "24",
     "name": "24th Commonwealth Legislature",
     "date_folder": "2025-2026"
@@ -319,6 +329,11 @@
     "name": "24th Commonwealth Legislature",
     "date_folder": "2025-2026"
   },
+  "SR24-19": {
+    "session_id": "24",
+    "name": "24th Commonwealth Legislature",
+    "date_folder": "2025-2026"
+  },
   "HB24-93": {
     "session_id": "24",
     "name": "24th Commonwealth Legislature",
@@ -345,6 +360,11 @@
     "date_folder": "2025-2026"
   },
   "HR24-13": {
+    "session_id": "24",
+    "name": "24th Commonwealth Legislature",
+    "date_folder": "2025-2026"
+  },
+  "SLB24-05": {
     "session_id": "24",
     "name": "24th Commonwealth Legislature",
     "date_folder": "2025-2026"
@@ -385,6 +405,11 @@
     "date_folder": "2025-2026"
   },
   "HB24-4": {
+    "session_id": "24",
+    "name": "24th Commonwealth Legislature",
+    "date_folder": "2025-2026"
+  },
+  "HJR24-17": {
     "session_id": "24",
     "name": "24th Commonwealth Legislature",
     "date_folder": "2025-2026"
@@ -1034,6 +1059,11 @@
     "name": "24th Commonwealth Legislature",
     "date_folder": "2025-2026"
   },
+  "HCR24-4": {
+    "session_id": "24",
+    "name": "24th Commonwealth Legislature",
+    "date_folder": "2025-2026"
+  },
   "HB24-19": {
     "session_id": "24",
     "name": "24th Commonwealth Legislature",
@@ -1110,6 +1140,11 @@
     "date_folder": "2025-2026"
   },
   "HLB24-3": {
+    "session_id": "24",
+    "name": "24th Commonwealth Legislature",
+    "date_folder": "2025-2026"
+  },
+  "SB24-65": {
     "session_id": "24",
     "name": "24th Commonwealth Legislature",
     "date_folder": "2025-2026"

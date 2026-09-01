@@ -28,6 +28,30 @@
       }
     },
     {
+      "description": "House First Reading",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T17:48:39Z"
+      }
+    },
+    {
+      "description": "House Final Reading",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T17:48:39Z"
+      }
+    },
+    {
       "description": "S.L.L. 24-30",
       "date": "2026-06-30",
       "organization_id": "~{\"classification\": \"executive\"}",
@@ -62,6 +86,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S.L.L. 24-30",
+      "links": [
+        {
+          "url": "https://cnmileg.net/documents/files/24TH%20UPDATE/SLL%2024-30%20(HLB%2024-59%20Re-Appropriate%20Funds%20for%20Precinct%20II%20Drainage%20Improvement%20Projects).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -80,7 +115,7 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-31T19:57:11Z",
+    "logs_latest_update": "2026-09-01T17:48:39Z",
     "text_extraction_latest_update": "2026-08-31T19:58:19.084123Z"
   }
 }

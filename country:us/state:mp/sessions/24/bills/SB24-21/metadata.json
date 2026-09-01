@@ -28,6 +28,18 @@
       }
     },
     {
+      "description": "House Final Reading",
+      "date": "2026-05-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-01T17:48:39Z"
+      }
+    },
+    {
       "description": "Senate First Reading",
       "date": "2025-07-14",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -92,7 +104,7 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:14Z",
+    "logs_latest_update": "2026-09-01T17:48:39Z",
     "text_extraction_unavailable": {
       "reason": "no_text_layer",
       "checked_at": "2026-08-23T12:26:59.929963Z"
