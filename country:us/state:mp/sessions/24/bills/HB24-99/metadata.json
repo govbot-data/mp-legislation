@@ -41,14 +41,26 @@
     },
     {
       "description": "House Final Reading",
-      "date": "2026-07-29",
+      "date": "2026-08-25",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-2"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-27T23:44:05Z"
+        "log_file_created": "2026-09-02T17:51:39Z"
+      }
+    },
+    {
+      "description": "SENATE-PUTC",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T17:51:39Z"
       }
     }
   ],
@@ -92,7 +104,7 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-27T23:44:05Z",
+    "logs_latest_update": "2026-09-02T17:51:39Z",
     "text_extraction_latest_update": "2026-08-27T23:45:04.558551Z"
   }
 }

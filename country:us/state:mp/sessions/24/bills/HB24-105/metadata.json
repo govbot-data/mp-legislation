@@ -50,6 +50,18 @@
       "_processing": {
         "log_file_created": "2026-08-27T23:44:05Z"
       }
+    },
+    {
+      "description": "SENATE-REDW",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T17:51:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -92,7 +104,7 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-27T23:44:05Z",
+    "logs_latest_update": "2026-09-02T17:51:39Z",
     "text_extraction_latest_update": "2026-08-27T23:44:55.904602Z"
   }
 }

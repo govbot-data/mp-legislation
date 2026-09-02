@@ -1,7 +1,7 @@
 {
   "legislative_session": "24",
   "identifier": "SR 24-10",
-  "title": "Naval Mobile Construction Battalion ONE Detail Tinian",
+  "title": "Disapprove Mariana Eland Corp new lease",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "resolution"
@@ -17,24 +17,36 @@
   "actions": [
     {
       "description": "Date Introduced",
-      "date": "2026-08-25",
+      "date": "2025-09-12",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "introduction"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-01T17:48:39Z"
+        "log_file_created": "2026-09-02T17:51:39Z"
+      }
+    },
+    {
+      "description": "Senate Final Reading",
+      "date": "2025-09-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T17:51:39Z"
       }
     }
   ],
   "sponsorships": [
     {
-      "name": "Hofschneider",
+      "name": "Magofna",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Hofschneider\"}",
+      "person_id": "~{\"name\": \"Magofna\"}",
       "organization_id": null
     }
   ],
@@ -44,7 +56,7 @@
       "note": "SR 24-10",
       "links": [
         {
-          "url": "https://cnmileg.net/documents/senate/sen_comres/24/24-10.pdf",
+          "url": "https://cnmileg.net/documents/senate/sen_res/24/24-10.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -56,7 +68,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://cnmileg.net/leg_sts.asp?legID=20136&secID=2",
+      "url": "https://cnmileg.net/leg_sts.asp?legID=19979&secID=2",
       "note": ""
     }
   ],
@@ -68,7 +80,7 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-01T17:48:39Z",
+    "logs_latest_update": "2026-09-02T17:51:39Z",
     "text_extraction_unavailable": {
       "reason": "download_failed",
       "checked_at": "2026-09-01T17:50:16.697659Z"
