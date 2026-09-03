@@ -29,14 +29,26 @@
     },
     {
       "description": "Senate First Reading",
-      "date": "2026-02-04",
+      "date": "2026-07-01",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "reading-1"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:14Z"
+        "log_file_created": "2026-09-03T17:48:22Z"
+      }
+    },
+    {
+      "description": "Senate Final Reading",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T17:48:22Z"
       }
     }
   ],
@@ -80,7 +92,7 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:14Z",
+    "logs_latest_update": "2026-09-03T17:48:22Z",
     "text_extraction_unavailable": {
       "reason": "no_text_layer",
       "checked_at": "2026-08-23T12:28:06.692935Z"

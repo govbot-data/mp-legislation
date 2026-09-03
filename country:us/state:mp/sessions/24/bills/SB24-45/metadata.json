@@ -28,6 +28,18 @@
       }
     },
     {
+      "description": "Senate First Reading",
+      "date": "2026-07-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T17:48:22Z"
+      }
+    },
+    {
       "description": "Senate Final Reading",
       "date": "2026-07-20",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -37,6 +49,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-01T17:48:39Z"
+      }
+    },
+    {
+      "description": "HOUSE-JGO",
+      "date": "2026-07-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T17:48:22Z"
       }
     }
   ],
@@ -80,7 +104,7 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-01T17:48:39Z",
+    "logs_latest_update": "2026-09-03T17:48:22Z",
     "text_extraction_latest_update": "2026-09-01T17:49:40.814414Z"
   }
 }

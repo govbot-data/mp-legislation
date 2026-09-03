@@ -38,6 +38,18 @@
       "_processing": {
         "log_file_created": "2026-08-07T15:02:17Z"
       }
+    },
+    {
+      "description": "HOUSE-FFA\r\nHOUSE-T&I",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T17:48:22Z"
+      }
     }
   ],
   "sponsorships": [
@@ -80,7 +92,7 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-07T15:02:17Z",
+    "logs_latest_update": "2026-09-03T17:48:22Z",
     "text_extraction_unavailable": {
       "reason": "no_text_layer",
       "checked_at": "2026-08-23T12:29:26.772062Z"

@@ -28,6 +28,30 @@
       }
     },
     {
+      "description": "House First Reading",
+      "date": "2026-07-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T17:48:22Z"
+      }
+    },
+    {
+      "description": "House Final Reading",
+      "date": "2026-07-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T17:48:22Z"
+      }
+    },
+    {
       "description": "Senate First Reading",
       "date": "2026-02-04",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -52,15 +76,15 @@
       }
     },
     {
-      "description": "HOUSE-JGO",
-      "date": "2026-02-09",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "P.L. 24-37",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"executive\"}",
       "classification": [
-        "referral-committee"
+        "became-law"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:13Z"
+        "log_file_created": "2026-09-03T17:48:22Z"
       }
     }
   ],
@@ -86,10 +110,30 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "P.L. 24-37",
+      "links": [
+        {
+          "url": "https://cnmileg.net/documents/files/24TH%20UPDATE/PL%2024-37%20(SB%2024-38%20JOSE%20CAMACHO%20SABLAN%20BOATING%20SAFETY%20STATION).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "MP Public Laws",
+      "citation": "P.L. 24-37",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "https://cnmileg.net/leg_sts.asp?legID=19905&secID=2",
@@ -104,7 +148,7 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:13Z",
+    "logs_latest_update": "2026-09-03T17:48:22Z",
     "text_extraction_unavailable": {
       "reason": "no_text_layer",
       "checked_at": "2026-08-23T12:29:42.248051Z"
