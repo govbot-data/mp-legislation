@@ -82,8 +82,8 @@
   "_processing": {
     "logs_latest_update": "2026-09-08T17:54:28Z",
     "text_extraction_unavailable": {
-      "reason": "download_failed",
-      "checked_at": "2026-09-07T18:43:58.857437Z"
+      "reason": "no_text_layer",
+      "checked_at": "2026-09-08T17:55:27.972607Z"
     }
   }
 }
