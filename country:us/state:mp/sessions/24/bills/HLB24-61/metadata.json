@@ -26,6 +26,42 @@
       "_processing": {
         "log_file_created": "2026-08-31T19:57:11Z"
       }
+    },
+    {
+      "description": "House First Reading",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T18:23:39Z"
+      }
+    },
+    {
+      "description": "House Final Reading",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T18:23:39Z"
+      }
+    },
+    {
+      "description": "T.L.L. 24-12",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T18:23:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,6 +86,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "T.L.L. 24-12",
+      "links": [
+        {
+          "url": "https://cnmileg.net/documents/files/24TH%20UPDATE/TLL%2024-12%20(HLB%2024-61%20D1%20Poker%20Fee%20Appropriation).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -68,7 +115,7 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-31T19:57:11Z",
+    "logs_latest_update": "2026-09-23T18:23:39Z",
     "text_extraction_latest_update": "2026-08-31T19:58:28.408101Z"
   }
 }

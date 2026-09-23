@@ -52,6 +52,18 @@
       }
     },
     {
+      "description": "Senate Final Reading",
+      "date": "2026-08-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T18:23:39Z"
+      }
+    },
+    {
       "description": "Sent to Governor",
       "date": "2026-08-25",
       "organization_id": "~{\"classification\": \"executive\"}",
@@ -61,6 +73,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-01T17:48:39Z"
+      }
+    },
+    {
+      "description": "P.L. 24-38",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T18:23:39Z"
       }
     }
   ],
@@ -86,10 +110,30 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "P.L. 24-38",
+      "links": [
+        {
+          "url": "https://cnmileg.net/documents/files/24TH%20UPDATE/PL%2024-38%20(HB%2024-10%20Change%20of%20Name%20Procedure).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "MP Public Laws",
+      "citation": "P.L. 24-38",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "https://cnmileg.net/leg_sts.asp?legID=19851&secID=1",
@@ -104,7 +148,7 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-01T17:48:39Z",
+    "logs_latest_update": "2026-09-23T18:23:39Z",
     "text_extraction_unavailable": {
       "reason": "no_text_layer",
       "checked_at": "2026-09-16T18:08:59.148652Z"

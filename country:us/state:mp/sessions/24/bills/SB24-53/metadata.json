@@ -50,6 +50,18 @@
       "_processing": {
         "log_file_created": "2026-09-03T17:48:22Z"
       }
+    },
+    {
+      "description": "HOUSE-JGO",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T18:23:39Z"
+      }
     }
   ],
   "sponsorships": [
@@ -92,7 +104,7 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-03T17:48:22Z",
+    "logs_latest_update": "2026-09-23T18:23:39Z",
     "text_extraction_unavailable": {
       "reason": "no_text_layer",
       "checked_at": "2026-09-19T12:14:22.976216Z"
