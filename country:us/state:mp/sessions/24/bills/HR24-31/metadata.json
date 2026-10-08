@@ -16,15 +16,51 @@
   ],
   "actions": [
     {
+      "description": "Date Introduced",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-08T19:48:58Z"
+      }
+    },
+    {
+      "description": "House First Reading",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-08T19:48:58Z"
+      }
+    },
+    {
       "description": "House Final Reading",
-      "date": "2026-09-11",
+      "date": "2026-09-18",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-2"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-23T18:23:39Z"
+        "log_file_created": "2026-10-08T19:48:58Z"
+      }
+    },
+    {
+      "description": "Duly Adopted",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-10-08T19:48:58Z"
       }
     }
   ],
@@ -68,7 +104,7 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-23T18:23:39Z",
+    "logs_latest_update": "2026-10-08T19:48:58Z",
     "text_extraction_latest_update": "2026-09-23T18:25:00.937558Z"
   }
 }
