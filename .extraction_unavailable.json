@@ -1,12 +1,57 @@
 [
   {
-    "bill_id": "SR24-01",
+    "bill_id": "SCommRes24-04",
     "reason": "no_text_layer",
-    "metadata_file": "/home/runner/work/mp-legislation/mp-legislation/country:us/state:mp/sessions/24/bills/SR24-01/metadata.json"
+    "metadata_file": "/home/runner/work/mp-legislation/mp-legislation/country:us/state:mp/sessions/24/bills/SCommRes24-04/metadata.json"
+  },
+  {
+    "bill_id": "SCommRes24-08",
+    "reason": "no_text_layer",
+    "metadata_file": "/home/runner/work/mp-legislation/mp-legislation/country:us/state:mp/sessions/24/bills/SCommRes24-08/metadata.json"
+  },
+  {
+    "bill_id": "SCommRes24-03",
+    "reason": "no_text_layer",
+    "metadata_file": "/home/runner/work/mp-legislation/mp-legislation/country:us/state:mp/sessions/24/bills/SCommRes24-03/metadata.json"
   },
   {
     "bill_id": "SR24-08",
     "reason": "no_text_layer",
     "metadata_file": "/home/runner/work/mp-legislation/mp-legislation/country:us/state:mp/sessions/24/bills/SR24-08/metadata.json"
+  },
+  {
+    "bill_id": "SCommRes24-01",
+    "reason": "no_text_layer",
+    "metadata_file": "/home/runner/work/mp-legislation/mp-legislation/country:us/state:mp/sessions/24/bills/SCommRes24-01/metadata.json"
+  },
+  {
+    "bill_id": "SCommRes24-09",
+    "reason": "no_text_layer",
+    "metadata_file": "/home/runner/work/mp-legislation/mp-legislation/country:us/state:mp/sessions/24/bills/SCommRes24-09/metadata.json"
+  },
+  {
+    "bill_id": "SCommRes24-10",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/mp-legislation/mp-legislation/country:us/state:mp/sessions/24/bills/SCommRes24-10/metadata.json"
+  },
+  {
+    "bill_id": "SCommRes24-02",
+    "reason": "no_text_layer",
+    "metadata_file": "/home/runner/work/mp-legislation/mp-legislation/country:us/state:mp/sessions/24/bills/SCommRes24-02/metadata.json"
+  },
+  {
+    "bill_id": "SCommRes24-06",
+    "reason": "no_text_layer",
+    "metadata_file": "/home/runner/work/mp-legislation/mp-legislation/country:us/state:mp/sessions/24/bills/SCommRes24-06/metadata.json"
+  },
+  {
+    "bill_id": "SCommRes24-05",
+    "reason": "no_text_layer",
+    "metadata_file": "/home/runner/work/mp-legislation/mp-legislation/country:us/state:mp/sessions/24/bills/SCommRes24-05/metadata.json"
+  },
+  {
+    "bill_id": "SCommRes24-07",
+    "reason": "no_text_layer",
+    "metadata_file": "/home/runner/work/mp-legislation/mp-legislation/country:us/state:mp/sessions/24/bills/SCommRes24-07/metadata.json"
   }
 ]
