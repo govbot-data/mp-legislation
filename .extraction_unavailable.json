@@ -1,17 +1,7 @@
 [
   {
-    "bill_id": "SR24-19",
+    "bill_id": "SR24-07",
     "reason": "no_text_layer",
-    "metadata_file": "/home/runner/work/mp-legislation/mp-legislation/country:us/state:mp/sessions/24/bills/SR24-19/metadata.json"
-  },
-  {
-    "bill_id": "SJR24-06",
-    "reason": "no_text_layer",
-    "metadata_file": "/home/runner/work/mp-legislation/mp-legislation/country:us/state:mp/sessions/24/bills/SJR24-06/metadata.json"
-  },
-  {
-    "bill_id": "SB24-65",
-    "reason": "no_text_layer",
-    "metadata_file": "/home/runner/work/mp-legislation/mp-legislation/country:us/state:mp/sessions/24/bills/SB24-65/metadata.json"
+    "metadata_file": "/home/runner/work/mp-legislation/mp-legislation/country:us/state:mp/sessions/24/bills/SR24-07/metadata.json"
   }
 ]
