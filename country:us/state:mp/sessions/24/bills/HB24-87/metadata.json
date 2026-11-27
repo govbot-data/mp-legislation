@@ -29,14 +29,14 @@
     },
     {
       "description": "House First Reading",
-      "date": "2026-04-07",
+      "date": "2026-11-15",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "reading-1"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-26T05:01:37Z"
+        "log_file_created": "2026-11-27T20:11:44Z"
       }
     },
     {
@@ -92,7 +92,7 @@
     "division_id": "ocd-division/country:us/territory:mp"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-26T05:01:37Z",
+    "logs_latest_update": "2026-11-27T20:11:44Z",
     "text_extraction_latest_update": "2026-08-08T08:41:15.324565Z"
   }
 }

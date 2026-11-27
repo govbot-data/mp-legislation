@@ -1,0 +1,109 @@
+{
+  "legislative_session": "24",
+  "identifier": "HB 24-115",
+  "title": "To appropriate One Million, One Hundred Forty-Seven Thousand, One Hundred Thirteen Dollars ($1,147,113.00) allotted under 4 CMC \u00a71402; Three Million, Two Hundred Nine Thousand, Twenty Eight Dollars and Fifteen Cents ($3,209,028.15) allotted under 3 CMC \u00a72173; Two Million, Four Hundred Ninety-One Thousand, Nine Hundred Sixty-Three Dollars and Eighteen Cents ($2,491,963.18) from the FY2026 Excess Funds from the Medicaid Underruns; and Three Hundred Fifty-Three Thousand, One Hundred Sixty Dollars and Forty-Four Cents ($353,160.44) from the excess funds of the FEMA underruns; and for other purposes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mp-24-hb24115"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Date Introduced",
+      "date": "2026-11-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:11:44Z"
+      }
+    },
+    {
+      "description": "House First Reading",
+      "date": "2026-11-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:11:44Z"
+      }
+    },
+    {
+      "description": "House Final Reading",
+      "date": "2026-11-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:11:44Z"
+      }
+    },
+    {
+      "description": "Senate Final Reading",
+      "date": "2026-11-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:11:44Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Attao, BJT",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Attao, BJT\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB 24-115",
+      "links": [
+        {
+          "url": "https://cnmileg.net/documents/house/hse_bills/24/HB24-115.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://cnmileg.net/leg_sts.asp?legID=20161&secID=1",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:mp/government",
+    "name": "Northern Mariana Islands",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:mp"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-11-27T20:11:44Z"
+  }
+}
