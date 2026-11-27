@@ -1,0 +1,292 @@
+Title: 
+Official Title: 
+Source: versions - HB 24-111
+Media Type: application/pdf
+
+================================================================================
+
+TWENTY-FOURTH NORTHERN MARIANAS COMMONWEALTH
+LEGISLATURE
+IN THE HOUSE OF REPRESENTATIVES
+If
+Regular Session, 2026 H. B. 24- 1
+A BILL FOR AN ACT
+To amend 1 CMC, Division 6. Elections, specifically §§ 6213,
+6222, 6521(a), repeal and reenact 6524 and amend 6528(f); and
+for other purposes.
+BE IT ENACTED BY THE 24TH NORTHERN MARIANAS
+COMMONWEALTH LEGISLATURE:
+1 Section 1. Findings and Purpose. The Commonwealth Legislature fmds
+2 that amending several sections of the Northern Mariana Islands Election Law is
+3 necessary to provide clarity, consistency, and efficiency.
+4 The Commonwealth Legislature further finds that Public Law 21-34 signed
+5 into law on September 22, 2020, suspended certain CNMI elections laws for the
+6 CNMI 2020 General Election to mitigate public health risks due to the Covid-19
+7 Pandemic; adjusted the early voting time and added more polling places; extended
+8 the hours of operations for early voting and election day; authorized curbside voting
+9 and procedures; authorized the Commonwealth Election Commission (CEC) to
+10 collect absentee ballots 7 days before the general election and 14 days after; gave
+11 CEC flexibility to make changes to the election procedures if necessary to mitigate
+12 public health risks; and etc. PL 21-34 contained a sunset provision that
+
+HOUSE BILL 24- 111
+1 automatically expired on November 18, 2020, or after the certification of the CNMI
+2 2020 General Election Results, whichever was later.
+3 The Commonwealth Legislature finds that certain expired amendments
+4 proved beneficial and advantageous to the Commonwealth Election Commission.
+5 Section 6222, Early Voting, provides that polling places for early voting must
+6 remain open from 8:30 a.m. to 5:00 p.m. (instead of 4:00 p.m.) on weekdays,
+7 Saturdays, and holidays. Polling places may be closed on Sundays at the discretion
+8 of the Commonwealth Election Commission, and the Commission may amend
+9 voting days and hours as necessary to accommodate emergency early voting. In
+10 addition, to ensure the privacy of our voters, Section 6528. Polling Places, is
+11 amended to include language stating that "It is unlawful to carry or use electronic
+12 devices in the polling places or voting booth areas. Election officials may provide
+13 for the collection and return of electronic devices during the time a voter is casting
+14 a ballot."
+15 The Legislature intends to improve protections for our voters and ensure the
+16 Election Commission has the flexibility to carry out its function of ensuring a fair,
+17 honest, orderly, and impartial election process.
+18 Section 2. Amendment. Title 1, Division 6, Section 6213 of the
+19 Commonwealth Code is hereby amended to read as follows:
+2-
+
+HOUSE BILL 24- 11 I
+1 "§ 6213. Absentee Voting: Counting Ballots.
+2 (a) To be eligible to be counted, an absentee ballot shall be received
+3 by the Commission not later than the date of the election; provided that in
+4 the case of a runoff election an absentee ballot shall be postmarked no later
+5 than the day of the runoff election and shall be received by the Commission
+6 no later than fourteen days after the date of the runoff election. If the
+7 Commission is using a post office box for the receipt of absentee ballots, it
+8 shall remove all absentee ballots contained in the post office box as follows
+9 for such ballots to be deemed to have been received within the deadline:
+10 (1) No less than two persons, one of whom shall be
+11 designated by the Commission Chairperson and the other of whom
+12 shall be designated by the Executive Director, shall go to the
+13 designated post office in each senatorial district to collect absentee
+14 ballots commencing on the seventh day prior to the General Election
+15 and ending on the day of the General Election. The inside envelope
+16 containing the actual ballot shall not be opened and shall be
+17 processed in accordance with subsection (b), (c), (d)(1) through
+18 (d)(8)(e), and (h) of this section. Collection should occur4hey-are4e
+19 be counted:
+20 (i) once in the morning prior to 11:00 a.m. and once prior to
+21 the closure of the post office on the day of the election; and
+3
+
+HOUSE BILL 24- 11 I
+1 (ii) prior to the closure of the post office on the fourteenth
+2 day after a runoff election.
+3 (2) The reply envelopes shall not be opened but shall be
+4 postmarked as provided in subsection (b) and shall be deposited in
+5 a locked ballot box until processed by the Commission pursuant to
+6 subsection (c) through (i).
+7 (b) The date and time of receipt shall be noted on each return
+8 envelope.
+9 (c) The Commission, or two persons designated by the Commissions
+10 shall compare this signature of the voter on the application for absentee
+11 ballot with that signature on the affidavit and the registration. The
+12 Commission may begin such verification and processing upon receipt of the
+13 absentee ballot and prior to the close of polls on election day. If the
+14 signatures appear to be by the same person, if the affidavit is properly
+15 completed, and if the envelope is sealed and it does not appear to have been
+16 tampered with, the notation "OK" shall be placed on the return envelope
+17 and shall be initialed by the two persons designated by the Commission to
+18 process the absentee envelopes. No fewer than two persons designated by
+19 the Commission, and no fewer than five members of the Commission where
+20 required by Commission procedure, shall participate in the verification
+21 process.
+4-
+
+HOUSE BILL 24- 1 I
+1 (d) An absentee ballot may be rejected if:
+2 (1) After comparing the signature of the voter on the
+3 application for absentee ballot with that on the affidavit and
+4 registration, it appears the signatures were not made by the
+5 same person; or
+6 (2) The affidavit is not properly completed; or
+7 (3) The return envelope is not sealed; or
+8 (4) The seal appears to have been tampered with; or
+9 (5) The Commission has already received an absentee ballot
+10 from that person; or
+11 (6) The absentee voter has died or has otherwise become
+12 ineligible to vote on the election day; or
+13 (7) The ballot has been received after the deadline; or
+14 (8) The voter has not complied with 1 CMC § 6212 of this
+15 part. The Commission may conduct review and
+16 determination required by this subsection upon receipt of the
+17 ballot and prior to the close of polls, provided that no ballot
+18 shall be opened, counted, or tabulated unless authorized by
+19 this section.
+20 (e) If any of the conditions in subsection (d) of this section apply,
+21 then the word "rejected shall be printed on the return envelope along with
+5
+
+HOUSE BILL 24- 1 I
+1 a short statement of the reason for rejection. Two signatures of the persons
+2 designated by the Commission shall constitute verification of the
+3 discrepancy noted as the cause of the rejection Five—signatufes—ef-the
+4 Gemmissieniftembefs-eenstitute-a-vefifieatierref the-diserepaney-neted-as
+5 the cause for rejection. The rejected ballot may not be delivered to the
+6 accounting and tabulation committee, but shall be maintained in a secure
+7 place by the Commission for at least six months after the election. If the two
+8 persons designated by the Commission do not agree, the envelope shall be
+9 forwarded to the tabulating committee where a majority of the committee
+10 will vote to accept or reject the ballot. If the ballot is rejected, the reason for
+11 such rejection shall be written on the envelope. If it is accepted, it shall be
+12 counted. The Commission may complete the rejection review and marking
+13 process prior to the close of polls, provided the ballot remains sealed and
+14 secure.
+15 (0 The application for absentee ballot shall be attached to the
+16 corresponding ballot envelope, and the envelope shall not be opened. The
+17 attachment and retention of the application may occur at the time of
+18 verification or upon receipt of the absentee ballot.
+19 (g) A duplicate list shall be prepared in each election district of the
+20 names and addresses of the absentee voters as shown on return envelopes.
+21 The Commission may prepare and maintain the list on a rolling basis as
+6
+
+HOUSE BILL 24- 1 I 1
+1 absentee ballots are received and verified. The Commission shall maintain
+2 one copy of the list for at least one year from the election date.
+3 (h) The returned envelopes marked "OK," together with the
+4 application attached shall be delivered by the Commission to the
+5 accounting and tabulation committee as soon as practicable after
+6 verification and prior to, or on the day of the general election, or in the case
+7 of a runoff election, absentee ballots shall be postmarked no later than the
+8 date of the run-off election and be received by the Commission no later than
+9 fourteen days following the runoff election date, to be tabulated by the
+10 accounting and tabulation committee. Any absentee ballots verified before
+11 the close of polls may be securely retained and delivered in accordance with
+12 Commission procedure Dr as provided in this section.
+13 (i) Absentee ballots in the possession of the Commission on a runoff
+14 election day shall be processed, counted, and tabulated on the runoff
+15 election day, and reported pursuant to 1 CMC § 6524. Other runoff election
+16 absentee ballots shall be postmarked, received and counted as provided in
+17 this section. The Commission may begin verification and processing of
+18 runoff absentee ballots upon receipt and prior to the close of polls, provided
+19 that no ballot shall be opened or tabulated unless authorized by this section
+20 or applicable CEC procedure."
+7
+
+HOUSE BILL 24- 1 1 1
+1 Section 3. Amendment. Title 1, Division 6, Section 6222 of the
+2 Commonwealth Code is hereby amended to read as follows:
+3 "§ 6222. Early Voting: Period for Early Voting; Hours.
+4 (a) The period for early voting by personal appearance begins the
+5 7th day preceding an election and extends through the last day before
+6 election day; provided that the period for early voting for the Northern
+7 Islands begins on the 46th 7th day preceding the election and extends
+8 through the last day before the election at 4:00 p.m.
+9 (b) A permanent polling place for early voting must remain open
+10 during the hours of 8:30 a.m. to /1:00 p.m. 5:00 p.m. on weekdays and 8:30
+11 a.m. to /1:00 p.m. 5:00 p.m. on Saturdays, Sundays, and holidays; except
+12 that the Commission may extend the voting hours as necessary to
+13 accommodate emergency early voting. The Commission may also adjust
+14 staffing, operating days, or other administrative arrangements for early
+15 voting in the Northern Islands as necessary to reflect voter participation and
+16 promote efficient use of government resources.
+17 Section 4. Amendment. Title 1, Division 6, Section 6521(a) of the
+18 Commonwealth Code is hereby amended to read as follows:
+19 "§ 6521. Right to Cast Secret Ballot.
+20 (a) Each qualified voter has the right to cast a secret ballot in private.
+21 The Commission shall set up voting booths and places to guarantee that
+8
+
+HOUSE BILL 24- I I I
+1 each voter may vote in private. No person shall be allowed with a voter in
+2 a voting booth, except as provided by the Commission. Voting booths shall
+3 provide the voter with a fully enclosed space within which to vote. The use
+4 of cellular telephones, cameras, or any other electronic device capable of
+5 recording, photographing, or transmitting images or information is
+6 prohibited within voting booths."
+7 Section 5. Repeal and Reenact. Title 1, Division 6, Section 6524 of the
+8 Commonwealth Code is repealed and reenacted to read as follows:
+9 "§ 6524. Tabulation of Votes.
+10 The accounting and preparation of early voting ballots for tabulation may
+11 be conducted prior to the close of the polls in accordance with procedures
+12 established by the Commission, provided that no ballot shall be counted, tabulated,
+13 or the results disclosed before the time authorized by this section.
+14 (a) The accounting of early voting ballots may begin any time after early
+15 voting is closed and the counting and tabulation committee is formed.
+16 (b) The accounting of absentee ballots may begin after the first pickup of
+17 the ballots on the day of the election or runoff election, provided that the
+18 verification of received absentee ballots is completed.
+19 (c) The accounting of election day ballots shall begin after all the polls in
+20 each election district are closed and shall continue in any tabulating location
+21 specified by the Commission until all votes are counted.
+9
+-
+
+HOUSE BILL 24- I1
+1 (d) No person may be present in the vicinity of the counting and tabulation
+2 area, except that each political party may have not more than two observers in the
+3 area, and each candidate for partisan office not affiliated with a political party may
+4 have one observer in the area. When the ballots are in the counting and tabulation
+5 area, the area shall not be left unattended. There shall be a minimum of two election
+6 officials at all times, in addition to the two observers from each political party and
+7 the observers, if any, representing the independent candidate(s) standing for
+8 election to partisan office. For the purpose of this sub-subsection, "partisan office"
+9 includes Governor or Lieutenant Governor, Senator, Representative, Delegate to
+10 the United States, or Mayor.
+11 (e) Upon the completion of the counting and tabulation of all votes cast in
+12 the Commonwealth or local elective office, an official public announcement shall
+13 be made by the Commission, except that no official announcement of the results
+14 may be made for those offices in which a proceeding affecting ballots or the
+15 election results has been initiated until the legality of such issues raised in such
+16 proceeding affecting ballots or election results has been determined. As soon as is
+17 practicable after the tabulation of ballots is completed, the Commission shall issue
+18 certificates of election to the winning candidates for those Commonwealth or local
+19 elective offices in which no proceeding affecting ballots or election results has been
+20 initiated. The Commission may make periodic announcements of results during
+21 tabulating and counting.
+- 10 -
+
+HOUSE BILL 24- 1 I 1
+1 (1) The Board of Elections must publish the unofficial precinct results as
+2 soon as is practicable after the tabulation of the ballots is completed. For sub-
+3 precincts, the Board of Elections must publish the sub-precinct results as soon as is
+4 practicable after the tabulation of the ballots is completed."
+5 Section 6. Amendment. Title 1, Division 6, Section 6528 of the
+6 Commonwealth Code is hereby amended by adding a new subsection (f) to read as
+7 follows:
+8 "§ 6528. Polling Places: Three-hundred Foot Radius Prohibition
+9 of Campaign Activity.
+10 -(0 It is unlawful to carry or use electronic devices in the polling
+11 places or voting booth areas. Election officials shall collect and return
+12 electronic devices while a voter is casting a ballot. No person shall engage
+13 in campaign activity, electioneering, or other partisan conduct within three
+14 hundred feet of a polling place. The electronic prohibition, however, does
+15 not apply to election officials or authorized election personnel acting in the
+16 official performance of their duties.
+17 (al Any person who violates any provision of this section shall be
+18 fined not more than five hundred dollars or be imprisoned for not more than
+19 six months, or both. On a second offense or any succeeding offense, the
+20 penalty shall be a fine of not more than one thousand dollars or
+21 imprisonment for not more than one year, or both."
+-11-
+
+HOUSE BILL 24- 1
+1 Section 7. Severabilitv. If any provisions of this Act or the application of
+2 any such provision to any person or circumstance should be held invalid by a court
+3 of competent jurisdiction, the remainder of this Act or the application of its
+4 provisions to persons or circumstances other than those to which it is held invalid
+5 shall not be affected thereby.
+6 Section 8. Savings Clause. This Act and any repealer contained herein
+7 shall not be construed as affecting any existing right acquired under contract or
+8 acquired under statutes repealed or under any rule, regulation, or order adopted
+9 under the statutes. Repealers contained in this Act shall not affect any proceeding
+10 instituted under or pursuant to prior law. The enactment of the Act shall not have
+11 the effect of terminating, or in any way modifying, any liability, civil or criminal,
+12 which shall already be in existence on the date this Act becomes effective.
+13 Section 9. Effective Date. This Act shall take effect upon its approval by
+14 the Governor, or it becoming law without such approval.
+4v2-,
+Prefiled: /0/62
+(90/ 202*oduced
+Date: by:
+Rep. oy Christopher A. Ada
+for legal suffi y by:
+Legal Coun
+- 12 -
